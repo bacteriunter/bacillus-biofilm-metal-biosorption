@@ -1,0 +1,16 @@
+Section,Characteristic,Value
+Genomic dataset,Genomes analyzed,638
+Genomic dataset,Species represented,123
+Genomic dataset,"Genomes per species, median (range)",2.0 (1–19)
+Assembly characteristics,Assembly level: Chromosome,10 (1.6%)
+Assembly characteristics,Assembly level: Complete Genome,239 (37.5%)
+Assembly characteristics,Assembly level: Contig,139 (21.8%)
+Assembly characteristics,Assembly level: Scaffold,250 (39.2%)
+Assembly quality,"Completeness, median (IQR), %",99.12 (98.78–99.41)
+Assembly quality,"Contamination, median (IQR), %",0.29 (0.12–0.69)
+Functional screening,Reference protein sequences,99
+Functional screening,Functional marker labels,53
+Functional screening,Functional groups,6
+Functional screening,Genomes with at least one filtered hit,638
+Functional screening,Maximum E-value,1e-05
+Functional screening,Minimum query coverage,0.7

@@ -1,0 +1,878 @@
+assembly_accession	species	strain	biosample	bioproject	assembly_level	refseq_category	checkm_completeness	checkm_contamination	total_sequence_length	contig_n50	release_date	phenotype_candidate	decision	reason	selection_rank
+GCF_039581685.1	Bacillus aerius	McG-3	SAMN41074328	PRJNA1104282	Contig		99.12	0.29	3718211	540547	2024-05-08	no	selected	species_quality_rank	1
+GCF_029894105.1	Bacillus aerius	24K	SAMN28058269	PRJNA834366	Contig	reference genome	98.48	0.29	3899111	3887393	2023-04-28	no	selected	species_quality_rank	2
+GCF_009183655.1	Bacillus aerolatus	CX253	SAMN12993151	PRJNA576393	Contig	reference genome	99.24	1.18	3929195	361555	2019-10-19	no	selected	species_quality_rank	1
+GCF_021560155.1	Bacillus aerophilus	KJ82	SAMN25028239	PRJNA797710	Complete Genome		98.82	0.59	3754440	3754440	2022-01-24	no	selected	species_quality_rank	1
+GCF_030385675.1	Bacillus aerophilus	ET127	SAMN34359445	PRJNA377666	Contig		99.12	0.29	3805603	206761	2023-07-02	no	selected	species_quality_rank	2
+GCF_019693775.1	Bacillus aerophilus	AFE517_S1	SAMN10935829	PRJNA522370	Contig		98.33	0.2	3817687	451297	2021-08-19	no	selected	species_quality_rank	3
+GCF_056140555.1	Bacillus albus	ARBT	SAMN52879566	PRJNA1347999	Complete Genome		99.41	0.1	5853368	5297156	2026-03-20	no	selected	species_quality_rank	1
+GCF_056110285.1	Bacillus albus	MY-7	SAMN54622646	PRJNA1403212	Complete Genome		99.41	0.1	5269880	5190111	2026-03-19	no	selected	species_quality_rank	2
+GCF_057418645.1	Bacillus albus	JS1	SAMN42352349	PRJNA1132683	Complete Genome		99.41	0.15	5884407	5297094	2026-05-12	no	selected	species_quality_rank	3
+GCF_030292135.1	Bacillus albus	SXL388	SAMN34375029	PRJNA960711	Complete Genome	reference genome	98.82	0.1	5889853	5349717	2023-06-20	no	selected	species_quality_rank	4
+GCF_036287315.1	Bacillus albus	YK87	SAMN39439834	PRJNA1064682	Complete Genome		98.82	0.1	5862124	5347990	2024-01-24	no	selected	species_quality_rank	5
+GCF_056312675.1	Bacillus albus	Tu67	SAMN56523418	PRJNA1437855	Complete Genome		98.82	0.1	5866285	5318733	2026-03-25	no	selected	species_quality_rank	6
+GCF_009740005.1	Bacillus albus	DLOU-Yingkou	SAMN10739311	PRJNA515150	Complete Genome		98.63	0.1	5855605	5298275	2019-12-11	no	selected	species_quality_rank	7
+GCF_050458565.1	Bacillus albus	BD-405	SAMN41009349	PRJNA802201	Scaffold		99.41	0.1	5139035	554996	2025-05-19	no	selected	species_quality_rank	8
+GCF_061236725.1	Bacillus albus	TSL19-1	SAMD01909757	PRJDB42103	Scaffold		99.41	0.1	5768340	325951	2026-09-05	no	selected	species_quality_rank	9
+GCF_011751595.1	Bacillus albus	B-13	SAMN13865276	PRJNA597262	Scaffold		99.41	0.1	5760676	160637	2020-03-25	no	selected	species_quality_rank	10
+GCF_060052645.1	Bacillus albus	LHMT010	SAMN50431411	PRJNA1298570	Scaffold		99.41	0.29	5829593	208957	2026-08-12	no	selected	species_quality_rank	11
+GCF_011751575.1	Bacillus albus	B-9	SAMN13864946	PRJNA597261	Scaffold		99.33	0.1	5371297	200390	2020-03-25	no	selected	species_quality_rank	12
+GCF_014926245.2	Bacillus albus	R2AA77	SAMN14829702	PRJNA630272	Scaffold		98.82	0.15	5843889	298334	2023-02-20	no	selected	species_quality_rank	13
+GCF_028462395.1	Bacillus albus	CWTS 10	SAMN32946367	PRJNA928874	Scaffold		98.82	0.15	5843889	298334	2023-02-04	no	selected	species_quality_rank	14
+GCF_965139005.1	Bacillus albus	CIP111456T	SAMEA117660583	PRJEB85433	Scaffold		98.82	0.18	5824526	208753	2025-02-13	no	selected	species_quality_rank	15
+GCF_042137835.1	Bacillus albus	SP1	SAMN43781995	PRJNA1161477	Contig		99.41	0.1	5762246	441749	2024-09-21	no	selected	species_quality_rank	16
+GCF_037120745.1	Bacillus albus	BC028	SAMN40211128	PRJNA1082486	Contig		99.41	0.1	6039072	355565	2024-03-12	no	selected	species_quality_rank	17
+GCF_050458465.1	Bacillus albus	BD-412	SAMN41009352	PRJNA802201	Contig		99.41	0.1	5138208	314776	2025-05-19	no	selected	species_quality_rank	18
+GCF_050455945.1	Bacillus albus	NRS-1058	SAMN41009478	PRJNA802201	Contig		99.41	0.1	5785070	279229	2025-05-19	no	selected	species_quality_rank	19
+GCF_018916635.1	Bacillus albus	O-24	SAMN19374087	PRJNA733006	Contig		99.41	0.1	6043853	275530	2021-06-16	no	selected	species_quality_rank	20
+GCF_002797415.1	Bacillus alkalisoli	FJAT-45122	SAMN07212112	PRJNA390018	Scaffold	reference genome	96.57	0.81	3897731	2280791	2017-11-28	no	selected	species_quality_rank	1
+GCF_028462265.1	Bacillus altitudinis	C10-4	SAMN32951883	PRJNA929095	Contig		99.12	0.59	3679170	980975	2023-02-04	yes	selected	phenotype_identifier_priority	1
+GCF_045819965.1	Bacillus altitudinis	SF5	SAMN44602249	PRJNA1182677	Complete Genome		99.12	0.01	3768373	3760623	2024-12-09	no	selected	species_quality_rank	2
+GCF_022700755.1	Bacillus altitudinis	N435-3	SAMN16580015	PRJNA672857	Complete Genome		99.12	0.1	3937910	3937910	2022-03-28	no	selected	species_quality_rank	3
+GCF_058626435.1	Bacillus altitudinis	B5	SAMN46047094	PRJNA1205355	Complete Genome		99.12	0.29	4044559	3922809	2026-06-30	no	selected	species_quality_rank	4
+GCF_030011555.1	Bacillus altitudinis	Sample7_7	SAMN34046341	PRJNA949442	Complete Genome		99.12	0.29	3950658	3909702	2023-05-14	no	selected	species_quality_rank	5
+GCF_004563755.2	Bacillus altitudinis	CHB19	SAMN10857349	PRJNA518753	Complete Genome		99.12	0.29	3867833	3867833	2019-09-12	no	selected	species_quality_rank	6
+GCF_060810765.1	Bacillus altitudinis	PP1	SAMN62284982	PRJNA1510170	Complete Genome		99.12	0.29	3862333	3862333	2026-09-04	no	selected	species_quality_rank	7
+GCF_979925135.1	Bacillus altitudinis		SAMEA118781422	PRJEB93985	Complete Genome		99.12	0.29	3816522	3816522	2026-02-16	no	selected	species_quality_rank	8
+GCF_035580465.1	Bacillus altitudinis	ECC22	SAMN38087916	PRJNA1035429	Complete Genome		99.12	0.29	3807059	3807059	2024-01-10	no	selected	species_quality_rank	9
+GCF_017948365.1	Bacillus altitudinis	6ww6	SAMN18642715	PRJNA720234	Complete Genome		99.12	0.29	3804206	3804206	2021-04-14	no	selected	species_quality_rank	10
+GCF_030123125.1	Bacillus altitudinis	G6S2	SAMN34374888	PRJNA960711	Complete Genome		99.12	0.29	3797173	3797173	2023-05-27	no	selected	species_quality_rank	11
+GCF_001431145.1	Bacillus altitudinis	NJ-M2	SAMN03940121	PRJNA291126	Complete Genome		99.12	0.29	3793419	3793419	2015-11-04	no	selected	species_quality_rank	12
+GCF_001700735.1	Bacillus altitudinis	NJ-V	SAMN03965497	PRJNA292143	Complete Genome		99.12	0.29	3792999	3792999	2016-08-08	no	selected	species_quality_rank	13
+GCF_037094775.1	Bacillus altitudinis	JJ1138	SAMN40001714	PRJNA1078443	Complete Genome		99.12	0.29	3789245	3789245	2024-03-10	no	selected	species_quality_rank	14
+GCF_001431785.1	Bacillus altitudinis	NJ-V2	SAMN04009761	PRJNA293775	Complete Genome		99.12	0.29	3787818	3787818	2015-11-04	no	selected	species_quality_rank	15
+GCF_059379545.1	Bacillus altitudinis	YNDS1	SAMN61190251	PRJNA1483760	Complete Genome		99.12	0.29	3777436	3777436	2026-07-14	no	selected	species_quality_rank	16
+GCF_037094765.1	Bacillus altitudinis	JJ61	SAMN40001743	PRJNA1078443	Complete Genome		99.12	0.29	3775200	3775200	2024-03-10	no	selected	species_quality_rank	17
+GCF_055694145.1	Bacillus altitudinis	M69	SAMN54251676	PRJNA1392179	Complete Genome		99.12	0.29	3774239	3774239	2026-03-06	no	selected	species_quality_rank	18
+GCF_015160895.1	Bacillus altitudinis	BIM B-263	SAMN16494637	PRJNA670367	Complete Genome		99.12	0.29	3763717	3763717	2020-11-01	no	selected	species_quality_rank	19
+GCF_030166595.1	Bacillus altitudinis	KRS010	SAMN34993435	PRJNA970053	Complete Genome		99.12	0.29	3753708	3753708	2023-06-05	no	selected	species_quality_rank	20
+GCF_013122255.1	Bacillus amyloliquefaciens	WF02	SAMN14897115	PRJNA631938	Complete Genome		98.46	1.02	4026648	4026648	2020-05-19	no	selected	species_quality_rank	1
+GCF_046267865.1	Bacillus amyloliquefaciens	MEPW12	SAMN45068930	PRJNA1191074	Complete Genome		98.34	0.77	3928046	3928046	2024-12-24	no	selected	species_quality_rank	2
+GCF_017357905.1	Bacillus amyloliquefaciens	GXU-1	SAMN16868982	PRJNA679991	Complete Genome		98.31	0.77	3976083	3976083	2021-03-16	no	selected	species_quality_rank	3
+GCF_021233135.1	Bacillus amyloliquefaciens	LS1-002-014s	SAMN23838691	PRJNA787446	Complete Genome		98.26	0.94	4222406	4214996	2021-12-20	no	selected	species_quality_rank	4
+GCF_001874385.1	Bacillus amyloliquefaciens	Y14	SAMN05969227	PRJNA352297	Complete Genome		98.23	0.88	3957164	3957164	2016-11-10	no	selected	species_quality_rank	5
+GCF_055454115.1	Bacillus amyloliquefaciens	HMDUC-58	SAMN55231218	PRJNA1420476	Complete Genome		98.2	0.47	3942558	3942558	2026-02-24	no	selected	species_quality_rank	6
+GCF_036347615.1	Bacillus amyloliquefaciens	HX0037	SAMN38562212	PRJNA863381	Complete Genome		98.11	0.97	3887947	3887947	2024-02-03	no	selected	species_quality_rank	7
+GCF_014622745.1	Bacillus amyloliquefaciens	T-5	SAMN15951545	PRJNA660531	Complete Genome		98.11	1.02	4036119	4036119	2020-09-14	no	selected	species_quality_rank	8
+GCF_015999565.1	Bacillus amyloliquefaciens	DGL1	SAMN16976109	PRJNA681947	Complete Genome		98.1	0.44	3915550	3915550	2020-12-13	no	selected	species_quality_rank	9
+GCF_023115375.1	Bacillus amyloliquefaciens	GL18	SAMN27628424	PRJNA828015	Complete Genome		98.1	0.44	3915550	3915550	2022-04-26	no	selected	species_quality_rank	10
+GCF_000494835.1	Bacillus amyloliquefaciens	CC178	SAMN02603639	PRJNA224754	Complete Genome		98.09	0.44	3916828	3916828	2013-11-01	no	selected	species_quality_rank	11
+GCF_043189205.1	Bacillus amyloliquefaciens	HN11	SAMN44080948	PRJNA1169664	Complete Genome		98.09	0.44	3906077	3906077	2024-10-15	no	selected	species_quality_rank	12
+GCF_008534375.1	Bacillus amyloliquefaciens	DH8030	SAMN12257600	PRJNA554205	Complete Genome		98.09	1.02	3993985	3993985	2019-09-18	no	selected	species_quality_rank	13
+GCF_054131895.1	Bacillus amyloliquefaciens	FS6	SAMN22826121	PRJNA776967	Complete Genome		98.02	0.75	3929780	3929780	2025-12-23	no	selected	species_quality_rank	14
+GCF_023238285.1	Bacillus amyloliquefaciens	A15.1	SAMN27761608	PRJNA831700	Complete Genome		98.02	0.75	3929584	3929584	2022-05-04	no	selected	species_quality_rank	15
+GCF_060123785.1	Bacillus amyloliquefaciens	B1408	SAMN62102502	PRJNA1505758	Complete Genome		98.02	0.75	3899897	3899897	2026-08-16	no	selected	species_quality_rank	16
+GCF_054816535.1	Bacillus amyloliquefaciens	D-1	SAMN51803990	PRJNA1333658	Complete Genome		98.02	0.77	3980777	3980777	2026-01-28	no	selected	species_quality_rank	17
+GCF_029278325.1	Bacillus amyloliquefaciens	MG-2	SAMN33693476	PRJNA942491	Complete Genome		98.02	0.8	3942038	3942038	2023-03-20	no	selected	species_quality_rank	18
+GCF_026684155.1	Bacillus amyloliquefaciens	WH1	SAMN31888780	PRJNA906008	Complete Genome		98.02	0.8	3929790	3929790	2022-12-06	no	selected	species_quality_rank	19
+GCF_051174885.1	Bacillus amyloliquefaciens	LJ1	SAMN48975269	PRJNA1274138	Complete Genome		98.02	1.19	3947365	3947365	2025-07-02	no	selected	species_quality_rank	20
+GCF_001244735.1	Bacillus andreraoultii	SIT1	SAMEA3479398	PRJEB9816	Scaffold	reference genome	97.01	1.85	4111990	269004	2015-07-30	no	selected	species_quality_rank	1
+GCF_039639775.1	Bacillus anthracis	Sterne-CLR1-2	SAMN40399307	PRJNA1086569	Complete Genome		98.76	0.4	5410494	5228860	2024-05-14	no	selected	species_quality_rank	1
+GCF_039637345.1	Bacillus anthracis	Sterne-CLR2-13	SAMN40399310	PRJNA1086569	Complete Genome		98.76	0.4	5410485	5228851	2024-05-14	no	selected	species_quality_rank	2
+GCF_039639755.1	Bacillus anthracis	Sterne-CLR2-11	SAMN40399309	PRJNA1086569	Complete Genome		98.76	0.4	5410482	5228848	2024-05-14	no	selected	species_quality_rank	3
+GCF_039637115.1	Bacillus anthracis	Sterne-CLR2-46	SAMN40399311	PRJNA1086569	Complete Genome		98.76	0.4	5410479	5228845	2024-05-14	no	selected	species_quality_rank	4
+GCF_002356575.1	Bacillus anthracis	Shikan-NIID	SAMD00026520	PRJDB3549	Complete Genome		98.76	0.4	5504652	5228065	2015-05-15	no	selected	species_quality_rank	5
+GCF_000833065.1	Bacillus anthracis	Ames	SAMN03201418	PRJNA238045	Complete Genome		98.76	0.4	5503972	5227467	2015-02-05	no	selected	species_quality_rank	6
+GCF_024396795.1	Bacillus anthracis	CVCC40205	SAMN27777120	PRJNA832097	Complete Genome		98.76	0.4	5408057	5226424	2022-07-25	no	selected	species_quality_rank	7
+GCF_036884865.1	Bacillus anthracis	CVCC40205	SAMN39999450	PRJNA1078406	Complete Genome		98.76	0.4	5408050	5226417	2024-02-27	no	selected	species_quality_rank	8
+GCF_000832425.1	Bacillus anthracis	PAK-1	SAMN03010430	PRJNA237808	Complete Genome		98.76	0.4	5403381	5221627	2015-02-05	no	selected	species_quality_rank	9
+GCF_022221045.1	Bacillus anthracis	A27	SAMN13164726	PRJNA695105	Complete Genome		98.76	0.48	5506783	5230210	2022-02-14	no	selected	species_quality_rank	10
+GCF_022220525.1	Bacillus anthracis	A29	SAMN13164728	PRJNA695105	Complete Genome		98.76	0.48	5506528	5229955	2022-02-14	no	selected	species_quality_rank	11
+GCF_022220645.1	Bacillus anthracis	A87	SAMN13164731	PRJNA695105	Complete Genome		98.76	0.48	5506261	5229688	2022-02-14	no	selected	species_quality_rank	12
+GCF_056033965.1	Bacillus anthracis	ter21	SAMN50683810	PRJNA1308119	Complete Genome		98.76	0.48	5505950	5229480	2026-03-18	no	selected	species_quality_rank	13
+GCF_022220505.1	Bacillus anthracis	A182	SAMN13164746	PRJNA695105	Complete Genome		98.76	0.48	5505898	5229323	2022-02-14	no	selected	species_quality_rank	14
+GCF_022220945.1	Bacillus anthracis	A166	SAMN13164734	PRJNA695105	Complete Genome		98.76	0.48	5505780	5229216	2022-02-14	no	selected	species_quality_rank	15
+GCF_022221225.1	Bacillus anthracis	Pollino 3734	SAMN18241467	PRJNA695105	Complete Genome		98.76	0.48	5505497	5228919	2022-02-14	no	selected	species_quality_rank	16
+GCF_039639785.1	Bacillus anthracis	Sterne-CLR1-12	SAMN40399306	PRJNA1086569	Complete Genome		98.76	0.48	5410494	5228860	2024-05-14	no	selected	species_quality_rank	17
+GCF_039639765.1	Bacillus anthracis	Sterne-CLR1-32	SAMN40399308	PRJNA1086569	Complete Genome		98.76	0.48	5410489	5228855	2024-05-14	no	selected	species_quality_rank	18
+GCF_000512835.2	Bacillus anthracis	A16	SAMN02641483	PRJNA40303	Complete Genome		98.76	0.48	5505446	5228842	2016-11-01	no	selected	species_quality_rank	19
+GCF_022220545.1	Bacillus anthracis	3016	SAMN13164732	PRJNA695105	Complete Genome		98.76	0.48	5323525	5228841	2022-02-14	no	selected	species_quality_rank	20
+GCF_013867695.1	Bacillus aquiflavi	s-12	SAMN15579846	PRJNA647640	Scaffold		97.5	0.94	3616678	67030	2020-07-28	no	selected	species_quality_rank	1
+GCF_011008855.1	Bacillus aquiflavi	3H-10	SAMN14089840	PRJNA606386	Contig		97.5	0.94	3616560	65076	2020-02-25	no	selected	species_quality_rank	2
+GCF_056930235.1	Bacillus arachidis	31_S168	SAMN54924807	PRJNA1415180	Contig		98.82	0.59	5243372	5040601	2026-04-27	no	selected	species_quality_rank	1
+GCF_041296505.1	Bacillus atrophaeus	globigii	SAMN42945647	PRJNA1142546	Complete Genome		99.12	0.01	4175492	4175492	2024-08-15	no	selected	species_quality_rank	1
+GCF_001597265.1	Bacillus atrophaeus	ATCC 49760	SAMN04539622	PRJNA314703	Complete Genome		99.12	0.01	4175482	4175482	2016-03-25	no	selected	species_quality_rank	2
+GCF_000165925.1	Bacillus atrophaeus	1942	SAMN01816415	PRJNA46075	Complete Genome		99.12	0.01	4168266	4168266	2010-11-02	no	selected	species_quality_rank	3
+GCF_056632445.1	Bacillus atrophaeus	1942	SAMN50220376	PRJNA1130923	Complete Genome		99.12	0.01	4168266	4168266	2026-04-08	no	selected	species_quality_rank	4
+GCF_002173495.1	Bacillus atrophaeus	SRCM101359	SAMN07125920	PRJNA386751	Complete Genome		99.12	0.59	4180819	4180819	2017-06-06	no	selected	species_quality_rank	5
+GCF_018140555.1	Bacillus atrophaeus	CNY01	SAMN18793431	PRJNA722792	Complete Genome		99.12	0.59	4144521	4144521	2021-04-26	no	selected	species_quality_rank	6
+GCF_039519175.1	Bacillus atrophaeus	SW	SAMN41078598	PRJNA1104434	Complete Genome	reference genome	99.12	1.18	4292910	4274934	2024-05-06	no	selected	species_quality_rank	7
+GCF_002243495.1	Bacillus atrophaeus	GQJK17	SAMN07430096	PRJNA396635	Complete Genome		98.92	0.6	4325818	4325818	2017-08-08	no	selected	species_quality_rank	8
+GCF_029581095.1	Bacillus atrophaeus	MBLB1156	SAMN33848919	PRJNA947363	Complete Genome		97.85	0.59	4154062	4154062	2023-04-04	no	selected	species_quality_rank	9
+GCF_000742675.1	Bacillus atrophaeus	BSS	SAMN02740987	PRJNA243596	Chromosome		99.12	0.01	4175060	4174560	2014-08-21	no	selected	species_quality_rank	10
+GCF_051131565.1	Bacillus atrophaeus	SK3	SAMN38636027	PRJNA779589	Chromosome		97.98	0.22	4207274	4161074	2023-12-26	no	selected	species_quality_rank	11
+GCF_000385965.2	Bacillus atrophaeus	UCMB-5137	SAMN02471930	PRJNA176685	Chromosome		96.76	0.59	4064321	1036387	2015-06-11	no	selected	species_quality_rank	12
+GCF_003003645.1	Bacillus atrophaeus	CKL1	SAMN08647208	PRJNA436554	Scaffold		99.41	0.59	4281282	1011180	2018-03-15	no	selected	species_quality_rank	13
+GCF_000743235.1	Bacillus atrophaeus	PCI 246	SAMN02741431	PRJNA243867	Scaffold		99.12	0.01	4154887	3251195	2014-08-26	no	selected	species_quality_rank	14
+GCF_003003625.1	Bacillus atrophaeus	TS1	SAMN08647223	PRJNA436554	Scaffold		99.12	0.01	4102978	1052072	2018-03-15	no	selected	species_quality_rank	15
+GCF_036225025.1	Bacillus atrophaeus	NRS-223	SAMN33941023	PRJNA802201	Scaffold		99.12	0.01	4189007	1011917	2024-01-27	no	selected	species_quality_rank	16
+GCF_036225085.1	Bacillus atrophaeus	NRS-216	SAMN33941019	PRJNA802201	Scaffold		99.12	0.01	4155290	490024	2024-01-27	no	selected	species_quality_rank	17
+GCF_036222085.1	Bacillus atrophaeus	NRS-651	SAMN33941074	PRJNA802201	Scaffold		99.12	0.15	4189785	141438	2024-01-26	no	selected	species_quality_rank	18
+GCF_026795615.1	Bacillus atrophaeus	T8C4	SAMN26000019	PRJNA806940	Scaffold		99.12	0.29	4366864	753687	2022-12-09	no	selected	species_quality_rank	19
+GCF_026794575.1	Bacillus atrophaeus	CK303A-2m	SAMN25999652	PRJNA806940	Scaffold		99.12	0.29	4119323	622571	2022-12-09	no	selected	species_quality_rank	20
+GCF_047314925.1	Bacillus australimaris	PWG	SAMN44802320	PRJNA1187766	Contig		98.92	0.29	3771344	1899222	2025-01-29	no	selected	species_quality_rank	1
+GCF_001307105.1	Bacillus australimaris	NH7I_1	SAMN03892176	PRJNA290467	Contig	reference genome	98.92	0.29	3649005	482618	2015-10-06	no	selected	species_quality_rank	2
+GCF_018200265.1	Bacillus australimaris	B28A	SAMN18571126	PRJNA670955	Contig		98.92	0.29	3649005	482618	2021-04-29	no	selected	species_quality_rank	3
+GCF_062039226.1	Bacillus ayatagriensis	CRRU18	SAMN63712172	PRJNA1537927	Contig		99.41	0.07	3961932	979171	2026-10-13	no	selected	species_quality_rank	1
+GCF_062037584.1	Bacillus ayatagriensis	BSS.246	SAMN61456770	PRJNA1491313	Contig		98.56	0.01	4010786	2090753	2026-10-13	no	selected	species_quality_rank	2
+GCF_056856795.1	Bacillus basilensis	MS11	SAMN57193759	PRJNA1451460	Complete Genome	reference genome	99.41	0.01	6225759	5438033	2026-04-23	no	selected	species_quality_rank	1
+GCF_060052385.1	Bacillus basilensis	LHMT228	SAMN50431417	PRJNA1298570	Scaffold		99.41	0.34	6161470	251054	2026-08-12	no	selected	species_quality_rank	2
+GCF_060051555.1	Bacillus basilensis	LTT035	SAMN50431440	PRJNA1298570	Scaffold		98.82	2.53	6462467	140584	2026-08-12	no	selected	species_quality_rank	3
+GCF_059267365.1	Bacillus basilensis	CH399	SAMN18336064	PRJNA715191	Contig		98.24	0.15	5941631	11155	2026-07-11	no	selected	species_quality_rank	4
+GCF_019753385.1	Bacillus bingmayongensis	P86	SAMN20822653	PRJNA755349	Scaffold		99.31	0.6	5887059	102705	2021-08-25	no	selected	species_quality_rank	1
+GCF_000299035.1	Bacillus bingmayongensis	FJAT-13831	SAMN02469796	PRJNA161659	Scaffold	reference genome	99.02	0.59	5477100	567733	2012-09-24	no	selected	species_quality_rank	2
+GCF_034427855.1	Bacillus bingmayongensis	BUPM19	SAMN38378306	PRJNA1044274	Contig		99.31	0.59	5459685	59899	2023-12-17	no	selected	species_quality_rank	3
+GCF_000831065.1	Bacillus bombysepticus	wang	SAMN02691825	PRJNA242213	Complete Genome		99.41	0.07	5873592	5295783	2014-04-17	no	selected	species_quality_rank	1
+GCF_030272035.1	Bacillus bombysepticus	ACCC01970	SAMN34375000	PRJNA960711	Complete Genome		99.33	0.1	5395829	5395829	2023-06-14	no	selected	species_quality_rank	2
+GCF_023824075.1	Bacillus bombysepticus	F12	SAMN22304412	PRJNA770896	Complete Genome		99.12	0.05	5870776	5244749	2022-06-21	no	selected	species_quality_rank	3
+GCF_049543715.1	Bacillus bombysepticus	NPDC101868	SAMN43998342	PRJNA1106891	Scaffold		99.41	0.07	5820567	316089	2025-04-12	no	selected	species_quality_rank	4
+GCF_049534995.1	Bacillus bombysepticus	NPDC101474	SAMN46054659	PRJNA1106891	Scaffold		99.41	0.07	5835454	181770	2025-04-12	no	selected	species_quality_rank	5
+GCF_049543415.1	Bacillus bombysepticus	NPDC097820	SAMN43998148	PRJNA1106891	Scaffold		99.41	0.2	5784262	225945	2025-04-12	no	selected	species_quality_rank	6
+GCF_030062185.1	Bacillus bombysepticus	2O-3	SAMN34894824	PRJNA968033	Scaffold		99.41	3.17	6076719	319874	2023-05-22	no	selected	species_quality_rank	7
+GCF_045370175.1	Bacillus bombysepticus	179-F 6A3 NHS	SAMN44342462	PRJNA1136423	Scaffold		99.38	1.76	5633028	217637	2024-11-26	no	selected	species_quality_rank	8
+GCF_049543315.1	Bacillus bombysepticus	NPDC093186	SAMN43997900	PRJNA1106891	Scaffold		99.24	0.59	6043979	96495	2025-04-12	no	selected	species_quality_rank	9
+GCF_049543515.1	Bacillus bombysepticus	NPDC096627	SAMN43998074	PRJNA1106891	Scaffold		98.82	0.12	6116332	412819	2025-04-12	no	selected	species_quality_rank	10
+GCF_030062235.1	Bacillus bombysepticus	2D2-5	SAMN34894822	PRJNA968030	Scaffold		98.82	0.14	5969053	335855	2023-05-22	no	selected	species_quality_rank	11
+GCF_030062175.1	Bacillus bombysepticus	2D3-3	SAMN35004863	PRJNA968031	Scaffold		98.82	0.35	5968101	333245	2023-05-22	no	selected	species_quality_rank	12
+GCF_058245515.1	Bacillus bombysepticus	UF-342	SAMN50669829	PRJNA1307595	Contig		99.41	0.29	6034902	211433	2026-06-16	no	selected	species_quality_rank	13
+GCF_030348965.1	Bacillus bombysepticus	ACCC04323	SAMN34375002	PRJNA960711	Contig		99.41	1.57	5893783	5303651	2023-06-27	no	selected	species_quality_rank	14
+GCF_060512505.1	Bacillus bombysepticus	1P05SB	SAMN46747651	PRJNA1048065	Contig		99.12	0.1	5500123	5368471	2026-08-27	no	selected	species_quality_rank	15
+GCF_060513965.1	Bacillus bombysepticus	1P05AD	SAMN46747565	PRJNA1048065	Contig		99.12	0.1	5500116	5368464	2026-08-27	no	selected	species_quality_rank	16
+GCF_060513405.1	Bacillus bombysepticus	1P05AnB	SAMN46747609	PRJNA1048065	Contig		98.92	0.1	5500125	5368473	2026-08-27	no	selected	species_quality_rank	17
+GCF_058245305.1	Bacillus bombysepticus	UF-447	SAMN50669843	PRJNA1307595	Contig		98.82	0.15	5882133	152857	2026-06-16	no	selected	species_quality_rank	18
+GCF_050474025.1	Bacillus bombysepticus	S3	SAMN41397043	PRJNA1109761	Contig		98.82	0.44	6125007	5331530	2025-05-20	no	selected	species_quality_rank	19
+GCF_037144555.1	Bacillus bombysepticus	USHLN022	SAMN37642971	PRJNA1023190	Contig		98.82	3.58	6945276	317092	2024-03-14	no	selected	species_quality_rank	20
+GCF_037104725.1	Bacillus bruguierae	FJAT-51639	SAMN39644991	PRJNA1070399	Scaffold	reference genome	98.82	0.1	5096950	237997	2024-03-11	no	selected	species_quality_rank	1
+GCF_018390475.2	Bacillus cabrialesii	TSO2	SAMN19070894	PRJNA728132	Contig		98.82	0.29	4297452	4288886	2023-08-05	no	selected	species_quality_rank	1
+GCF_032461835.1	Bacillus cabrialesii	LC 2.3	SAMN37629539	PRJNA1022826	Contig		98.82	0.59	4191332	434032	2023-10-07	no	selected	species_quality_rank	2
+GCF_018829645.1	Bacillus cabrialesii	BIK3	SAMN19006115	PRJNA735062	Contig		98.82	0.59	4111907	320958	2021-06-10	no	selected	species_quality_rank	3
+GCF_054483695.1	Bacillus cabrialesii	JK191	SAMN54434928	PRJNA1397594	Contig		98.76	0.59	4098582	301676	2026-01-12	no	selected	species_quality_rank	4
+GCF_057814095.1	Bacillus canaveralius	F119	SAMN55333264	PRJNA1423168	Contig		99.22	0.78	4674742	109066	2026-06-01	no	selected	species_quality_rank	1
+GCF_002860125.1	Bacillus canaveralius	M4.6	SAMN08026707	PRJNA418367	Contig	reference genome	99.12	0.62	4694512	77021	2018-01-04	no	selected	species_quality_rank	2
+GCF_003944805.1	Bacillus canaveralius	M8-28	SAMN10525026	PRJNA508575	Contig		98.89	0.68	4457013	63446	2018-12-12	no	selected	species_quality_rank	3
+GCF_002860245.1	Bacillus canaveralius	ATCC 29669	SAMN08028598	PRJNA418483	Contig		98.82	0.62	4694986	74302	2018-01-04	no	selected	species_quality_rank	4
+GCF_042432145.1	Bacillus capparidis	CGMCC 1.12820	SAMN43281654	PRJNA595761	Scaffold		98.48	2.28	4563995	1297292	2024-09-28	no	selected	species_quality_rank	1
+GCF_036209965.1	Bacillus capparidis	B-59113	SAMN32927380	PRJNA802201	Scaffold		98.48	2.28	4571783	577250	2024-01-26	no	selected	species_quality_rank	2
+GCF_017832095.1	Bacillus capparidis	DSM 103394	SAMN17620066	PRJNA695617	Contig	reference genome	98.48	2.28	4566904	1279873	2021-04-07	no	selected	species_quality_rank	3
+GCF_039522365.1	Bacillus carboniphilus	JCM 9731	SAMD00644957	PRJDB10510	Contig	reference genome	98.11	0.79	4214632	139159	2024-02-23	no	selected	species_quality_rank	1
+GCF_040448665.1	Bacillus cereus	MS39	SAMN34062287	PRJNA951881	Complete Genome		99.41	0.1	5387978	5387978	2024-07-02	no	selected	species_quality_rank	1
+GCF_033841795.2	Bacillus cereus	BfR-BA-01700	SAMN38195819	PRJNA1037718	Complete Genome		99.41	0.11	5822093	5277139	2025-05-16	no	selected	species_quality_rank	2
+GCF_001277915.1	Bacillus cereus	NJ-W	SAMN03785549	PRJNA287734	Complete Genome		99.22	0.06	5398511	5370032	2015-09-02	no	selected	species_quality_rank	3
+GCF_054901695.1	Bacillus cereus	RDA_B18	SAMN52845042	PRJNA1346871	Complete Genome		99.22	0.06	5350227	5350227	2026-02-03	no	selected	species_quality_rank	4
+GCF_050871175.1	Bacillus cereus	FWZ-1	SAMN41774363	PRJNA1122110	Complete Genome		99.22	0.06	5346470	5346470	2025-06-10	no	selected	species_quality_rank	5
+GCF_006349735.2	Bacillus cereus	A24	SAMN11960211	PRJNA546504	Complete Genome		99.22	0.06	5751928	5268018	2021-11-01	no	selected	species_quality_rank	6
+GCF_061339615.1	Bacillus cereus	LXY	SAMN63000011	PRJNA1525218	Complete Genome		99.22	0.06	5249779	5237198	2026-09-17	no	selected	species_quality_rank	7
+GCF_059740395.1	Bacillus cereus	CMML20-21	SAMN49984844	PRJNA1484225	Complete Genome		99.22	0.06	5679281	5158085	2026-08-01	no	selected	species_quality_rank	8
+GCF_003013315.1	Bacillus cereus	TG1-6	SAMN08455831	PRJNA430755	Complete Genome		99.22	0.12	5431893	5417196	2018-03-21	no	selected	species_quality_rank	9
+GCF_013284505.2	Bacillus cereus	HD1.4B	SAMN15005018	PRJNA634685	Complete Genome		99.22	0.14	5740353	5183870	2021-11-01	no	selected	species_quality_rank	10
+GCF_013284455.2	Bacillus cereus	HD2.4	SAMN15002822	PRJNA634629	Complete Genome		99.22	0.14	5739795	5183312	2021-11-01	no	selected	species_quality_rank	11
+GCF_019704155.2	Bacillus cereus	HT18	SAMD00278679	PRJDB11181	Complete Genome		99.22	0.15	5720643	5333415	2022-01-25	no	selected	species_quality_rank	12
+GCF_055793445.1	Bacillus cereus	T1	SAMN54896198	PRJNA1414207	Complete Genome		99.22	0.19	5905554	5331939	2026-03-11	no	selected	species_quality_rank	13
+GCF_057748915.1	Bacillus cereus	CitLB1.1.2	SAMN57384573	PRJNA1455908	Complete Genome		99.22	0.19	6059008	5241950	2026-05-26	no	selected	species_quality_rank	14
+GCF_029201265.1	Bacillus cereus	M72-4	SAMN33574857	PRJNA940586	Complete Genome		99.22	0.25	5745611	5745611	2023-03-14	no	selected	species_quality_rank	15
+GCF_045780845.1	Bacillus cereus	G1-11	SAMN34045048	PRJNA951519	Complete Genome		99.22	0.25	5830625	5367773	2024-12-06	no	selected	species_quality_rank	16
+GCF_016774575.1	Bacillus cereus	AFA01	SAMN17369857	PRJNA692760	Complete Genome		99.22	0.25	5843781	5367656	2021-01-31	no	selected	species_quality_rank	17
+GCF_024299105.1	Bacillus cereus	MB1	SAMN25580665	PRJNA802700	Complete Genome		99.22	0.25	5777956	5327038	2022-07-18	no	selected	species_quality_rank	18
+GCF_016917795.1	Bacillus cereus	VKM B-370	SAMN17864500	PRJNA701373	Complete Genome		99.22	0.29	5821889	5387595	2021-02-22	no	selected	species_quality_rank	19
+GCF_052122615.1	Bacillus cereus	26-1	SAMN50572158	PRJNA1304760	Complete Genome		99.22	0.38	5645515	5271942	2025-08-19	no	selected	species_quality_rank	20
+GCF_027706145.1	Bacillus changyiensis	CLL-3-40	SAMN32210672	PRJNA910341	Scaffold	reference genome	98.95	0.59	3712035	933741	2023-01-10	no	selected	species_quality_rank	1
+GCF_042651685.1	Bacillus chungangensis	CCUG 57835	SAMN43282031	PRJNA595761	Scaffold	reference genome	96.76	0.5	4755534	136376	2024-10-05	no	selected	species_quality_rank	1
+GCF_030812995.1	Bacillus chungangensis	DSM 23837	SAMN18243079	PRJNA708399	Contig		96.76	0.5	4755411	142511	2023-08-18	no	selected	species_quality_rank	2
+GCF_000504145.1	Bacillus cihuensis	FJAT-14515	SAMN02469794	PRJNA226627	Scaffold	reference genome	98.92	2.43	5443019	435981	2013-12-06	no	selected	species_quality_rank	1
+GCF_003428195.2	Bacillus clarus	PS00077A	SAMN09856751	PRJNA486554	Contig		98.82	0.74	5795602	46486	2026-07-27	no	selected	species_quality_rank	1
+GCF_000746925.1	Bacillus clarus	BHP	SAMN02739899	PRJNA243594	Contig	reference genome	98.53	1.03	5875917	5068716	2014-09-02	no	selected	species_quality_rank	2
+GCF_056159465.1	Bacillus coahuilensis	ABR4_045	SAMN51861980	PRJNA1334387	Contig	reference genome	97.56	0.3	3687483	3671357	2026-03-19	no	selected	species_quality_rank	1
+GCF_050586445.1	Bacillus coreaensis	GXL0075	SAMN48638391	PRJNA1265954	Contig	reference genome	95.88	1.26	4637698	286665	2025-05-27	no	selected	species_quality_rank	1
+GCF_014764715.1	Bacillus crepusculi	28A-2	SAMN16193117	PRJNA664047	Contig	reference genome	99.12	0.29	3697866	302721	2020-09-27	no	selected	species_quality_rank	1
+GCF_059267965.1	Bacillus cytotoxicus		SAMN18336040	PRJNA715191	Contig		98.82	0.02	4262411	29572	2026-07-11	no	selected	species_quality_rank	1
+GCF_029850315.1	Bacillus cytotoxicus	CH_852	SAMN26764624	PRJNA817374	Contig		98.82	0.1	4158305	218394	2023-04-20	no	selected	species_quality_rank	2
+GCF_050627655.1	Bacillus cytotoxicus	TIAC 5173	SAMN43795229	PRJNA1162017	Contig		98.82	0.1	4076198	166232	2025-05-30	no	selected	species_quality_rank	3
+GCF_050876605.1	Bacillus cytotoxicus	CVUAS 6661	SAMN46785637	PRJNA1222618	Contig		98.82	0.1	4171001	146637	2025-06-10	no	selected	species_quality_rank	4
+GCF_050876805.1	Bacillus cytotoxicus	BfR-BA-03877	SAMN46785627	PRJNA1222618	Contig		98.82	0.1	4156586	145541	2025-06-10	no	selected	species_quality_rank	5
+GCF_050876405.1	Bacillus cytotoxicus	CH_305	SAMN46785646	PRJNA1222618	Contig		98.82	0.15	4754004	110649	2025-06-10	no	selected	species_quality_rank	6
+GCF_050876425.1	Bacillus cytotoxicus	CH_310	SAMN46785647	PRJNA1222618	Contig		98.82	0.52	4757689	52246	2025-06-10	no	selected	species_quality_rank	7
+GCF_050876625.1	Bacillus cytotoxicus	CVUAS 35361	SAMN46785636	PRJNA1222618	Contig		98.82	0.69	4137678	295496	2025-06-10	no	selected	species_quality_rank	8
+GCF_059268045.1	Bacillus cytotoxicus		SAMN18336038	PRJNA715191	Contig		98.82	1.18	4186694	12145	2026-07-11	no	selected	species_quality_rank	9
+GCF_059269165.1	Bacillus cytotoxicus		SAMN18335991	PRJNA715191	Contig		98.82	1.76	4187179	25436	2026-07-11	no	selected	species_quality_rank	10
+GCF_042137715.1	Bacillus cytotoxicus	SP94	SAMN43782004	PRJNA1161477	Contig		98.24	0.1	4252285	128791	2024-09-21	no	selected	species_quality_rank	11
+GCF_016908875.1	Bacillus ectoiniformans	DSM 28970	SAMN17620071	PRJNA695621	Contig	reference genome	98.82	0.74	3531559	244312	2021-02-19	no	selected	species_quality_rank	1
+GCF_012955605.1	Bacillus fonticola	CS13	SAMN14639288	PRJNA626390	Complete Genome	reference genome	96.98	0.29	3159449	3159449	2020-05-03	no	selected	species_quality_rank	1
+GCF_051413595.1	Bacillus fungorum	AS0258	SAMN46423927	PRJNA1216036	Contig		99.41	0.05	5393519	87871	2025-07-18	no	selected	species_quality_rank	1
+GCF_040459755.1	Bacillus fungorum	FL122	SAMN34062285	PRJNA951881	Contig		99.41	0.71	5795306	5357873	2024-07-02	no	selected	species_quality_rank	2
+GCF_001590835.1	Bacillus gaemokensis	KCTC 13318	SAMN04515759	PRJNA313130	Scaffold	reference genome	98.82	0.29	5616250	184118	2016-03-14	no	selected	species_quality_rank	1
+GCF_000712615.1	Bacillus gaemokensis	JCM 15801	SAMN02854354	PRJNA252651	Contig		98.82	0.3	5599858	117614	2014-06-26	no	selected	species_quality_rank	2
+GCF_023022945.1	Bacillus glycinifermentans	MGMM1	SAMN27512390	PRJNA825337	Complete Genome		98.78	0.29	4346570	4346570	2022-04-18	no	selected	species_quality_rank	1
+GCF_035804975.1	Bacillus glycinifermentans	CBP-3203	SAMN33940160	PRJNA949242	Scaffold		98.78	1.18	4811884	226380	2024-01-18	no	selected	species_quality_rank	2
+GCF_001042475.2	Bacillus glycinifermentans	GO-13	SAMN03758654	PRJNA285749	Scaffold		98.78	1.18	4787873	226328	2015-11-16	no	selected	species_quality_rank	3
+GCF_050460245.1	Bacillus glycinifermentans	B-65291	SAMN41009287	PRJNA802201	Scaffold		98.78	1.18	4781219	226328	2025-05-19	no	selected	species_quality_rank	4
+GCF_035805255.1	Bacillus glycinifermentans	CBP-3186	SAMN33940143	PRJNA949242	Scaffold		98.78	1.18	4627992	166646	2024-01-18	no	selected	species_quality_rank	5
+GCF_035805315.1	Bacillus glycinifermentans	CBP-3183	SAMN33940140	PRJNA949242	Scaffold		98.78	1.18	4614944	166577	2024-01-18	no	selected	species_quality_rank	6
+GCF_027687995.1	Bacillus glycinifermentans	AF05-38	SAMN31807726	PRJNA903559	Scaffold		98.19	0.59	4463038	305649	2023-01-12	no	selected	species_quality_rank	7
+GCF_013349925.1	Bacillus glycinifermentans	JRCGR-1	SAMN12124961	PRJNA550305	Scaffold		98.19	0.59	4700692	135232	2020-06-16	no	selected	species_quality_rank	8
+GCF_061338755.1	Bacillus glycinifermentans	Y2	SAMN62982983	PRJNA1524658	Contig		98.78	0.59	4557637	377008	2026-09-16	no	selected	species_quality_rank	9
+GCF_001278705.1	Bacillus gobiensis	FJAT-4402	SAMN04009091	PRJNA293641	Chromosome	reference genome	98.77	1.69	4597707	2791627	2015-09-04	no	selected	species_quality_rank	1
+GCF_050478545.1	Bacillus gobiensis	NRS-302	SAMN41009735	PRJNA802201	Contig		98.77	1.54	4651696	335466	2025-05-20	no	selected	species_quality_rank	2
+GCF_050478565.1	Bacillus gobiensis	NRS-301	SAMN41009734	PRJNA802201	Contig		98.77	1.54	4691615	198849	2025-05-20	no	selected	species_quality_rank	3
+GCF_050478585.1	Bacillus gobiensis	NRS-299	SAMN41009733	PRJNA802201	Contig		98.77	1.54	4718614	142730	2025-05-20	no	selected	species_quality_rank	4
+GCF_050478605.1	Bacillus gobiensis	NRS-298	SAMN41009732	PRJNA802201	Contig		98.77	1.84	4639617	205620	2025-05-20	no	selected	species_quality_rank	5
+GCF_979925865.1	Bacillus haikouensis		SAMEA118781421	PRJEB93985	Complete Genome	reference genome	99.41	1.65	4658033	4658033	2026-02-16	no	selected	species_quality_rank	1
+GCF_013179555.1	Bacillus haikouensis	CrR16	SAMN14989803	PRJNA634334	Scaffold		99.51	3.65	4678913	13331	2020-05-27	no	selected	species_quality_rank	2
+GCF_048270625.1	Bacillus haimaensis	CSS-39	SAMN41724761	PRJNA1121034	Complete Genome	reference genome	95.05	0.2	4544581	4544581	2025-03-01	no	selected	species_quality_rank	1
+GCF_051166975.1	Bacillus halotolerans	C1	SAMN48941539	PRJNA1273322	Complete Genome		98.82	0.01	4121629	4121629	2025-07-01	no	selected	species_quality_rank	1
+GCF_056269705.1	Bacillus halotolerans	BH13	SAMN52896944	PRJNA1348331	Complete Genome		98.82	0.29	4251754	4251754	2026-03-23	no	selected	species_quality_rank	2
+GCF_056493705.1	Bacillus halotolerans	YZUWY-1510	SAMN56707214	PRJNA1442781	Complete Genome		98.82	0.29	4250820	4250820	2026-04-01	no	selected	species_quality_rank	3
+GCF_041222785.1	Bacillus halotolerans	XYK2-4	SAMN43028438	PRJNA1144181	Complete Genome		98.82	0.29	4220890	4220890	2024-08-12	no	selected	species_quality_rank	4
+GCF_026967595.1	Bacillus halotolerans	B13	SAMN32106085	PRJNA909962	Complete Genome		98.82	0.29	4404030	4200441	2022-12-18	no	selected	species_quality_rank	5
+GCF_051788185.1	Bacillus halotolerans	BHXJ10	SAMN50046656	PRJNA1293842	Complete Genome		98.82	0.29	4194164	4194164	2025-08-04	no	selected	species_quality_rank	6
+GCF_026013885.1	Bacillus halotolerans	HMB20199	SAMN31494998	PRJNA895168	Complete Genome		98.82	0.29	4175808	4175808	2022-11-06	no	selected	species_quality_rank	7
+GCF_024510645.1	Bacillus halotolerans	S-5	SAMN29930872	PRJNA861881	Complete Genome		98.82	0.29	4141155	4141155	2022-08-03	no	selected	species_quality_rank	8
+GCF_059620025.1	Bacillus halotolerans		SAMN61425574	PRJNA1490383	Complete Genome		98.82	0.29	4083969	4083969	2026-07-26	no	selected	species_quality_rank	9
+GCF_059547565.1	Bacillus halotolerans	PS17	SAMN61118080	PRJNA1482235	Complete Genome		98.82	0.29	4072191	4072191	2026-07-21	no	selected	species_quality_rank	10
+GCF_056519215.1	Bacillus halotolerans	MGMM119	SAMN56607861	PRJNA1440239	Complete Genome		98.82	0.29	4072052	4072052	2026-04-01	no	selected	species_quality_rank	11
+GCF_025809355.1	Bacillus halotolerans	XE48	SAMN28906644	PRJNA846972	Complete Genome		98.82	0.38	4140100	4140100	2022-10-24	no	selected	species_quality_rank	12
+GCF_024266645.1	Bacillus halotolerans	MEC_B334	SAMN29515286	PRJNA856117	Complete Genome		98.82	0.59	4280526	4280526	2022-07-14	no	selected	species_quality_rank	13
+GCF_033568485.1	Bacillus halotolerans	DY299	SAMN36977584	PRJNA1005238	Complete Genome		98.82	0.59	4208811	4208811	2023-11-13	no	selected	species_quality_rank	14
+GCF_056108305.1	Bacillus halotolerans	G3-2	SAMN53472627	PRJNA1370538	Complete Genome		98.82	0.59	4184626	4184626	2026-03-19	no	selected	species_quality_rank	15
+GCF_004006435.1	Bacillus halotolerans	ZB201702	SAMN09095924	PRJNA470606	Complete Genome	reference genome	98.82	0.59	4154245	4154245	2019-01-09	no	selected	species_quality_rank	16
+GCF_052919925.2	Bacillus halotolerans	F11	SAMN51799607	PRJNA1333569	Complete Genome		98.82	0.88	4154202	4154202	2026-07-26	no	selected	species_quality_rank	17
+GCF_061533385.1	Bacillus halotolerans	KRS888	SAMN62918970	PRJNA1522903	Complete Genome		98.81	0.29	4158773	4158773	2026-09-22	no	selected	species_quality_rank	18
+GCF_014621755.1	Bacillus halotolerans	XH-1	SAMN16077905	PRJNA662198	Complete Genome		98.48	0.59	4203618	4203618	2020-09-15	no	selected	species_quality_rank	19
+GCF_059958825.1	Bacillus halotolerans	BY-S2	SAMN37577689	PRJNA1021987	Complete Genome		96.96	0.29	4058008	4058008	2026-08-10	no	selected	species_quality_rank	20
+GCF_026792595.1	Bacillus haynesii	S16B2	SAMN25999734	PRJNA806940	Scaffold		99.07	0.06	4346537	229926	2022-12-09	no	selected	species_quality_rank	1
+GCF_026796415.1	Bacillus haynesii	T16B5	SAMN25999976	PRJNA806940	Scaffold		98.78	0.01	4385532	530179	2022-12-09	no	selected	species_quality_rank	2
+GCF_026792735.1	Bacillus haynesii	S13C5M	SAMN25999728	PRJNA806940	Scaffold		98.78	0.01	4208226	399467	2022-12-09	no	selected	species_quality_rank	3
+GCF_026791075.1	Bacillus haynesii	22a-2	SAMN25999811	PRJNA806940	Scaffold		98.78	0.01	4458506	220169	2022-12-09	no	selected	species_quality_rank	4
+GCF_026795875.1	Bacillus haynesii	T4C9	SAMN26000002	PRJNA806940	Scaffold		98.78	0.06	4286108	347025	2022-12-09	no	selected	species_quality_rank	5
+GCF_026789545.1	Bacillus haynesii	N9A12	SAMN25999889	PRJNA806940	Scaffold		98.78	0.07	4354906	318911	2022-12-09	no	selected	species_quality_rank	6
+GCF_026792395.1	Bacillus haynesii	S18B4	SAMN25999742	PRJNA806940	Scaffold		98.78	0.07	4179479	158619	2022-12-09	no	selected	species_quality_rank	7
+GCF_035810555.1	Bacillus haynesii	B-14951	SAMN33940527	PRJNA802201	Scaffold		98.78	0.15	4504050	1031782	2024-01-18	no	selected	species_quality_rank	8
+GCF_026792205.1	Bacillus haynesii	N1b3	SAMN25999754	PRJNA806940	Scaffold		98.78	0.15	4453377	225931	2022-12-09	no	selected	species_quality_rank	9
+GCF_026796785.1	Bacillus haynesii	T10C11	SAMN25999957	PRJNA806940	Scaffold		98.78	0.36	4370273	80757	2022-12-09	no	selected	species_quality_rank	10
+GCF_035809915.1	Bacillus haynesii	B-23321	SAMN33940558	PRJNA802201	Scaffold		98.78	0.59	4329818	604299	2024-01-18	no	selected	species_quality_rank	11
+GCF_035810015.1	Bacillus haynesii	B-23317	SAMN33940554	PRJNA802201	Scaffold		98.78	0.59	4291832	555692	2024-01-18	no	selected	species_quality_rank	12
+GCF_026792635.1	Bacillus haynesii	S15B2	SAMN25999732	PRJNA806940	Scaffold		98.78	0.59	4306784	371932	2022-12-09	no	selected	species_quality_rank	13
+GCF_035809855.1	Bacillus haynesii	B-23326	SAMN33940561	PRJNA802201	Scaffold		98.78	0.59	4270503	347983	2024-01-18	no	selected	species_quality_rank	14
+GCF_026791255.1	Bacillus haynesii	105-7	SAMN25999802	PRJNA806940	Scaffold		98.78	0.59	4292551	222375	2022-12-09	no	selected	species_quality_rank	15
+GCF_026788305.1	Bacillus haynesii	S3C2	SAMN25999950	PRJNA806940	Scaffold		98.78	0.59	4434781	215092	2022-12-09	no	selected	species_quality_rank	16
+GCF_042262445.1	Bacillus haynesii	NPDC056419	SAMN43795654	PRJNA1106891	Scaffold		98.78	0.98	4445946	2278075	2024-09-25	no	selected	species_quality_rank	17
+GCF_035809955.1	Bacillus haynesii	B-23318	SAMN33940555	PRJNA802201	Scaffold		98.73	0.59	4367995	353397	2024-01-18	no	selected	species_quality_rank	18
+GCF_026792075.1	Bacillus haynesii	N5b2	SAMN25999760	PRJNA806940	Scaffold		98.48	0.69	4495851	270329	2022-12-09	no	selected	species_quality_rank	19
+GCF_026789745.1	Bacillus haynesii	N18A22	SAMN25999880	PRJNA806940	Scaffold		98.19	0.59	4187630	482783	2022-12-09	no	selected	species_quality_rank	20
+GCF_062041132.1	Bacillus hominis	24-BA00418-0	SAMN63682088	PRJNA1537333	Contig		99.31	0.12	4872413	245576	2026-10-14	no	selected	species_quality_rank	1
+GCF_030348325.1	Bacillus hominis	SIN2.1	SAMN34374914	PRJNA960711	Contig	reference genome	99.31	0.15	5526302	5057239	2023-06-27	no	selected	species_quality_rank	2
+GCF_030348585.1	Bacillus hominis	DX2.1	SAMN34374907	PRJNA960711	Contig		99.31	0.15	5499162	5015766	2023-06-27	no	selected	species_quality_rank	3
+GCF_062041311.1	Bacillus hominis	20-BA00009-0	SAMN63681956	PRJNA1537333	Contig		99.31	0.15	5491137	281918	2026-10-14	no	selected	species_quality_rank	4
+GCF_061531785.1	Bacillus hominis	B0425.24	SAMN62904600	PRJNA1389456	Contig		99.31	0.29	4868396	1258257	2026-09-21	no	selected	species_quality_rank	5
+GCF_057473945.1	Bacillus hominis	CH142	SAMN18335993	PRJNA715191	Contig		99.31	0.41	5093448	61198	2026-05-13	no	selected	species_quality_rank	6
+GCF_018332515.1	Bacillus hominis	BML-BC059	SAMD00286807	PRJDB11373	Contig		99.31	0.42	5245703	19494	2021-03-14	no	selected	species_quality_rank	7
+GCF_030348535.1	Bacillus hominis	DX2.3	SAMN34374908	PRJNA960711	Contig		99.31	0.44	5557385	5005209	2023-06-27	no	selected	species_quality_rank	8
+GCF_057473925.1	Bacillus hominis	CH141	SAMN18335992	PRJNA715191	Contig		99.31	0.44	5524594	34752	2026-05-13	no	selected	species_quality_rank	9
+GCF_057473965.1	Bacillus hominis	CH118	SAMN18335984	PRJNA715191	Contig		99.07	0.29	5000892	9192	2026-05-13	no	selected	species_quality_rank	10
+GCF_062040830.1	Bacillus hominis	25-BA00007-0	SAMN63682095	PRJNA1537333	Contig		98.82	0.29	4918892	703183	2026-10-14	no	selected	species_quality_rank	11
+GCF_050627545.1	Bacillus hominis	TIAC 55	SAMN43795235	PRJNA1162017	Contig		98.73	0.12	5112946	205864	2025-05-30	no	selected	species_quality_rank	12
+GCF_062041327.1	Bacillus hominis	19-BA00010-0	SAMN63681947	PRJNA1537333	Contig		98.73	0.78	5107762	45167	2026-10-14	no	selected	species_quality_rank	13
+GCF_062041326.1	Bacillus hominis	19-BA00012-0	SAMN63681948	PRJNA1537333	Contig		98.58	0.16	5113863	43811	2026-10-14	no	selected	species_quality_rank	14
+GCF_040785085.1	Bacillus inaquosorum	gbc_j	SAMN41082105	PRJNA1104609	Scaffold		98.82	0.08	4207054	464701	2024-07-20	no	selected	species_quality_rank	1
+GCF_040784975.1	Bacillus inaquosorum	gbc_k	SAMN41082106	PRJNA1104609	Scaffold		98.82	0.08	4219108	464446	2024-07-20	no	selected	species_quality_rank	2
+GCF_026789145.1	Bacillus inaquosorum	N9C2	SAMN25999910	PRJNA806940	Scaffold		98.82	0.1	4220922	240619	2022-12-09	no	selected	species_quality_rank	3
+GCF_036209245.1	Bacillus inaquosorum	F. Cohan N9A4	SAMN32927413	PRJNA802201	Scaffold		98.82	0.1	4187837	102287	2024-01-26	no	selected	species_quality_rank	4
+GCF_048276855.1	Bacillus inaquosorum	PS2Canimalfood3	SAMN46432912	PRJNA1021388	Scaffold		98.82	0.15	4161090	464434	2025-03-01	no	selected	species_quality_rank	5
+GCF_050378775.1	Bacillus inaquosorum	PR1-4	SAMN41748999	PRJNA1122190	Scaffold		98.82	0.29	4426582	147053	2025-05-14	no	selected	species_quality_rank	6
+GCF_026789965.1	Bacillus inaquosorum	N15A8	SAMN25999870	PRJNA806940	Scaffold		98.82	0.59	4361263	225361	2022-12-09	no	selected	species_quality_rank	7
+GCF_026795775.1	Bacillus inaquosorum	T5B6	SAMN26000007	PRJNA806940	Scaffold		98.82	0.89	4485902	302357	2022-12-09	no	selected	species_quality_rank	8
+GCF_050312195.1	Bacillus inaquosorum	pozas rojas	SAMN48318886	PRJNA1122190	Scaffold		98.82	1.49	4490699	314926	2025-05-10	no	selected	species_quality_rank	9
+GCF_026791285.1	Bacillus inaquosorum	105-4	SAMN25999800	PRJNA806940	Scaffold		98.77	0.01	4249715	188765	2022-12-09	no	selected	species_quality_rank	10
+GCF_026790175.1	Bacillus inaquosorum	N11C7	SAMN25999856	PRJNA806940	Scaffold		98.77	0.88	4321669	148644	2022-12-09	no	selected	species_quality_rank	11
+GCF_026794725.1	Bacillus inaquosorum	EC49O2B-D21	SAMN26000061	PRJNA806940	Scaffold		98.76	0.01	4254742	370214	2022-12-09	no	selected	species_quality_rank	12
+GCF_026794685.1	Bacillus inaquosorum	EC49O2B-D16	SAMN26000060	PRJNA806940	Scaffold		98.76	0.01	4376084	328542	2022-12-09	no	selected	species_quality_rank	13
+GCF_026788285.1	Bacillus inaquosorum	S8C1X1	SAMN25999955	PRJNA806940	Scaffold		98.7	0.01	4303157	266478	2022-12-09	no	selected	species_quality_rank	14
+GCF_026794895.1	Bacillus inaquosorum	EC30O1B-J3	SAMN26000051	PRJNA806940	Scaffold		98.69	0.03	4243902	365714	2022-12-09	no	selected	species_quality_rank	15
+GCF_026790005.1	Bacillus inaquosorum	N15A1	SAMN25999868	PRJNA806940	Scaffold		98.5	0.03	4131150	90139	2022-12-09	no	selected	species_quality_rank	16
+GCF_026790635.1	Bacillus inaquosorum	M15B2	SAMN25999833	PRJNA806940	Scaffold		98.4	0.2	4344140	109808	2022-12-09	no	selected	species_quality_rank	17
+GCF_026793285.1	Bacillus inaquosorum	WR2F2B-11	SAMN25999700	PRJNA806940	Scaffold		98.36	0.01	4340953	259388	2022-12-09	no	selected	species_quality_rank	18
+GCF_026790305.1	Bacillus inaquosorum	M20B4	SAMN25999849	PRJNA806940	Scaffold		98.19	1.23	4172333	69245	2022-12-09	no	selected	species_quality_rank	19
+GCF_026793595.1	Bacillus inaquosorum	WR202B-6	SAMN25999682	PRJNA806940	Scaffold		98.18	0.39	4181036	413455	2022-12-09	no	selected	species_quality_rank	20
+GCF_979912685.1	Bacillus infantis		SAMEA118781415	PRJEB93985	Complete Genome	reference genome	99.41	0.21	5063601	5063601	2026-02-16	no	selected	species_quality_rank	1
+GCF_000473245.1	Bacillus infantis	NRRL B-14911	SAMN02604281	PRJNA212797	Complete Genome		97.06	0.13	4884713	4884713	2013-09-30	no	selected	species_quality_rank	2
+GCF_040703065.1	Bacillus infantis	AR001	SAMN41327269	PRJNA1107577	Chromosome		99.41	0.28	4903022	4902922	2024-07-14	no	selected	species_quality_rank	3
+GCF_033342835.1	Bacillus infantis	UAN_B28	SAMN37954191	PRJNA1031692	Scaffold		99.41	0.28	4959720	228960	2023-11-04	no	selected	species_quality_rank	4
+GCF_009935585.1	Bacillus infantis	20-6	SAMN07267347	PRJNA390877	Scaffold		99.41	0.67	4348404	139775	2020-01-27	no	selected	species_quality_rank	5
+GCF_023148655.1	Bacillus infantis	EYE_50	SAMN19899788	PRJNA741708	Scaffold		99.41	0.87	5172245	240135	2022-04-27	no	selected	species_quality_rank	6
+GCF_008180695.1	Bacillus infantis	CH37_1T	SAMN12612703	PRJNA561254	Scaffold		98.82	0.28	5168596	808136	2019-09-01	no	selected	species_quality_rank	7
+GCF_050107355.1	Bacillus infantis	161d	SAMN47227570	PRJNA1232178	Contig		99.41	0.07	5110925	491694	2025-05-03	no	selected	species_quality_rank	8
+GCF_008180445.1	Bacillus infantis	CH446_14T	SAMN12612704	PRJNA561254	Contig		99.41	0.07	5144511	436054	2019-09-01	no	selected	species_quality_rank	9
+GCF_050107335.1	Bacillus infantis	162	SAMN47227571	PRJNA1232178	Contig		99.41	0.07	5110096	313954	2025-05-03	no	selected	species_quality_rank	10
+GCF_050107475.1	Bacillus infantis	155a	SAMN47227564	PRJNA1232178	Contig		99.41	0.07	5014248	165578	2025-05-03	no	selected	species_quality_rank	11
+GCF_024706405.2	Bacillus infantis	63-11	SAMN22241477	PRJNA770842	Contig		99.41	0.21	4907472	4841671	2024-05-22	no	selected	species_quality_rank	12
+GCF_050107595.1	Bacillus infantis	142	SAMN47227558	PRJNA1232178	Contig		99.41	0.22	4917124	363737	2025-05-03	no	selected	species_quality_rank	13
+GCF_020172065.1	Bacillus infantis	AcN21-9	SAMN21542841	PRJNA682484	Contig		99.41	0.28	4973253	543134	2021-09-28	no	selected	species_quality_rank	14
+GCF_036620775.1	Bacillus infantis	PUMA0249	SAMN39853143	PRJNA565663	Contig		99.41	0.28	5061589	501219	2024-02-14	no	selected	species_quality_rank	15
+GCF_046592475.1	Bacillus infantis	TATVAM-FAB37	SAMN38138649	PRJNA1026516	Contig		99.41	0.28	5087527	469878	2025-01-10	no	selected	species_quality_rank	16
+GCF_037152615.1	Bacillus infantis	USMM117	SAMN37642569	PRJNA1023190	Contig		99.41	0.28	4991473	250266	2024-03-14	no	selected	species_quality_rank	17
+GCF_037152575.1	Bacillus infantis	USMM118	SAMN37642570	PRJNA1023190	Contig		99.41	0.28	4991703	249956	2024-03-14	no	selected	species_quality_rank	18
+GCF_020171945.1	Bacillus infantis	AcN21-1	SAMN21542840	PRJNA682484	Contig		99.41	0.36	4856794	193245	2021-09-28	no	selected	species_quality_rank	19
+GCF_050107315.1	Bacillus infantis	163b	SAMN47227572	PRJNA1232178	Contig		99.41	0.36	5179830	171093	2025-05-03	no	selected	species_quality_rank	20
+GCF_047238305.1	Bacillus jepli	1P02SD	SAMN40372245	PRJNA1048065	Contig	reference genome	97.01	4.56	4869765	4838131	2025-01-27	no	selected	species_quality_rank	1
+GCF_047238185.1	Bacillus kalamii	1P06AnD	SAMN40372246	PRJNA1048065	Scaffold	reference genome	97.87	2.65	4851298	3313425	2025-01-27	no	selected	species_quality_rank	1
+GCF_037201805.1	Bacillus kandeliae	FJAT-52991	SAMN39644993	PRJNA1070399	Chromosome	reference genome	99.2	0.74	3740334	3647575	2024-03-17	no	selected	species_quality_rank	1
+GCF_002504325.1	Bacillus licheniformis	ATCC 9789	SAMN07690960	PRJNA411919	Complete Genome		98.85	2.34	4260287	4260287	2017-10-10	no	selected	species_quality_rank	1
+GCF_006094335.1	Bacillus licheniformis	ATCC 14580	SAMN10591542	PRJNA509976	Complete Genome		98.53	0.83	4239205	4239205	2019-06-06	no	selected	species_quality_rank	2
+GCF_000008425.1	Bacillus licheniformis	DSM 13	SAMN02603292	PRJNA13082	Complete Genome		98.53	0.83	4222645	4222645	2004-09-20	no	selected	species_quality_rank	3
+GCF_039619455.1	Bacillus licheniformis	FUA2146	SAMN39511932	PRJNA1066968	Complete Genome		98.52	1.56	4390785	4331210	2024-05-13	no	selected	species_quality_rank	4
+GCF_034478925.1	Bacillus licheniformis	ATCC 14580	SAMN38186259	PRJNA1037563	Complete Genome	reference genome	98.5	0.83	4227253	4227253	2023-12-19	no	selected	species_quality_rank	5
+GCF_055723885.1	Bacillus licheniformis	TCLigB	SAMN53626527	PRJNA1372797	Complete Genome		98.44	1.65	4222430	4222430	2026-03-09	no	selected	species_quality_rank	6
+GCF_052142875.1	Bacillus licheniformis	15-E12A	SAMN50488487	PRJNA1297403	Complete Genome		98.43	0.83	4229831	4229831	2025-08-19	no	selected	species_quality_rank	7
+GCF_000011645.1	Bacillus licheniformis	ATCC 14580; DSM 13	SAMN02603685	PRJNA12388	Complete Genome		98.39	0.83	4222597	4222597	2007-04-26	no	selected	species_quality_rank	8
+GCF_003595625.1	Bacillus licheniformis	TAB7	SAMN08717025	PRJNA438467	Complete Genome		98.36	1.41	4440709	4367367	2018-09-25	no	selected	species_quality_rank	9
+GCF_052142905.1	Bacillus licheniformis	15-WTA	SAMN50488489	PRJNA1297403	Complete Genome		98.35	0.83	4229826	4229826	2025-08-19	no	selected	species_quality_rank	10
+GCF_002074075.1	Bacillus licheniformis	SCK B11	SAMN03938641	PRJNA291016	Complete Genome		98.33	1.24	4300706	4300706	2017-03-29	no	selected	species_quality_rank	11
+GCF_036700035.1	Bacillus licheniformis	CP13	SAMN39610770	PRJNA1069099	Complete Genome		98.23	2.43	4372556	4372556	2024-02-20	no	selected	species_quality_rank	12
+GCF_022700915.1	Bacillus licheniformis	C5	SAMN16585298	PRJNA673043	Complete Genome		98.21	1.22	4294269	4294269	2022-03-28	no	selected	species_quality_rank	13
+GCF_049990405.1	Bacillus licheniformis	CGMCC 34071	SAMN48073764	PRJNA1253368	Complete Genome		98.21	1.35	4294578	4294578	2025-04-29	no	selected	species_quality_rank	14
+GCF_046042655.1	Bacillus licheniformis	NXU98	SAMN37776918	PRJNA973802	Complete Genome		98.2	1.93	4271484	4226870	2024-12-12	no	selected	species_quality_rank	15
+GCF_030520185.1	Bacillus licheniformis	MGMM9	SAMN36471627	PRJNA995534	Complete Genome		98.15	2.21	4296212	4296212	2023-07-24	no	selected	species_quality_rank	16
+GCF_052141705.1	Bacillus licheniformis	15-E12B	SAMN50488488	PRJNA1297403	Complete Genome		98.14	0.91	4227515	4227515	2025-08-19	no	selected	species_quality_rank	17
+GCF_059947405.1	Bacillus licheniformis	n8	SAMN62013009	PRJNA1453481	Complete Genome		98.12	1.55	4159838	4159838	2026-08-10	no	selected	species_quality_rank	18
+GCF_977007745.1	Bacillus licheniformis	R-90770	SAMEA120226970	PRJEB88388	Complete Genome		98.08	1.98	4438024	4438024	2025-10-30	no	selected	species_quality_rank	19
+GCF_002236895.1	Bacillus licheniformis	BL-010	SAMN07367816	PRJNA394931	Complete Genome		98.05	1.87	4287720	4287720	2017-07-28	no	selected	species_quality_rank	20
+GCF_022808785.1	Bacillus litorisediminis	FJAT-47835	SAMN26329906	PRJNA811397	Scaffold		98.57	0.12	4541765	81565	2022-04-02	no	selected	species_quality_rank	1
+GCF_022808645.1	Bacillus litorisediminis	FJAT-47801	SAMN26329877	PRJNA811395	Scaffold	reference genome	98.57	0.71	4479585	89200	2022-04-02	no	selected	species_quality_rank	2
+GCF_044891285.1	Bacillus lumedeiriae	B190/17	SAMN36275113	PRJNA990794	Contig	reference genome	97.84	0.47	3434160	219177	2024-11-13	no	selected	species_quality_rank	1
+GCF_009739945.1	Bacillus luti	FJ	SAMN10819129	PRJNA515150	Complete Genome	reference genome	98.09	0.1	5315231	5202942	2019-12-11	no	selected	species_quality_rank	1
+GCF_044197055.1	Bacillus luti	HFPH 230110	SAMN44447135	PRJNA1177656	Scaffold		99.41	0.11	5505746	251288	2024-10-31	no	selected	species_quality_rank	2
+GCF_008923665.1	Bacillus luti	CH155b_5T	SAMN12879138	PRJNA561254	Scaffold		99.41	0.29	5557585	165899	2019-10-08	no	selected	species_quality_rank	3
+GCF_965138955.1	Bacillus luti	CIP111458T	SAMEA117660585	PRJEB85433	Scaffold		99.12	0.16	5102611	360424	2025-02-13	no	selected	species_quality_rank	4
+GCF_032008825.1	Bacillus luti		SAMN29159893	PRJNA850115	Scaffold		97.11	1.45	5219492	7627	2023-09-26	no	selected	species_quality_rank	5
+GCF_050627155.1	Bacillus luti	TIAC 902	SAMN43795252	PRJNA1162017	Contig		99.41	0.01	5603752	179224	2025-05-30	no	selected	species_quality_rank	6
+GCF_062041180.1	Bacillus luti	22-BA00409-0	SAMN63682030	PRJNA1537333	Contig		99.41	0.1	5496899	300320	2026-10-14	no	selected	species_quality_rank	7
+GCF_057589235.1	Bacillus luti	BC48	SAMN54318567	PRJNA1394226	Contig		99.41	0.11	5429779	577516	2026-05-17	no	selected	species_quality_rank	8
+GCF_037120905.1	Bacillus luti	BC014	SAMN40211136	PRJNA1082486	Contig		99.41	0.11	5498022	577515	2024-03-12	no	selected	species_quality_rank	9
+GCF_037120945.1	Bacillus luti	BC008	SAMN40211135	PRJNA1082486	Contig		99.41	0.11	5497444	577515	2024-03-12	no	selected	species_quality_rank	10
+GCF_057589155.1	Bacillus luti	BC60	SAMN54318578	PRJNA1394226	Contig		99.41	0.11	5427932	577515	2026-05-17	no	selected	species_quality_rank	11
+GCF_057589315.1	Bacillus luti	BC39	SAMN54318558	PRJNA1394226	Contig		99.41	0.11	5489821	577515	2026-05-17	no	selected	species_quality_rank	12
+GCF_057589275.1	Bacillus luti	BC42	SAMN54318561	PRJNA1394226	Contig		99.41	0.11	5517875	576632	2026-05-17	no	selected	species_quality_rank	13
+GCF_057589535.1	Bacillus luti	BC11	SAMN54318532	PRJNA1394226	Contig		99.41	0.11	5522877	576632	2026-05-17	no	selected	species_quality_rank	14
+GCF_057589135.1	Bacillus luti	BC61	SAMN54318579	PRJNA1394226	Contig		99.41	0.11	5521527	363894	2026-05-17	no	selected	species_quality_rank	15
+GCF_057589215.1	Bacillus luti	BC54	SAMN54318572	PRJNA1394226	Contig		99.41	0.11	5522195	363894	2026-05-17	no	selected	species_quality_rank	16
+GCF_059269765.1	Bacillus luti		SAMN18335975	PRJNA715191	Contig		99.41	0.65	4652426	151354	2026-07-11	no	selected	species_quality_rank	17
+GCF_050627675.1	Bacillus luti	TIAC 5045	SAMN43795228	PRJNA1162017	Contig		99.41	1.27	5484438	255342	2025-05-30	no	selected	species_quality_rank	18
+GCF_054765935.1	Bacillus luti	NR5400	SAMD00982729	PRJDB17557	Contig		99.41	3.76	6472039	492662	2025-08-25	no	selected	species_quality_rank	19
+GCF_054765815.1	Bacillus luti	NR5404	SAMD00982733	PRJDB17557	Contig		99.41	3.76	6441667	479629	2025-08-25	no	selected	species_quality_rank	20
+GCF_965139495.1	Bacillus manliponensis	CIP111019T	SAMEA117660542	PRJEB85433	Scaffold		98.86	2.75	4655834	134649	2025-02-13	no	selected	species_quality_rank	1
+GCF_000712595.1	Bacillus manliponensis	JCM 15802	SAMN02854473	PRJNA252652	Contig	reference genome	98.92	2.75	4643113	200370	2014-06-26	no	selected	species_quality_rank	2
+GCF_040500475.1	Bacillus maqinnsis	Bos-x6-28	SAMN42024221	PRJNA1128016	Complete Genome	reference genome	98.92	0.29	3329571	3225051	2024-07-03	no	selected	species_quality_rank	1
+GCF_902168435.1	Bacillus marasmi	Marseille-P3556	SAMEA5801185	PRJEB33614	Scaffold	reference genome	96.91	2.02	4638330	266719	2019-07-31	no	selected	species_quality_rank	1
+GCF_001644195.2	Bacillus marinisedimentorum	NC2-31	SAMN04585482	PRJNA316553	Contig	reference genome	96.74	0.37	4235284	83947	2016-10-11	no	selected	species_quality_rank	1
+GCF_900098925.1	Bacillus massiliglaciei	Marseille-P2600T	SAMEA4478607	PRJEB15625	Scaffold	reference genome	98.63	0.07	4145721	514308	2016-10-25	no	selected	species_quality_rank	1
+GCF_000380245.2	Bacillus massiliigorillae	G2	SAMEA2272460	PRJEB623	Scaffold	reference genome	98.76	2.06	5451072	151055	2013-10-02	no	selected	species_quality_rank	1
+GCF_900117315.1	Bacillus massilinigeriensis	Marseille-P2348T	SAMEA4534506	PRJEB17645	Scaffold	reference genome	98.82	0.17	4216923	981080	2016-11-08	no	selected	species_quality_rank	1
+GCF_900111815.1	Bacillus massilinigeriensis	Marseille-P2366	SAMEA4526347	PRJEB17078	Scaffold	reference genome	97.06	1.18	3340964	493966	2016-11-02	no	selected	species_quality_rank	2
+GCF_008923265.1	Bacillus mesophilum	IITR-54	SAMN12869503	PRJNA574805	Contig	reference genome	99.34	0.7	4546704	721628	2019-10-08	no	selected	species_quality_rank	1
+GCF_011008845.1	Bacillus mesophilus	SA4	SAMN14089839	PRJNA606386	Contig		97.58	1.37	4268431	450689	2020-02-25	no	selected	species_quality_rank	1
+GCF_016908955.1	Bacillus mesophilus	DSM 101000	SAMN17620033	PRJNA695624	Contig	reference genome	97.29	1.37	4267014	450611	2021-02-19	no	selected	species_quality_rank	2
+GCF_000724485.1	Bacillus methanolicus	MGA3	SAMN02899989	PRJNA246479	Complete Genome		97.88	2.66	3425208	3337035	2014-07-09	no	selected	species_quality_rank	1
+GCF_000262735.1	Bacillus methanolicus	MGA3	SAMN02470993	PRJNA49595	Contig		97.05	0.72	3398994	756818	2012-05-14	no	selected	species_quality_rank	2
+GCF_000262755.1	Bacillus methanolicus	PB1	SAMN00261231	PRJNA63653	Contig	reference genome	96.31	1.67	3426513	1082026	2012-05-14	no	selected	species_quality_rank	3
+GCF_057198215.1	Bacillus mobilis	LaCa_112	SAMN47812977	PRJNA1247435	Complete Genome		99.41	0.11	5400107	5334088	2026-05-05	no	selected	species_quality_rank	1
+GCF_057198225.1	Bacillus mobilis	LaCa_104	SAMN47812969	PRJNA1247435	Complete Genome	reference genome	99.41	0.12	5733196	5350878	2026-05-05	no	selected	species_quality_rank	2
+GCF_007681195.1	Bacillus mobilis	DE0306	SAMN11792466	PRJNA543692	Scaffold		100	0.78	5971064	141080	2019-07-30	no	selected	species_quality_rank	3
+GCF_027695295.1	Bacillus mobilis	LG56-01	SAMN31809624	PRJNA903559	Scaffold		99.41	0.01	5631198	80147	2023-01-12	no	selected	species_quality_rank	4
+GCF_050279905.1	Bacillus mobilis	NPDC093729	SAMN46054588	PRJNA1106891	Scaffold		99.41	0.1	5237932	364827	2025-05-08	no	selected	species_quality_rank	5
+GCF_900176845.1	Bacillus mobilis	16-00185	SAMEA103956292	PRJEB20065	Scaffold		99.41	0.1	5836648	258147	2017-05-20	no	selected	species_quality_rank	6
+GCF_036221205.1	Bacillus mobilis	NRS-1748	SAMN33941123	PRJNA802201	Scaffold		99.41	0.11	5672366	177097	2024-01-26	no	selected	species_quality_rank	7
+GCF_965138965.1	Bacillus mobilis	CIP111457T	SAMEA117660584	PRJEB85433	Scaffold		99.41	0.11	5604403	159012	2025-02-13	no	selected	species_quality_rank	8
+GCF_025518305.1	Bacillus mobilis	BC390A	SAMN27545722	PRJNA826696	Scaffold		99.41	0.11	5487447	58240	2022-10-02	no	selected	species_quality_rank	9
+GCF_007682195.1	Bacillus mobilis	DE0085	SAMN11792245	PRJNA543692	Scaffold		99.41	0.12	5776367	205410	2019-07-30	no	selected	species_quality_rank	10
+GCF_036945865.1	Bacillus mobilis	Z029	SAMN32638674	PRJNA921920	Scaffold		99.41	0.12	5606631	170286	2024-03-01	no	selected	species_quality_rank	11
+GCF_027660765.1	Bacillus mobilis	AM100_PTO_1D_15A	SAMN31808615	PRJNA903559	Scaffold		99.41	0.15	5593227	109023	2023-01-11	no	selected	species_quality_rank	12
+GCF_027661325.1	Bacillus mobilis	AM100_PB1_HT_1D_1	SAMN31808587	PRJNA903559	Scaffold		99.41	0.16	5603523	159439	2023-01-11	no	selected	species_quality_rank	13
+GCF_027661285.1	Bacillus mobilis	AM100_PB1_HT_1D_1A	SAMN31808588	PRJNA903559	Scaffold		99.41	0.16	5583658	120489	2023-01-11	no	selected	species_quality_rank	14
+GCF_025660715.1	Bacillus mobilis	BC1C	SAMN27545618	PRJNA826696	Scaffold		99.41	0.29	5584852	105388	2022-10-11	no	selected	species_quality_rank	15
+GCF_025519065.1	Bacillus mobilis	BC1E	SAMN27545620	PRJNA826696	Scaffold		99.41	0.29	5624663	89238	2022-10-02	no	selected	species_quality_rank	16
+GCF_036209425.1	Bacillus mobilis	BD-342	SAMN32927405	PRJNA802201	Scaffold		99.41	0.39	5135665	426556	2024-01-26	no	selected	species_quality_rank	17
+GCF_036209345.1	Bacillus mobilis	BD-358	SAMN32927408	PRJNA802201	Scaffold		99.41	0.39	5292615	400437	2024-01-26	no	selected	species_quality_rank	18
+GCF_036209385.1	Bacillus mobilis	BD-344	SAMN32927407	PRJNA802201	Scaffold		99.41	0.39	5283309	182808	2024-01-26	no	selected	species_quality_rank	19
+GCF_036209565.1	Bacillus mobilis	BD-332	SAMN32927399	PRJNA802201	Scaffold		99.41	0.54	5773522	379023	2024-01-26	no	selected	species_quality_rank	20
+GCF_030291295.1	Bacillus mojavensis	KRS009	SAMN34993225	PRJNA970051	Complete Genome		98.82	0.29	4089687	4089687	2023-06-19	no	selected	species_quality_rank	1
+GCF_053669635.1	Bacillus mojavensis	Bai2-32	SAMN53303096	PRJNA1366086	Complete Genome		98.82	0.59	4055438	4055438	2025-11-25	no	selected	species_quality_rank	2
+GCF_012648005.1	Bacillus mojavensis	UCMB5075	SAMN14479759	PRJNA616328	Complete Genome		98.82	0.88	4031121	4031121	2020-04-22	no	selected	species_quality_rank	3
+GCF_047301015.1	Bacillus mojavensis	C3	SAMN41415207	PRJNA1112124	Complete Genome		98.82	1.18	4057290	4057290	2025-01-29	no	selected	species_quality_rank	4
+GCF_035810895.1	Bacillus mojavensis	B-14711	SAMN33940508	PRJNA802201	Scaffold		99.41	0.59	4015796	182165	2024-01-18	no	selected	species_quality_rank	5
+GCF_035810915.1	Bacillus mojavensis	B-14710	SAMN33940507	PRJNA802201	Scaffold		99.41	0.96	4101238	169773	2024-01-18	no	selected	species_quality_rank	6
+GCF_035810955.1	Bacillus mojavensis	B-14708	SAMN33940505	PRJNA802201	Scaffold		99.41	0.97	3978495	169737	2024-01-18	no	selected	species_quality_rank	7
+GCF_035811035.1	Bacillus mojavensis	B-14704	SAMN33940501	PRJNA802201	Scaffold		99.41	1.18	4170225	187328	2024-01-18	no	selected	species_quality_rank	8
+GCF_035811015.1	Bacillus mojavensis	B-14706	SAMN33940503	PRJNA802201	Scaffold		99.35	1.47	4101313	187901	2024-01-18	no	selected	species_quality_rank	9
+GCF_026795055.1	Bacillus mojavensis	EC30O5B-F4	SAMN26000044	PRJNA806940	Scaffold		98.82	0.01	4093299	386873	2022-12-09	no	selected	species_quality_rank	10
+GCF_035810825.1	Bacillus mojavensis	B-14715	SAMN33940512	PRJNA802201	Scaffold		98.82	0.29	3963080	472090	2024-01-18	no	selected	species_quality_rank	11
+GCF_035810935.1	Bacillus mojavensis	B-14712	SAMN33940509	PRJNA802201	Scaffold		98.82	0.29	4026721	435978	2024-01-18	no	selected	species_quality_rank	12
+GCF_035810795.1	Bacillus mojavensis	B-14716	SAMN33940513	PRJNA802201	Scaffold		98.82	0.29	4024410	424398	2024-01-18	no	selected	species_quality_rank	13
+GCF_035810735.1	Bacillus mojavensis	B-14719	SAMN33940516	PRJNA802201	Scaffold		98.82	0.29	3990646	249979	2024-01-18	no	selected	species_quality_rank	14
+GCF_035810775.1	Bacillus mojavensis	B-14718	SAMN33940515	PRJNA802201	Scaffold		98.82	0.3	4087355	441512	2024-01-18	no	selected	species_quality_rank	15
+GCF_014499005.1	Bacillus mojavensis	RO-H-1	SAMN15703855	PRJNA650388	Scaffold		98.82	0.59	3964006	975253	2020-09-09	no	selected	species_quality_rank	16
+GCF_035810995.1	Bacillus mojavensis	B-14707	SAMN33940504	PRJNA802201	Scaffold		98.82	0.59	3916722	545281	2024-01-18	no	selected	species_quality_rank	17
+GCF_053551435.1	Bacillus mojavensis	HOB3	SAMN47801875	PRJNA704729	Scaffold		98.82	0.88	4122388	2116371	2025-11-18	no	selected	species_quality_rank	18
+GCF_035811075.1	Bacillus mojavensis	B-14703	SAMN33940500	PRJNA802201	Scaffold		98.82	0.88	3980785	209887	2024-01-18	no	selected	species_quality_rank	19
+GCF_035808975.1	Bacillus mojavensis	B-41811	SAMN33940614	PRJNA802201	Scaffold		98.82	0.88	4018244	144343	2024-01-18	no	selected	species_quality_rank	20
+GCF_030756675.1	Bacillus multifaciens	WLY-B-L8	SAMN36903788	PRJNA1003682	Contig	reference genome	98.82	0.76	4808568	89695	2023-08-16	no	selected	species_quality_rank	1
+GCF_018741165.1	Bacillus mycoides	JAS06/3	SAMN10879063	PRJNA521676	Complete Genome		99.41	0.2	5865739	5348830	2021-06-07	no	selected	species_quality_rank	1
+GCF_018736745.1	Bacillus mycoides	BPN09/1	SAMN10879059	PRJNA521676	Complete Genome		99.41	0.2	6134358	5340691	2021-06-07	no	selected	species_quality_rank	2
+GCF_018742045.1	Bacillus mycoides	JAS12/5	SAMN10879070	PRJNA687984	Complete Genome		99.41	0.2	5491933	5265397	2021-06-07	no	selected	species_quality_rank	3
+GCF_018741505.1	Bacillus mycoides	JAS12/5	SAMN10879070	PRJNA521676	Complete Genome		99.41	0.2	5490614	5233313	2021-06-07	no	selected	species_quality_rank	4
+GCF_018741465.1	Bacillus mycoides	JAS1004	SAMN10879083	PRJNA521676	Complete Genome		99.41	0.29	6338271	5407642	2021-06-07	no	selected	species_quality_rank	5
+GCF_030704245.1	Bacillus mycoides	PAMC 29627	SAMN36779404	PRJNA1000748	Complete Genome		99.41	0.29	5757956	5298773	2023-08-09	no	selected	species_quality_rank	6
+GCF_018739625.1	Bacillus mycoides	BPN51/1	SAMN10879076	PRJNA521676	Complete Genome		99.41	0.29	5779348	5281951	2021-06-07	no	selected	species_quality_rank	7
+GCF_050210445.1	Bacillus mycoides	LBUM136	SAMN48134734	PRJNA1255136	Complete Genome		99.41	0.29	5911531	5253156	2025-05-06	no	selected	species_quality_rank	8
+GCF_032681085.1	Bacillus mycoides	PAMC 29434	SAMN37669372	PRJNA1023692	Complete Genome		99.41	0.29	6276647	5234831	2023-10-15	no	selected	species_quality_rank	9
+GCF_018736705.1	Bacillus mycoides	BPN03/1	SAMN10879082	PRJNA521676	Complete Genome		99.41	0.29	5602899	5010935	2021-06-07	no	selected	species_quality_rank	10
+GCF_018736725.1	Bacillus mycoides	BPN07/3	SAMN10879054	PRJNA521676	Complete Genome		99.41	0.31	5740114	5145716	2021-06-07	no	selected	species_quality_rank	11
+GCF_000775975.1	Bacillus mycoides	WSBC10204	SAMN03106993	PRJNA258373	Complete Genome		99.41	0.97	5608349	5608349	2014-11-13	no	selected	species_quality_rank	12
+GCF_018739545.1	Bacillus mycoides	BPN43/2	SAMN10879064	PRJNA521676	Complete Genome		99.41	1.29	5741417	5205885	2021-06-07	no	selected	species_quality_rank	13
+GCF_018739365.1	Bacillus mycoides	BPN211	SAMN10879050	PRJNA521676	Complete Genome		99.41	2.06	5809871	5265340	2021-06-07	no	selected	species_quality_rank	14
+GCF_018741085.1	Bacillus mycoides	BPN601	SAMN10879052	PRJNA521676	Complete Genome		99.41	2.06	5753119	5245175	2021-06-07	no	selected	species_quality_rank	15
+GCF_018739305.1	Bacillus mycoides	BPN121	SAMN10879061	PRJNA521676	Complete Genome		99.41	2.06	5751434	5243491	2021-06-07	no	selected	species_quality_rank	16
+GCF_018740945.1	Bacillus mycoides	BPN573	SAMN10879074	PRJNA521676	Complete Genome		99.41	2.21	5762966	5281925	2021-06-07	no	selected	species_quality_rank	17
+GCF_018739485.1	Bacillus mycoides	BPN36/3	SAMN10879087	PRJNA521676	Complete Genome	reference genome	99.41	2.21	5697065	5215878	2021-06-07	no	selected	species_quality_rank	18
+GCF_008274925.1	Bacillus mycoides	BPN401	SAMN09370089	PRJNA475523	Complete Genome		99.35	2.06	5939450	5369163	2019-09-05	no	selected	species_quality_rank	19
+GCF_022532085.1	Bacillus mycoides	LX30	SAMN26328110	PRJNA811368	Complete Genome		99.34	1.98	6002587	5462895	2022-03-09	no	selected	species_quality_rank	20
+GCF_000612805.1	Bacillus ndiopicus		SAMEA3138977	PRJEB4275	Scaffold	reference genome	95.53	2.11	4068163	471083	2014-03-26	no	selected	species_quality_rank	1
+GCF_018141025.1	Bacillus nitratireducens	BM02	SAMN13705136	PRJNA598406	Complete Genome		99.41	0.1	5511760	5138923	2021-04-27	no	selected	species_quality_rank	1
+GCF_045371125.1	Bacillus nitratireducens	179-B FCB NHS	SAMN44342439	PRJNA1136423	Scaffold		99.41	0.2	5823887	197632	2024-11-26	no	selected	species_quality_rank	2
+GCF_007676595.1	Bacillus nitratireducens	DE0363	SAMN11792523	PRJNA543692	Scaffold		99.41	0.3	6040430	251872	2019-07-30	no	selected	species_quality_rank	3
+GCF_007681065.1	Bacillus nitratireducens	DE0336	SAMN11792496	PRJNA543692	Scaffold		99.41	0.34	5585060	270701	2019-07-30	no	selected	species_quality_rank	4
+GCF_007676605.1	Bacillus nitratireducens	DE0364	SAMN11792524	PRJNA543692	Scaffold		99.41	0.6	6059720	256832	2019-07-30	no	selected	species_quality_rank	5
+GCF_031316625.1	Bacillus nitratireducens	ATCC 6463	SAMN12236524	PRJNA553198	Scaffold		99.41	1.19	6068801	167111	2023-09-08	no	selected	species_quality_rank	6
+GCF_040815695.1	Bacillus nitratireducens	LBA71-1-1.1	SAMN37150048	PRJNA1009252	Scaffold		99.41	1.37	5847468	501680	2024-07-22	no	selected	species_quality_rank	7
+GCF_036222705.1	Bacillus nitratireducens	NRS-319	SAMN33941043	PRJNA802201	Scaffold		98.82	0.1	5979646	253299	2024-01-26	no	selected	species_quality_rank	8
+GCF_007682355.1	Bacillus nitratireducens	DE0018	SAMN11792178	PRJNA543692	Scaffold		98.82	0.1	5879417	253144	2019-07-30	no	selected	species_quality_rank	9
+GCF_900107515.1	Bacillus nitratireducens	112MF	SAMN04488146	PRJEB16636	Scaffold		98.82	0.1	5810072	253080	2016-10-22	no	selected	species_quality_rank	10
+GCF_007681365.1	Bacillus nitratireducens	DE0281	SAMN11792441	PRJNA543692	Scaffold		98.82	0.1	5830469	195399	2019-07-30	no	selected	species_quality_rank	11
+GCF_036209665.1	Bacillus nitratireducens	BD-32	SAMN32927393	PRJNA802201	Scaffold		98.82	0.69	5706001	258078	2024-01-26	no	selected	species_quality_rank	12
+GCF_040492435.1	Bacillus nitratireducens	JJ868	SAMN40001952	PRJNA1078443	Contig		99.41	0.59	5608460	74592	2024-07-03	no	selected	species_quality_rank	13
+GCF_964021195.1	Bacillus nitroreducens		SAMEA115296955	PRJEB71438	Contig	reference genome	97.25	2.84	4617405	3812000	2025-10-28	no	selected	species_quality_rank	1
+GCF_014836955.1	Bacillus norwichensis	Sa1BUA2	SAMN15803237	PRJNA543206	Scaffold	reference genome	96.96	1.51	4696597	71021	2020-09-30	no	selected	species_quality_rank	1
+GCF_900207585.1	Bacillus oleivorans	JC228	SAMN05877753	PRJEB22317	Scaffold	reference genome	98.99	3.06	4511824	469987	2017-09-28	no	selected	species_quality_rank	1
+GCF_040545835.1	Bacillus oleivorans	DSM 102971	SAMN41513473	PRJNA1115597	Contig		99.03	3.06	4510746	260738	2024-07-08	no	selected	species_quality_rank	2
+GCF_045348155.1	Bacillus pacificus	SG15	SAMN40657618	PRJNA1093502	Complete Genome		99.41	0.1	5284054	5284054	2024-04-09	no	selected	species_quality_rank	1
+GCF_051844135.1	Bacillus pacificus	EG	SAMN41818564	PRJNA1123705	Scaffold		99.41	0.1	5269713	1017395	2025-08-05	no	selected	species_quality_rank	2
+GCF_050457825.1	Bacillus pacificus	BD-476	SAMN41009384	PRJNA802201	Scaffold		99.41	0.1	5381178	370269	2025-05-19	no	selected	species_quality_rank	3
+GCF_025516245.1	Bacillus pacificus	BC471A	SAMN27545755	PRJNA826696	Scaffold		99.41	0.1	5167108	203253	2022-10-02	no	selected	species_quality_rank	4
+GCF_020686605.1	Bacillus pacificus	IZSPB_BC480A	SAMN22419722	PRJNA773646	Scaffold		99.41	0.1	5529920	142255	2021-10-31	no	selected	species_quality_rank	5
+GCF_020686565.1	Bacillus pacificus	IZSPB_BC559A	SAMN22419730	PRJNA773646	Scaffold		99.41	0.1	5499439	124486	2021-10-31	no	selected	species_quality_rank	6
+GCF_036211605.1	Bacillus pacificus	B-14724	SAMN32927293	PRJNA802201	Scaffold		99.41	0.1	5401287	79205	2024-01-26	no	selected	species_quality_rank	7
+GCF_025519105.1	Bacillus pacificus	BC444B	SAMN27545709	PRJNA826696	Scaffold		99.41	0.11	5483484	228497	2022-10-02	no	selected	species_quality_rank	8
+GCF_025519075.1	Bacillus pacificus	BC2C	SAMN27545622	PRJNA826696	Scaffold		99.41	0.29	5020928	24010	2022-10-02	no	selected	species_quality_rank	9
+GCF_025519545.1	Bacillus pacificus	BC143A	SAMN27545652	PRJNA826696	Scaffold		99.41	0.39	5653306	106394	2022-10-02	no	selected	species_quality_rank	10
+GCF_025517745.1	Bacillus pacificus	BC263A	SAMN27545679	PRJNA826696	Scaffold		99.41	0.59	5142523	122563	2022-10-02	no	selected	species_quality_rank	11
+GCF_025518505.1	Bacillus pacificus	BC245A	SAMN27545672	PRJNA826696	Scaffold		99.41	0.59	5186536	106711	2022-10-02	no	selected	species_quality_rank	12
+GCF_025518085.1	Bacillus pacificus	BC444A	SAMN27545708	PRJNA826696	Scaffold		99.41	0.59	5177023	80798	2022-10-02	no	selected	species_quality_rank	13
+GCF_020685115.1	Bacillus pacificus	IZSPB_BC431B	SAMN22419712	PRJNA773646	Scaffold		99.41	0.59	5264973	39635	2021-10-31	no	selected	species_quality_rank	14
+GCF_036209155.1	Bacillus pacificus	HD-230	SAMN32927417	PRJNA802201	Scaffold		99.35	0.07	5498980	153243	2024-01-26	no	selected	species_quality_rank	15
+GCF_036212185.1	Bacillus pacificus	B-608	SAMN32927264	PRJNA802201	Scaffold		99.22	0.88	5712302	141197	2024-01-26	no	selected	species_quality_rank	16
+GCF_010628775.1	Bacillus pacificus	24-6	SAMN07267358	PRJNA390877	Scaffold		98.82	0.01	5396319	203296	2020-02-14	no	selected	species_quality_rank	17
+GCF_020686145.1	Bacillus pacificus	IZSPB_BC433A	SAMN22419714	PRJNA773646	Scaffold		98.82	0.59	5264237	26012	2021-10-31	no	selected	species_quality_rank	18
+GCF_031316815.1	Bacillus pacificus	ATCC 10987	SAMN12236511	PRJNA553198	Scaffold		98.82	0.93	5428498	168570	2023-09-08	no	selected	species_quality_rank	19
+GCF_053456665.1	Bacillus pacificus	UF-449	SAMN50669844	PRJNA1307595	Contig		99.41	0.07	5359685	215472	2025-11-13	no	selected	species_quality_rank	20
+GCF_008365255.1	Bacillus paralicheniformis	A4-3	SAMN12179583	PRJNA552192	Complete Genome		98.78	0.05	4575791	4541365	2019-09-10	no	selected	species_quality_rank	1
+GCF_021654755.1	Bacillus paralicheniformis	J41TS8	SAMD00425497	PRJDB12645	Complete Genome		98.78	0.05	4501066	4501066	2021-12-20	no	selected	species_quality_rank	2
+GCF_030166695.1	Bacillus paralicheniformis	DY4	SAMN35327018	PRJNA975467	Complete Genome		98.78	0.05	4554414	4489365	2023-06-05	no	selected	species_quality_rank	3
+GCF_003711025.1	Bacillus paralicheniformis	CBMAI 1303	SAMN10094284	PRJNA492145	Complete Genome		98.78	0.05	4476034	4476034	2018-11-05	no	selected	species_quality_rank	4
+GCF_035985545.1	Bacillus paralicheniformis	A5	SAMN39409197	PRJNA1063838	Complete Genome		98.78	0.05	4458487	4458487	2024-01-23	no	selected	species_quality_rank	5
+GCF_059640995.1	Bacillus paralicheniformis	S3W2-7	SAMN56333870	PRJNA1246260	Complete Genome		98.78	0.05	4450638	4450638	2026-07-28	no	selected	species_quality_rank	6
+GCF_009497935.1	Bacillus paralicheniformis	FA6	SAMN09935371	PRJNA488539	Complete Genome		98.78	0.05	4450636	4450636	2019-11-04	no	selected	species_quality_rank	7
+GCF_057221515.1	Bacillus paralicheniformis		SAMN57114868	PRJNA1449211	Complete Genome		98.78	0.05	4450480	4450480	2026-05-06	no	selected	species_quality_rank	8
+GCF_057625015.1	Bacillus paralicheniformis	BW20	SAMN59422232	PRJNA1463388	Complete Genome		98.78	0.05	4449833	4449833	2026-05-19	no	selected	species_quality_rank	9
+GCF_051941075.1	Bacillus paralicheniformis	QN7	SAMN50433766	PRJNA1301033	Complete Genome		98.78	0.05	4410549	4410549	2025-08-12	no	selected	species_quality_rank	10
+GCF_054055345.1	Bacillus paralicheniformis	ZYGT1811	SAMN53472925	PRJNA1370599	Complete Genome		98.78	0.05	4409257	4409257	2025-12-17	no	selected	species_quality_rank	11
+GCF_059579645.1	Bacillus paralicheniformis	IMAULM4	SAMN60266068	PRJNA1467913	Complete Genome		98.78	0.05	4395326	4395326	2026-07-22	no	selected	species_quality_rank	12
+GCF_021654715.1	Bacillus paralicheniformis	J25TS1	SAMD00425495	PRJDB12645	Complete Genome		98.78	0.05	4394709	4394709	2021-12-20	no	selected	species_quality_rank	13
+GCF_029537035.2	Bacillus paralicheniformis	DSM 28591	SAMN33591704	PRJNA941188	Complete Genome		98.78	0.05	4394692	4394692	2025-04-15	no	selected	species_quality_rank	14
+GCF_000876525.1	Bacillus paralicheniformis	BL-09	SAMN03272542	PRJNA271049	Complete Genome		98.78	0.05	4388022	4388022	2015-02-17	no	selected	species_quality_rank	15
+GCF_038049955.1	Bacillus paralicheniformis	Baplich1	SAMN40617823	PRJNA1088293	Complete Genome		98.78	0.05	4382221	4382221	2024-04-10	no	selected	species_quality_rank	16
+GCF_000408885.1	Bacillus paralicheniformis	ATCC 9945a	SAMN02603262	PRJNA49115	Complete Genome		98.78	0.05	4376305	4376305	2013-06-05	no	selected	species_quality_rank	17
+GCF_047357735.1	Bacillus paralicheniformis	IFST-745	SAMN46392735	PRJNA1215032	Complete Genome		98.78	0.05	4355672	4355672	2025-02-03	no	selected	species_quality_rank	18
+GCF_002068155.1	Bacillus paralicheniformis	MDJK30	SAMN06605939	PRJNA379336	Complete Genome		98.78	0.05	4352468	4352468	2017-03-22	no	selected	species_quality_rank	19
+GCF_029000405.1	Bacillus paralicheniformis	RP01	SAMN33388128	PRJNA937068	Complete Genome		98.78	0.05	4338611	4338611	2023-03-06	no	selected	species_quality_rank	20
+GCF_038096195.1	Bacillus paramobilis	IMGN7	SAMN40747984	PRJNA1096151	Complete Genome	reference genome	99.41	0.1	5286002	5286002	2024-04-14	no	selected	species_quality_rank	1
+GCF_039698855.1	Bacillus paramobilis	N24509	SAMN41321891	PRJNA1110197	Complete Genome		98.82	0.69	5696471	5373828	2024-05-20	no	selected	species_quality_rank	2
+GCF_050460645.1	Bacillus paramobilis	B-59333	SAMN41009276	PRJNA802201	Scaffold		99.41	0.69	5313700	218680	2025-05-19	no	selected	species_quality_rank	3
+GCF_050456465.1	Bacillus paramobilis	HD-490	SAMN41009452	PRJNA802201	Scaffold		99.41	0.69	5500242	194130	2025-05-19	no	selected	species_quality_rank	4
+GCF_037907705.1	Bacillus paramobilis	ILBB166	SAMN20166717	PRJNA745340	Contig		99.41	0.1	5245928	736640	2024-04-01	no	selected	species_quality_rank	5
+GCF_062041181.1	Bacillus paramobilis	20-BA00189-1	SAMN63681976	PRJNA1537333	Contig		99.41	0.1	5646603	393387	2026-10-14	no	selected	species_quality_rank	6
+GCF_019656155.1	Bacillus paramobilis	BML-BC047	SAMD00327782	PRJDB11373	Contig		99.41	1.2	5427479	45049	2021-06-11	no	selected	species_quality_rank	7
+GCF_018332495.1	Bacillus paramobilis	BML-BC017	SAMD00286806	PRJDB11373	Contig		99.12	1.58	5862198	15777	2021-03-14	no	selected	species_quality_rank	8
+GCF_037027085.1	Bacillus paramobilis	JJ1149	SAMN40001716	PRJNA1078443	Contig		98.82	0.1	5364179	5337678	2024-03-05	no	selected	species_quality_rank	9
+GCF_060513185.1	Bacillus paramobilis	2P04AnB	SAMN46747621	PRJNA1048065	Contig		97.96	0.69	5394732	5325419	2026-08-27	no	selected	species_quality_rank	10
+GCF_060513165.1	Bacillus paramobilis	2P04AnC	SAMN46747622	PRJNA1048065	Contig		97.89	0.69	5394755	5325443	2026-08-27	no	selected	species_quality_rank	11
+GCF_060512285.1	Bacillus paramobilis	2P04AnA-2	SAMN46747674	PRJNA1048065	Contig		97.12	0.69	5383169	5098554	2026-08-27	no	selected	species_quality_rank	12
+GCF_061237025.1	Bacillus paramycoides	TSL15-3	SAMD01909749	PRJDB42103	Scaffold		99.41	0.1	5590218	302239	2026-09-05	no	selected	species_quality_rank	1
+GCF_044764055.1	Bacillus paramycoides	NPDC094345	SAMN43997984	PRJNA1106891	Scaffold		99.41	0.22	5211806	378133	2024-11-10	no	selected	species_quality_rank	2
+GCF_007682005.1	Bacillus paramycoides	DE0103	SAMN11792263	PRJNA543692	Scaffold		99.41	0.23	5782815	145295	2019-07-30	no	selected	species_quality_rank	3
+GCF_036209515.1	Bacillus paramycoides	BD-333	SAMN32927400	PRJNA802201	Scaffold		99.41	0.29	5182738	889457	2024-01-26	no	selected	species_quality_rank	4
+GCF_050279165.1	Bacillus paramycoides	NPDC094130	SAMN46054607	PRJNA1106891	Scaffold		99.41	0.29	5304543	253687	2025-05-08	no	selected	species_quality_rank	5
+GCF_050459945.1	Bacillus paramycoides	BD-13	SAMN41009296	PRJNA802201	Scaffold		99.41	0.29	5627347	253003	2025-05-19	no	selected	species_quality_rank	6
+GCF_052828465.1	Bacillus paramycoides	CP40	SAMN50763194	PRJNA1310007	Scaffold		99.41	0.31	5619544	208798	2025-09-24	no	selected	species_quality_rank	7
+GCF_050459985.1	Bacillus paramycoides	BD-12	SAMN41009294	PRJNA802201	Scaffold		99.41	0.39	5774287	436103	2025-05-19	no	selected	species_quality_rank	8
+GCF_036209835.1	Bacillus paramycoides	BD-15	SAMN32927385	PRJNA802201	Scaffold		99.41	0.39	5363035	309090	2024-01-26	no	selected	species_quality_rank	9
+GCF_036209905.1	Bacillus paramycoides	BD-11	SAMN32927384	PRJNA802201	Scaffold		99.41	0.51	5483749	299663	2024-01-26	no	selected	species_quality_rank	10
+GCF_036209585.1	Bacillus paramycoides	BD-331	SAMN32927398	PRJNA802201	Scaffold		99.41	0.51	5199139	247177	2024-01-26	no	selected	species_quality_rank	11
+GCF_036209465.1	Bacillus paramycoides	BD-335	SAMN32927401	PRJNA802201	Scaffold		99.41	0.51	5363943	221418	2024-01-26	no	selected	species_quality_rank	12
+GCF_026221135.1	Bacillus paramycoides	RZ3MS14	SAMN31232808	PRJNA889174	Scaffold		99.41	0.52	5493110	397909	2022-11-16	no	selected	species_quality_rank	13
+GCF_036212065.1	Bacillus paramycoides	B-3435	SAMN32927273	PRJNA802201	Scaffold		99.41	0.69	5660034	261382	2024-01-26	no	selected	species_quality_rank	14
+GCF_050280005.1	Bacillus paramycoides	NPDC093716	SAMN46054585	PRJNA1106891	Scaffold		99.41	1.1	5891624	127246	2025-05-08	no	selected	species_quality_rank	15
+GCF_050279025.1	Bacillus paramycoides	NPDC094358	SAMN46054611	PRJNA1106891	Scaffold		99.38	0.22	5285347	277061	2025-05-08	no	selected	species_quality_rank	16
+GCF_036212125.1	Bacillus paramycoides	B-615	SAMN32927265	PRJNA802201	Scaffold		99.35	0.59	5560887	231558	2024-01-26	no	selected	species_quality_rank	17
+GCF_050268685.1	Bacillus paramycoides	NPDC077662	SAMN46054382	PRJNA1106891	Scaffold		99.31	0.39	5450429	427509	2025-05-08	no	selected	species_quality_rank	18
+GCF_036209885.1	Bacillus paramycoides	BD-9	SAMN32927383	PRJNA802201	Scaffold		99.31	0.39	5299588	90184	2024-01-26	no	selected	species_quality_rank	19
+GCF_050279805.1	Bacillus paramycoides	NPDC093745	SAMN46054590	PRJNA1106891	Scaffold		99.12	1.1	5897029	112805	2025-05-08	no	selected	species_quality_rank	20
+GCF_010669045.1	Bacillus paranthracis	MN1F	SAMN14074934	PRJNA605734	Complete Genome		99.41	0.29	5687871	5687871	2020-02-17	no	selected	species_quality_rank	1
+GCF_009648955.1	Bacillus paranthracis	CFSAN068816	SAMN10574728	PRJNA541977	Complete Genome		99.41	0.29	5645678	5351395	2019-11-11	no	selected	species_quality_rank	2
+GCF_046272075.1	Bacillus paranthracis	GTVSS-022	SAMN41071145	PRJNA1101017	Complete Genome		99.41	0.29	5633680	5348116	2024-12-25	no	selected	species_quality_rank	3
+GCF_062037459.1	Bacillus paranthracis	KKU128	SAMN64015402	PRJNA1540393	Complete Genome		99.41	0.29	5668172	5334036	2026-10-14	no	selected	species_quality_rank	4
+GCF_052947565.1	Bacillus paranthracis	SDA MA60	SAMN51752802	PRJNA1330714	Complete Genome		99.41	0.29	5641419	5276401	2025-10-02	no	selected	species_quality_rank	5
+GCF_052947745.1	Bacillus paranthracis	F4430/73	SAMN51752788	PRJNA1330714	Complete Genome		99.41	0.29	5637527	5276400	2025-10-02	no	selected	species_quality_rank	6
+GCF_030440255.1	Bacillus paranthracis	F3351/87	SAMN11959608	PRJNA546470	Complete Genome		99.41	0.29	5550536	5276393	2023-07-12	no	selected	species_quality_rank	7
+GCF_023824115.1	Bacillus paranthracis	KF11	SAMN22304414	PRJNA770896	Complete Genome		99.41	0.29	5562708	5276246	2022-06-21	no	selected	species_quality_rank	8
+GCF_056776625.1	Bacillus paranthracis		SAMN53689802	PRJNA1375566	Complete Genome		99.41	0.29	5583748	5271380	2026-04-17	no	selected	species_quality_rank	9
+GCF_052947835.1	Bacillus paranthracis	F4810/72	SAMN51752790	PRJNA1330714	Complete Genome		99.41	0.29	5584430	5269179	2025-10-02	no	selected	species_quality_rank	10
+GCF_024205365.1	Bacillus paranthracis	SL1	SAMN26650508	PRJNA815915	Complete Genome		99.41	0.29	5568962	5243627	2022-07-11	no	selected	species_quality_rank	11
+GCF_056776665.1	Bacillus paranthracis		SAMN53689801	PRJNA1375566	Complete Genome		99.41	0.29	5492134	5230068	2026-04-17	no	selected	species_quality_rank	12
+GCF_057198205.1	Bacillus paranthracis	LaCa_272	SAMN47813068	PRJNA1247435	Complete Genome		99.41	0.29	5729511	5202193	2026-05-05	no	selected	species_quality_rank	13
+GCF_052947595.1	Bacillus paranthracis	NC7401	SAMN51752797	PRJNA1330714	Complete Genome		99.41	0.29	5509155	5183228	2025-10-02	no	selected	species_quality_rank	14
+GCF_029282725.1	Bacillus paranthracis	Bc006	SAMN33463191	PRJNA939095	Complete Genome		99.41	0.59	5457931	5304537	2023-03-20	no	selected	species_quality_rank	15
+GCF_042137985.1	Bacillus paranthracis	mr-1B	SAMN43220820	PRJNA1148775	Complete Genome		99.41	0.6	5718555	5328338	2024-09-22	no	selected	species_quality_rank	16
+GCF_052947775.1	Bacillus paranthracis	NVH 0075-95	SAMN51752799	PRJNA1330714	Complete Genome		99.41	0.97	6044751	5360356	2025-10-02	no	selected	species_quality_rank	17
+GCF_027945115.1	Bacillus paranthracis	NVH_0075/95	SAMN32721127	PRJNA923361	Complete Genome		99.41	0.97	6055697	5360106	2023-01-24	no	selected	species_quality_rank	18
+GCF_988234995.1	Bacillus paranthracis	BF3HA18002B	SAMEA123409761	PRJEB124963	Complete Genome		99.12	0.01	6134181	5617764	2026-09-05	no	selected	species_quality_rank	19
+GCF_037157755.1	Bacillus paranthracis	PUMB_17	SAMN35673567	PRJNA981337	Complete Genome		98.92	0.29	5321065	5250970	2024-03-14	no	selected	species_quality_rank	20
+GCF_050768835.1	Bacillus pfraonensis	70b	SAMN18869713	PRJNA725081	Contig	reference genome	99.12	0.05	5645981	157095	2025-06-04	no	selected	species_quality_rank	1
+GCF_023036475.1	Bacillus pinisoli	GXH0341	SAMN23765204	PRJNA786958	Contig	reference genome	97.65	0.07	4004187	242785	2022-04-18	no	selected	species_quality_rank	1
+GCF_022458745.1	Bacillus piscicola	FBU1786	SAMN23166222	PRJNA780497	Contig	reference genome	95.27	1.39	3516488	263892	2022-03-03	no	selected	species_quality_rank	1
+GCF_054055455.1	Bacillus pretiosus	AloCV-ICA1	SAMN53514221	PRJNA1371708	Complete Genome		98.73	0.1	5527059	5527059	2025-12-17	no	selected	species_quality_rank	1
+GCF_052947635.1	Bacillus pretiosus	BC59	SAMN51752786	PRJNA1330714	Complete Genome		98.68	0.67	5532701	5392568	2025-10-02	no	selected	species_quality_rank	2
+GCF_051294775.1	Bacillus pretiosus	calajunan	SAMN49769117	PRJNA1285566	Scaffold		99.41	1.69	6027683	570056	2025-07-10	no	selected	species_quality_rank	3
+GCF_060052265.1	Bacillus pretiosus	LHMT005	SAMN50431419	PRJNA1298570	Scaffold		98.82	0.39	5894105	210293	2026-08-12	no	selected	species_quality_rank	4
+GCF_050630525.1	Bacillus pretiosus	720	SAMN43795086	PRJNA1162017	Contig		99.41	0.05	5675745	192499	2025-05-30	no	selected	species_quality_rank	5
+GCF_050630485.1	Bacillus pretiosus	730	SAMN43795088	PRJNA1162017	Contig		99.41	0.05	5683697	163644	2025-05-30	no	selected	species_quality_rank	6
+GCF_050630505.1	Bacillus pretiosus	725	SAMN43795087	PRJNA1162017	Contig		99.41	0.05	5673500	156353	2025-05-30	no	selected	species_quality_rank	7
+GCF_050627235.1	Bacillus pretiosus	TIAC 76	SAMN43795250	PRJNA1162017	Contig		99.41	0.1	5316570	440825	2025-05-30	no	selected	species_quality_rank	8
+GCF_050627195.1	Bacillus pretiosus	TIAC 78	SAMN43795251	PRJNA1162017	Contig		99.41	0.1	5357827	325942	2025-05-30	no	selected	species_quality_rank	9
+GCF_050628075.1	Bacillus pretiosus	TIAC 4166	SAMN43795208	PRJNA1162017	Contig		99.41	0.1	5675267	280201	2025-05-30	no	selected	species_quality_rank	10
+GCF_050630285.1	Bacillus pretiosus	637	SAMN43795097	PRJNA1162017	Contig		99.41	0.42	5554089	218628	2025-05-30	no	selected	species_quality_rank	11
+GCF_025916425.1	Bacillus pretiosus	SAICEU11T	SAMN29203362	PRJNA850797	Contig		98.82	0.1	5385342	170108	2022-10-31	no	selected	species_quality_rank	12
+GCF_050628525.1	Bacillus pretiosus	TIAC 2686	SAMN43795186	PRJNA1162017	Contig		98.82	0.39	5563327	273101	2025-05-30	no	selected	species_quality_rank	13
+GCF_056776715.1	Bacillus proteolyticus		SAMN53689804	PRJNA1375566	Complete Genome	reference genome	99.41	0.66	6090517	5315000	2026-04-17	no	selected	species_quality_rank	1
+GCF_036211985.1	Bacillus proteolyticus	B-3436	SAMN32927274	PRJNA802201	Scaffold		99.41	0.29	5948885	400558	2024-01-26	no	selected	species_quality_rank	2
+GCF_040676575.1	Bacillus proteolyticus	LBA1-1-1.1	SAMN37150043	PRJNA1009252	Scaffold		99.41	0.66	5952527	225279	2024-07-12	no	selected	species_quality_rank	3
+GCF_040815725.1	Bacillus proteolyticus	LBA112-1-1.1	SAMN37150044	PRJNA1009252	Scaffold		99.41	0.66	5959089	174209	2024-07-22	no	selected	species_quality_rank	4
+GCF_060051385.1	Bacillus proteolyticus	PCYT017	SAMN50431444	PRJNA1298570	Scaffold		98.82	0.29	5720219	815556	2026-08-12	no	selected	species_quality_rank	5
+GCF_001884065.1	Bacillus proteolyticus	TD42	SAMN05231663	PRJNA325897	Contig		99.41	0.44	5859329	131211	2016-11-18	no	selected	species_quality_rank	6
+GCF_057473885.1	Bacillus proteolyticus		SAMN18336003	PRJNA715191	Contig		99.41	0.66	5971007	35230	2026-05-13	no	selected	species_quality_rank	7
+GCF_050563345.1	Bacillus proteolyticus	B30	SAMN48388843	PRJNA1260214	Contig		99.41	0.67	5991575	172249	2025-05-24	no	selected	species_quality_rank	8
+GCF_057473905.1	Bacillus proteolyticus		SAMN18336001	PRJNA715191	Contig		99.41	0.96	6023393	157902	2026-05-13	no	selected	species_quality_rank	9
+GCF_037937215.1	Bacillus proteolyticus	IMGN4	SAMN40626903	PRJNA1092556	Contig		98.82	0.29	6063502	5162090	2024-04-02	no	selected	species_quality_rank	10
+GCF_050210255.1	Bacillus pseudomycoides	LBUM169	SAMN48134735	PRJNA1255136	Complete Genome		99.3	0.12	5544785	5150794	2025-05-06	no	selected	species_quality_rank	1
+GCF_056237715.1	Bacillus pseudomycoides	TBC_tester_strain	SAMN50521509	PRJNA1303681	Complete Genome		99.02	0.12	5121676	5121676	2026-03-23	no	selected	species_quality_rank	2
+GCF_000832885.1	Bacillus pseudomycoides	BTZ	SAMN03107476	PRJNA238237	Complete Genome		98.82	0.13	5676963	5229095	2015-02-05	no	selected	species_quality_rank	3
+GCF_000742855.1	Bacillus pseudomycoides	219298	SAMN03081542	PRJNA243593	Complete Genome		98.73	0.13	5675302	5228024	2014-08-21	no	selected	species_quality_rank	4
+GCF_051902015.1	Bacillus pseudomycoides		SAMN48445739	PRJNA1261996	Complete Genome		98.32	0.12	5228712	5228712	2025-08-05	no	selected	species_quality_rank	5
+GCF_000161435.1	Bacillus pseudomycoides	Rock3-17	SAMN00727643	PRJNA29705	Chromosome		98.82	0.12	5713954	59359	2009-05-29	no	selected	species_quality_rank	6
+GCF_000161455.1	Bacillus pseudomycoides	DSM 12442	SAMN00727631	PRJNA29707	Chromosome	reference genome	98.82	0.31	5782514	72236	2009-05-29	no	selected	species_quality_rank	7
+GCF_040829845.1	Bacillus pseudomycoides	153	SAMN42518159	PRJNA884320	Scaffold		99.41	0.12	5622098	253312	2024-07-23	no	selected	species_quality_rank	8
+GCF_007681785.1	Bacillus pseudomycoides	DE0184	SAMN11792344	PRJNA543692	Scaffold		99.41	0.12	5631224	150489	2019-07-30	no	selected	species_quality_rank	9
+GCF_002576515.1	Bacillus pseudomycoides	AFS043018	SAMN07597965	PRJNA400804	Scaffold		99.41	0.12	5697573	111995	2017-10-18	no	selected	species_quality_rank	10
+GCF_002572065.1	Bacillus pseudomycoides	AFS064122	SAMN07598248	PRJNA400804	Scaffold		99.41	0.12	5783791	106171	2017-10-17	no	selected	species_quality_rank	11
+GCF_002580745.1	Bacillus pseudomycoides	AFS047869	SAMN07598027	PRJNA400804	Scaffold		99.41	0.12	5639348	88451	2017-10-18	no	selected	species_quality_rank	12
+GCF_002569985.1	Bacillus pseudomycoides	AFS074290	SAMN07598384	PRJNA400804	Scaffold		99.41	0.12	5488723	78897	2017-10-17	no	selected	species_quality_rank	13
+GCF_002555995.1	Bacillus pseudomycoides	AFS005149	SAMN07597307	PRJNA400804	Scaffold		99.41	0.17	5510516	59006	2017-10-16	no	selected	species_quality_rank	14
+GCF_002552815.1	Bacillus pseudomycoides	AFS099912	SAMN07598722	PRJNA400804	Scaffold		99.41	0.22	5442844	49911	2017-10-13	no	selected	species_quality_rank	15
+GCF_002579975.1	Bacillus pseudomycoides	AFS052781	SAMN07598087	PRJNA400804	Scaffold		99.41	0.41	5545629	42424	2017-10-18	no	selected	species_quality_rank	16
+GCF_002589505.1	Bacillus pseudomycoides	AFS035137	SAMN07597868	PRJNA400804	Scaffold		99.41	0.71	5439389	51412	2017-10-18	no	selected	species_quality_rank	17
+GCF_031316595.1	Bacillus pseudomycoides	ATCC 10206	SAMN12236525	PRJNA553198	Scaffold		99.41	2.35	5735220	138710	2023-09-08	no	selected	species_quality_rank	18
+GCF_054353755.1	Bacillus pseudomycoides	CHAES I 2_2	SAMN52661584	PRJNA1332261	Scaffold		99.31	0.12	5154520	149429	2026-01-05	no	selected	species_quality_rank	19
+GCF_002555005.1	Bacillus pseudomycoides	AFS017092	SAMN07597458	PRJNA400804	Scaffold		99.31	0.12	5204562	77716	2017-10-16	no	selected	species_quality_rank	20
+GCF_000017885.4	Bacillus pumilus	SAFR-032	SAMN00253833	PRJNA20391	Complete Genome	reference genome	98.16	0.19	3704641	3704641	2016-03-15	no	selected	species_quality_rank	1
+GCF_030122825.1	Bacillus pumilus	B2_10	SAMN34374851	PRJNA960711	Complete Genome		96.54	3.54	3892007	3892007	2023-05-27	no	selected	species_quality_rank	2
+GCF_055694105.1	Bacillus pumilus	M9	SAMN54251678	PRJNA1392181	Complete Genome		95.88	1.21	3651153	3651153	2026-03-06	no	selected	species_quality_rank	3
+GCF_030717805.1	Bacillus pumilus	F12-21	SAMN36823470	PRJNA1001884	Complete Genome		95.64	3.76	3769799	3769799	2023-08-13	no	selected	species_quality_rank	4
+GCF_040250345.1	Bacillus pumilus	RI06-95	SAMN41672263	PRJNA1119991	Complete Genome		95.63	3.6	3903065	3800112	2024-06-19	no	selected	species_quality_rank	5
+GCF_977007725.1	Bacillus pumilus	R-90763	SAMEA120226968	PRJEB88388	Complete Genome		95.57	3.49	3775567	3775567	2025-10-30	no	selected	species_quality_rank	6
+GCF_029634685.1	Bacillus pumilus	MS32	SAMN26309570	PRJNA811128	Complete Genome		95.5	2.6	3824664	3824664	2023-04-10	no	selected	species_quality_rank	7
+GCF_964063375.1	Bacillus pumilus		SAMEA115434236	PRJEB74198	Complete Genome		95.49	3.09	3794616	3753338	2024-05-28	no	selected	species_quality_rank	8
+GCF_001578205.1	Bacillus pumilus	SH-B9	SAMN03372270	PRJNA276289	Complete Genome		95.47	2.64	3878815	3787586	2016-03-01	no	selected	species_quality_rank	9
+GCF_029857515.2	Bacillus pumilus	DSM 1794	SAMN33591697	PRJNA941188	Complete Genome		95.31	2.17	3792642	3786030	2025-04-29	no	selected	species_quality_rank	10
+GCF_055597785.1	Bacillus pumilus	BIM B-369	SAMN55849006	PRJNA1426330	Complete Genome		95.25	3.27	3962614	3962614	2026-03-02	no	selected	species_quality_rank	11
+GCF_040893075.1	Bacillus pumilus	LBUM494	SAMN42554341	PRJNA1136810	Complete Genome		95.22	1.53	3699913	3699913	2024-07-24	no	selected	species_quality_rank	12
+GCF_055597795.1	Bacillus pumilus	BIM B-2185	SAMN55848610	PRJNA1426207	Complete Genome		95.2	1.52	3788996	3780988	2026-03-02	no	selected	species_quality_rank	13
+GCF_040712265.1	Bacillus pumilus	JJ1368	SAMN40001725	PRJNA1078443	Complete Genome		95.05	1.41	3890802	3821053	2024-07-15	no	selected	species_quality_rank	14
+GCF_040712255.1	Bacillus pumilus	JJ1622	SAMN40001729	PRJNA1078443	Complete Genome		95.02	0.47	3705623	3698240	2024-07-15	no	selected	species_quality_rank	15
+GCF_050995325.1	Bacillus pumilus	3P04H2-A	SAMN46747633	PRJNA1048065	Chromosome		98.24	0.19	3716619	3716519	2025-06-19	no	selected	species_quality_rank	16
+GCF_050995335.1	Bacillus pumilus	3P07UA	SAMN46747634	PRJNA1048065	Chromosome		98.24	0.19	3716618	3716518	2025-06-19	no	selected	species_quality_rank	17
+GCF_050995305.1	Bacillus pumilus	3P02H2-A	SAMN46747631	PRJNA1048065	Chromosome		98.24	0.19	3716439	3716339	2025-06-19	no	selected	species_quality_rank	18
+GCF_050994975.1	Bacillus pumilus	1P9-T-A	SAMN46747524	PRJNA1048065	Chromosome		98.24	0.19	3709848	3709748	2025-06-19	no	selected	species_quality_rank	19
+GCF_050995315.1	Bacillus pumilus	3P02H2-B	SAMN46747632	PRJNA1048065	Chromosome		98.24	0.2	3716442	3716342	2025-06-19	no	selected	species_quality_rank	20
+GCF_917563915.1	Bacillus rhizoplanae	CIP 111899	SAMEA9995628	PRJEB47722	Scaffold	reference genome	99.35	0.07	4442577	165932	2021-11-13	no	selected	species_quality_rank	1
+GCF_050456785.1	Bacillus rhizoplanae	BD-637	SAMN41009436	PRJNA802201	Scaffold		98.82	0.19	4578115	328744	2025-05-19	no	selected	species_quality_rank	2
+GCF_011745685.2	Bacillus rugosus	SPB7	SAMN14278071	PRJNA610132	Contig		98.82	0.59	4510026	374004	2020-06-15	no	selected	species_quality_rank	1
+GCF_046245155.1	Bacillus safensis	GUCCb3-7	SAMN45812046	PRJNA1197667	Complete Genome		99.12	0.29	3793516	3793516	2024-12-22	no	selected	species_quality_rank	1
+GCF_046267945.1	Bacillus safensis	D-62	SAMN45832065	PRJNA1198194	Complete Genome		99.12	0.29	3787572	3787572	2024-12-24	no	selected	species_quality_rank	2
+GCF_008244765.1	Bacillus safensis	PgKB20	SAMN12612896	PRJNA560751	Complete Genome		99.12	0.29	3786744	3786744	2019-09-03	no	selected	species_quality_rank	3
+GCF_030122965.1	Bacillus safensis	CEW-AP100	SAMN34374920	PRJNA960711	Complete Genome		99.12	0.29	3781803	3781803	2023-05-27	no	selected	species_quality_rank	4
+GCF_030123005.1	Bacillus safensis	CEW AP102	SAMN34374923	PRJNA960711	Complete Genome		99.12	0.29	3777634	3777634	2023-05-27	no	selected	species_quality_rank	5
+GCF_061143105.1	Bacillus safensis	BW-13	SAMN54226434	PRJNA1391673	Complete Genome		99.12	0.29	3777480	3777480	2026-09-13	no	selected	species_quality_rank	6
+GCF_027594445.1	Bacillus safensis	BS-10L	SAMN31747615	PRJNA902110	Complete Genome		99.12	0.29	3776401	3776401	2023-01-09	no	selected	species_quality_rank	7
+GCF_982518325.1	Bacillus safensis		SAMEA122042287	PRJEB110789	Complete Genome		99.12	0.29	3773098	3766086	2026-04-17	no	selected	species_quality_rank	8
+GCF_025309755.1	Bacillus safensis	GX-H6	SAMN30816007	PRJNA879880	Complete Genome		99.12	0.29	3751152	3751152	2022-09-20	no	selected	species_quality_rank	9
+GCF_021398835.1	Bacillus safensis	H31R-08	SAMN24429176	PRJNA792492	Complete Genome		99.12	0.29	3745092	3745092	2022-01-10	no	selected	species_quality_rank	10
+GCF_030845295.1	Bacillus safensis	PL23A	SAMN36949883	PRJNA1000247	Complete Genome		99.12	0.29	3734451	3734451	2023-08-20	no	selected	species_quality_rank	11
+GCF_057655295.1	Bacillus safensis	CICC 20520	SAMN59747059	PRJNA1465538	Complete Genome		99.12	0.29	3731750	3725153	2026-05-20	no	selected	species_quality_rank	12
+GCF_039619595.1	Bacillus safensis	FUA2118	SAMN39511941	PRJNA1066968	Complete Genome		99.12	0.29	3719507	3713557	2024-05-13	no	selected	species_quality_rank	13
+GCF_053592795.2	Bacillus safensis	BS1-A	SAMN53210486	PRJNA1363193	Complete Genome		99.12	0.29	3686099	3686099	2026-01-22	no	selected	species_quality_rank	14
+GCF_030292035.1	Bacillus safensis	G6S3	SAMN34374889	PRJNA960711	Complete Genome		99.12	0.29	3677506	3670853	2023-06-20	no	selected	species_quality_rank	15
+GCF_037094785.1	Bacillus safensis	JJ1041	SAMN40001711	PRJNA1078443	Complete Genome		99.12	0.3	3813095	3813095	2024-03-10	no	selected	species_quality_rank	16
+GCF_062009787.1	Bacillus safensis	HBCM-B0134	SAMN63239574	PRJNA1531268	Complete Genome		99.12	0.59	3854703	3848334	2026-09-29	no	selected	species_quality_rank	17
+GCF_029536915.2	Bacillus safensis	PRO114	SAMN33591723	PRJNA941188	Complete Genome		99.11	0.29	3773908	3773908	2025-04-15	no	selected	species_quality_rank	18
+GCF_039619585.1	Bacillus safensis	FUA2117	SAMN39511940	PRJNA1066968	Complete Genome	reference genome	99.06	0.29	3703645	3697266	2024-05-13	no	selected	species_quality_rank	19
+GCF_055454075.1	Bacillus safensis	HMDUC-86	SAMN55215432	PRJNA1420361	Complete Genome		98.97	0.29	3799708	3799708	2026-02-24	no	selected	species_quality_rank	20
+GCF_049177075.1	Bacillus salacetis	SM2309	SAMN47446283	PRJNA1238000	Complete Genome		97.45	1.78	4457573	4443543	2025-03-30	no	selected	species_quality_rank	1
+GCF_003581585.1	Bacillus salacetis	SKP7-4	SAMN09976370	PRJNA489345	Contig	reference genome	97.65	0.93	4681042	107572	2018-09-20	no	selected	species_quality_rank	2
+GCF_003944835.1	Bacillus salinus	HMF5848	SAMN09947507	PRJNA449135	Contig	reference genome	97.35	1.48	4547917	4518705	2018-12-12	no	selected	species_quality_rank	1
+GCF_050466145.1	Bacillus salipaludis	B-14548	SAMN41009132	PRJNA802201	Scaffold		98.82	3.93	5625407	134040	2025-05-20	no	selected	species_quality_rank	1
+GCF_036211705.1	Bacillus salipaludis	B-14552	SAMN32927288	PRJNA802201	Scaffold		98.82	4.4	6380214	164721	2024-01-26	no	selected	species_quality_rank	2
+GCF_045257875.1	Bacillus salipaludis	Z 5.4	SAMN44766302	PRJNA1186539	Contig		98.82	2.86	6022029	179638	2024-11-24	no	selected	species_quality_rank	3
+GCF_004358205.1	Bacillus salipaludis	WN066	SAMN11124436	PRJNA526969	Contig	reference genome	98.24	4.03	6213503	465434	2019-03-19	no	selected	species_quality_rank	4
+GCF_030938565.1	Bacillus salipaludis	PS3-36	SAMN36999282	PRJNA1005785	Contig		97.96	4.63	6738587	6261405	2023-08-29	no	selected	species_quality_rank	5
+GCF_042680805.1	Bacillus salitolerans	CGMCC 1.12810	SAMN43282651	PRJNA595761	Scaffold	reference genome	97.65	2.1	4928704	139876	2024-10-06	no	selected	species_quality_rank	1
+GCF_018332475.1	Bacillus sanguinis	BML-BC004	SAMD00286805	PRJDB11373	Contig	reference genome	99.41	0.3	5479511	22700	2021-03-14	no	selected	species_quality_rank	1
+GCF_042684945.1	Bacillus seohaeanensis	KCTC 3913	SAMN43282408	PRJNA595761	Scaffold	reference genome	99.41	0.39	4352309	269418	2024-10-07	no	selected	species_quality_rank	1
+GCF_020519665.1	Bacillus shivajii	JCM 32183	SAMN22105478	PRJNA769199	Complete Genome	reference genome	97.16	1.21	4440119	4440119	2021-10-18	no	selected	species_quality_rank	1
+GCF_036226085.1	Bacillus siamensis	NRS-48	SAMN33940970	PRJNA802201	Scaffold		99.8	0.13	3933552	317412	2024-01-27	no	selected	species_quality_rank	1
+GCF_050455705.1	Bacillus siamensis	NRS-1098	SAMN41009491	PRJNA802201	Contig		99.41	0.2	4004528	967695	2025-05-19	no	selected	species_quality_rank	2
+GCF_001050115.1	Bacillus smithii	DSM 4216	SAMN03246763	PRJNA258357	Complete Genome	reference genome	98.67	0.29	3381292	3368778	2015-07-08	no	selected	species_quality_rank	1
+GCF_036208205.1	Bacillus smithii	NRS-1557	SAMN32927468	PRJNA802201	Scaffold		98.67	0.29	3339618	105106	2024-01-26	no	selected	species_quality_rank	2
+GCF_036211645.1	Bacillus smithii	B-14695	SAMN32927292	PRJNA802201	Scaffold		98.67	0.29	3415052	82408	2024-01-26	no	selected	species_quality_rank	3
+GCF_050465685.1	Bacillus smithii	B-14747	SAMN41009141	PRJNA802201	Scaffold		98.67	0.29	3406760	77915	2025-05-19	no	selected	species_quality_rank	4
+GCF_037907225.1	Bacillus smithii	NRS-1556	SAMN32927467	PRJNA802201	Scaffold		98.67	0.29	3251812	46027	2024-04-01	no	selected	species_quality_rank	5
+GCF_037907185.1	Bacillus smithii	NRS-1558	SAMN32927469	PRJNA802201	Scaffold		98.67	0.36	3617223	40955	2024-04-01	no	selected	species_quality_rank	6
+GCF_036225765.1	Bacillus smithii	NRS-99	SAMN33940986	PRJNA802201	Scaffold		98.67	0.59	3347776	34665	2024-01-27	no	selected	species_quality_rank	7
+GCF_027692035.1	Bacillus smithii	OF49-05CM05A	SAMN31809746	PRJNA903559	Scaffold		98.67	0.59	3195707	22277	2023-01-12	no	selected	species_quality_rank	8
+GCF_036225785.1	Bacillus smithii	NRS-97	SAMN33940985	PRJNA802201	Scaffold		98.67	0.88	3380153	34608	2024-01-27	no	selected	species_quality_rank	9
+GCF_036211625.1	Bacillus smithii	B-14740	SAMN32927294	PRJNA802201	Scaffold		98.67	1.18	3472875	78083	2024-01-26	no	selected	species_quality_rank	10
+GCF_036211585.1	Bacillus smithii	B-14744	SAMN32927296	PRJNA802201	Scaffold		98.57	1.18	3473922	108855	2024-01-26	no	selected	species_quality_rank	11
+GCF_050465705.1	Bacillus smithii	B-14746	SAMN41009140	PRJNA802201	Scaffold		98.08	0.29	3383340	232308	2025-05-19	no	selected	species_quality_rank	12
+GCF_000238675.1	Bacillus smithii	7_3_47FAA	SAMN02463789	PRJNA40007	Scaffold		97.56	0.36	3238901	34551	2011-12-20	no	selected	species_quality_rank	13
+GCF_061234905.1	Bacillus smithii	CCB-2	SAMN60675086	PRJNA1471341	Contig		98.67	0.29	3369244	723070	2026-09-13	no	selected	species_quality_rank	14
+GCF_050467385.1	Bacillus smithii	B-1175	SAMN41009101	PRJNA802201	Contig		98.67	0.29	3406290	77643	2025-05-20	no	selected	species_quality_rank	15
+GCF_001591985.1	Bacillus smithii	NBRC 15311	SAMD00046984	PRJDB409	Contig		98.67	0.29	3244746	41435	2016-02-27	no	selected	species_quality_rank	16
+GCF_050479565.1	Bacillus smithii	NRS-169	SAMN41009678	PRJNA802201	Contig		98.67	0.29	3209188	30794	2025-05-20	no	selected	species_quality_rank	17
+GCF_050481085.1	Bacillus smithii	NRS-142	SAMN41009619	PRJNA802201	Contig		98.67	0.65	3443426	30063	2025-05-20	no	selected	species_quality_rank	18
+GCF_050481045.1	Bacillus smithii	NRS-143	SAMN41009621	PRJNA802201	Contig		98.59	0.07	3259301	28686	2025-05-20	no	selected	species_quality_rank	19
+GCF_050481205.1	Bacillus smithii	NRS-140	SAMN41009613	PRJNA802201	Contig		98.38	0.44	3417591	50572	2025-05-20	no	selected	species_quality_rank	20
+GCF_001742425.1	Bacillus solimangrovi	GH2-4	SAMN05526266	PRJNA338213	Scaffold	reference genome	97.35	1.06	3844017	104661	2016-09-23	no	selected	species_quality_rank	1
+GCF_002797395.1	Bacillus solitudinis	FJAT-45086	SAMN07249152	PRJNA390709	Scaffold	reference genome	98.24	2.42	4678137	422280	2017-11-28	no	selected	species_quality_rank	1
+GCF_042649685.1	Bacillus songklensis	CCUG 61889	SAMN43282027	PRJNA595761	Scaffold	reference genome	99.41	1.74	4944439	120037	2024-10-05	no	selected	species_quality_rank	1
+GCF_052827745.1	Bacillus sonorensis	JK-013	SAMN49999661	PRJNA1292390	Complete Genome		99.41	0.21	4613042	4607466	2025-09-25	no	selected	species_quality_rank	1
+GCF_034055115.1	Bacillus sonorensis	PMC204	SAMN38323230	PRJNA1042845	Complete Genome	reference genome	99.41	0.79	4827387	4803670	2023-12-04	no	selected	species_quality_rank	2
+GCF_002202015.1	Bacillus sonorensis	SRCM101395	SAMN07211384	PRJNA389958	Complete Genome		97.72	0.21	4832293	4832293	2017-06-20	no	selected	species_quality_rank	3
+GCF_003473165.1	Bacillus sonorensis	AM12-57B	SAMN09734790	PRJNA482748	Scaffold		99.41	0.21	4783145	282690	2018-09-06	no	selected	species_quality_rank	4
+GCF_035804855.1	Bacillus sonorensis	CBP-3211	SAMN33940167	PRJNA949242	Scaffold		99.41	0.78	4813311	783045	2024-01-18	no	selected	species_quality_rank	5
+GCF_035804475.1	Bacillus sonorensis	CBP-3235	SAMN33940188	PRJNA949242	Scaffold		99.41	0.78	4741443	783043	2024-01-18	no	selected	species_quality_rank	6
+GCF_035804955.1	Bacillus sonorensis	CBP-3204	SAMN33940161	PRJNA949242	Scaffold		99.41	0.78	4732419	733541	2024-01-18	no	selected	species_quality_rank	7
+GCF_018332995.1	Bacillus sonorensis	J41TS2	SAMD00277601	PRJDB11087	Scaffold		99.41	0.78	4797175	580807	2021-03-26	no	selected	species_quality_rank	8
+GCF_035810055.1	Bacillus sonorensis	B-23159	SAMN33940551	PRJNA802201	Scaffold		99.41	0.78	4667006	477708	2024-01-18	no	selected	species_quality_rank	9
+GCF_035804755.1	Bacillus sonorensis	CBP-3215	SAMN33940171	PRJNA949242	Scaffold		99.41	0.78	4586941	412870	2024-01-18	no	selected	species_quality_rank	10
+GCF_035810035.1	Bacillus sonorensis	B-23160	SAMN33940552	PRJNA802201	Scaffold		99.41	0.78	4411747	397177	2024-01-18	no	selected	species_quality_rank	11
+GCF_050464565.1	Bacillus sonorensis	B-23157	SAMN41009171	PRJNA802201	Scaffold		99.41	0.78	4574025	295299	2025-05-19	no	selected	species_quality_rank	12
+GCF_027688195.1	Bacillus sonorensis	AF04-49-2	SAMN31807715	PRJNA903559	Scaffold		99.41	0.79	4830166	252092	2023-01-12	no	selected	species_quality_rank	13
+GCF_035810075.1	Bacillus sonorensis	B-23155	SAMN33940548	PRJNA802201	Scaffold		99.41	1.37	4406485	842313	2024-01-18	no	selected	species_quality_rank	14
+GCF_035810135.1	Bacillus sonorensis	B-23154	SAMN33940547	PRJNA802201	Scaffold		99.41	1.37	4429968	707087	2024-01-18	no	selected	species_quality_rank	15
+GCF_026788725.1	Bacillus sonorensis	S15C8	SAMN25999930	PRJNA806940	Scaffold		99.41	1.37	4601037	330258	2022-12-09	no	selected	species_quality_rank	16
+GCF_026792135.1	Bacillus sonorensis	N2b2	SAMN25999758	PRJNA806940	Scaffold		99.4	0.78	4640011	124677	2022-12-09	no	selected	species_quality_rank	17
+GCF_026789675.1	Bacillus sonorensis	N4C10	SAMN25999884	PRJNA806940	Scaffold		99.38	0.78	4610164	356221	2022-12-09	no	selected	species_quality_rank	18
+GCF_900166645.1	Bacillus sonorensis	Marseille-P3463	SAMEA88385668	PRJEB19417	Scaffold		99.37	0.2	4546088	2407835	2017-02-17	no	selected	species_quality_rank	19
+GCF_026789585.1	Bacillus sonorensis	N4C8	SAMN25999887	PRJNA806940	Scaffold		99.35	1.37	4507635	295688	2022-12-09	no	selected	species_quality_rank	20
+GCF_036785745.1	Bacillus spizizenii	kcgeb_sc	SAMN28663891	PRJNA842421	Complete Genome		99.41	0.29	4130445	4130445	2024-02-22	no	selected	species_quality_rank	1
+GCF_036884815.1	Bacillus spizizenii	kcgeb_S11	SAMN39909520	PRJNA1075203	Complete Genome		99.41	0.29	4130172	4130172	2024-02-27	no	selected	species_quality_rank	2
+GCF_051904025.1	Bacillus spizizenii	NM375	SAMN28462515	PRJNA838762	Complete Genome		98.82	0.29	4148993	4148993	2025-08-09	no	selected	species_quality_rank	3
+GCF_046267965.1	Bacillus spizizenii	29-4	SAMN45884960	PRJNA1199689	Complete Genome		98.82	0.29	4096143	4096143	2024-12-24	no	selected	species_quality_rank	4
+GCF_041501465.1	Bacillus spizizenii	SHT-15	SAMN43249788	PRJNA1149500	Complete Genome		98.82	0.29	4081549	4081549	2024-08-26	no	selected	species_quality_rank	5
+GCF_054112725.1	Bacillus spizizenii	Z32-8	SAMN53380481	PRJNA1369103	Complete Genome		98.79	0.29	4111314	4111314	2025-12-21	no	selected	species_quality_rank	6
+GCF_000227465.1	Bacillus spizizenii	TU-B-10	SAMN02603352	PRJNA68561	Complete Genome	reference genome	98.29	0.29	4207222	4207222	2011-10-05	no	selected	species_quality_rank	7
+GCF_036209045.1	Bacillus spizizenii	NRS-1064	SAMN32927425	PRJNA802201	Scaffold		98.82	0.29	4164755	621379	2024-01-26	no	selected	species_quality_rank	8
+GCF_002155045.1	Bacillus spizizenii	AS2	SAMN06298242	PRJNA371364	Scaffold		98.82	0.29	4042051	573250	2017-05-22	no	selected	species_quality_rank	9
+GCF_048551435.1	Bacillus spizizenii	S3	SAMN45886277	PRJNA1199715	Scaffold		98.82	0.29	4086889	502258	2025-03-11	no	selected	species_quality_rank	10
+GCF_048551475.1	Bacillus spizizenii	S1	SAMN45886870	PRJNA1199744	Scaffold		98.82	0.29	4081723	501726	2025-03-11	no	selected	species_quality_rank	11
+GCF_002211235.1	Bacillus spizizenii	GM2	SAMN07277156	PRJNA391893	Scaffold		98.82	0.29	4216713	447231	2017-06-29	no	selected	species_quality_rank	12
+GCF_035810295.1	Bacillus spizizenii	B-23064	SAMN33940539	PRJNA802201	Scaffold		98.82	0.29	4031749	230022	2024-01-18	no	selected	species_quality_rank	13
+GCF_035810335.1	Bacillus spizizenii	B-23060	SAMN33940537	PRJNA802201	Scaffold		98.82	0.3	4158339	415304	2024-01-18	no	selected	species_quality_rank	14
+GCF_035813395.1	Bacillus spizizenii	B-1468	SAMN33940381	PRJNA802201	Scaffold		98.82	0.3	4051607	200834	2024-01-18	no	selected	species_quality_rank	15
+GCF_035822975.1	Bacillus spizizenii	BD-576	SAMN33940725	PRJNA802201	Scaffold		98.82	0.59	3968596	312793	2024-01-18	no	selected	species_quality_rank	16
+GCF_035810315.1	Bacillus spizizenii	B-23061	SAMN33940538	PRJNA802201	Scaffold		98.82	0.59	4096462	238663	2024-01-18	no	selected	species_quality_rank	17
+GCF_035813405.1	Bacillus spizizenii	B-1467	SAMN33940380	PRJNA802201	Scaffold		98.63	0.2	4050971	307743	2024-01-18	no	selected	species_quality_rank	18
+GCF_031316495.1	Bacillus spizizenii	ATCC 6633	SAMN12236532	PRJNA553198	Scaffold		98.63	0.59	4027652	307874	2023-09-08	no	selected	species_quality_rank	19
+GCF_035811555.1	Bacillus spizizenii	B-14470	SAMN33940476	PRJNA802201	Scaffold		98.55	0.49	3986749	82492	2024-01-18	no	selected	species_quality_rank	20
+GCF_037120725.1	Bacillus spongiae	135PIL107-10	SAMN40272231	PRJNA1084105	Scaffold	reference genome	97.06	1.59	4471323	192005	2024-03-12	no	selected	species_quality_rank	1
+GCF_037024155.1	Bacillus spongicola	2205SS5-2	SAMN38872551	PRJNA1052881	Scaffold	reference genome	96.86	0.2	4377224	105772	2024-03-05	no	selected	species_quality_rank	1
+GCF_029772985.1	Bacillus stercoris	Mal05	SAMN34090420	PRJNA952856	Complete Genome	reference genome	99.2	0.51	4282228	4282228	2023-04-17	no	selected	species_quality_rank	1
+GCF_052373815.1	Bacillus stercoris	MIR	SAMN50765508	PRJNA1310140	Scaffold		99.41	0.2	4234980	700225	2025-08-30	no	selected	species_quality_rank	2
+GCF_059818205.1	Bacillus stercoris	PH7	SAMN57538579	PRJNA1459003	Contig		99.41	0.01	4034008	509178	2026-08-04	no	selected	species_quality_rank	3
+GCF_051908535.1	Bacillus stercoris	KH3	SAMN50280205	PRJNA1298645	Contig		99.41	0.05	4176670	1056378	2025-08-10	no	selected	species_quality_rank	4
+GCF_052693275.1	Bacillus stercoris	BSDF49-2	SAMN50684962	PRJNA1308097	Contig		99.41	0.29	4184525	1067776	2025-09-17	no	selected	species_quality_rank	5
+GCF_050017575.1	Bacillus stercoris	MUN-15	SAMN45888191	PRJNA1199763	Contig		99.41	0.59	4357733	2185229	2025-04-29	no	selected	species_quality_rank	6
+GCF_056777085.1	Bacillus stercoris	Medicinal_01	SAMN49909476	PRJNA1290071	Contig		99.41	0.6	4142054	2121329	2026-04-17	no	selected	species_quality_rank	7
+GCF_060595295.1	Bacillus stercoris	D-2	SAMN62662204	PRJNA1517648	Contig		98.76	0.97	4105029	202748	2026-08-30	no	selected	species_quality_rank	8
+GCF_055234065.1	Bacillus stercoris	d_2	SAMN55210876	PRJNA1420195	Contig		98.76	1.02	4105030	202748	2026-02-16	no	selected	species_quality_rank	9
+GCF_023703335.1	Bacillus stercoris	PSM7	SAMN28889718	PRJNA846537	Contig		95.98	0.12	4033047	1037351	2022-06-12	no	selected	species_quality_rank	10
+GCF_020172015.1	Bacillus stratosphericus	AcN21-10	SAMN21542843	PRJNA682484	Contig		99.12	0.29	3717952	964982	2021-09-28	no	selected	species_quality_rank	1
+GCF_020171425.1	Bacillus stratosphericus	DP3N0-1	SAMN21542872	PRJNA682484	Contig		99.12	0.29	3731201	880538	2021-09-28	no	selected	species_quality_rank	2
+GCF_056679755.1	Bacillus stratosphericus	AD12	SAMN53475619	PRJNA1370681	Contig		99.12	0.41	3647148	354014	2026-04-12	no	selected	species_quality_rank	3
+GCF_020524495.1	Bacillus stratosphericus	KcN0-8	SAMN21557941	PRJNA682484	Contig	reference genome	98.33	0.2	3069546	69318	2021-10-18	no	selected	species_quality_rank	4
+GCF_016890225.1	Bacillus suaedaesalsae	RD4P76	SAMN17817098	PRJNA700001	Contig	reference genome	96.18	0.87	3908041	176536	2021-02-15	no	selected	species_quality_rank	1
+GCF_048537405.1	Bacillus subtilis	NDmed	SAMN46999015	PRJNA1185150	Complete Genome		98.62	0.91	4105013	4105013	2025-03-10	no	selected	species_quality_rank	1
+GCF_982525005.1	Bacillus subtilis		SAMEA122042257	PRJEB110789	Complete Genome		98.62	0.98	4152182	4152182	2026-04-17	no	selected	species_quality_rank	2
+GCF_041053155.1	Bacillus subtilis	N33	SAMN42758627	PRJNA1139084	Complete Genome		98.62	1.32	4484238	4484238	2024-08-05	no	selected	species_quality_rank	3
+GCF_905311435.2	Bacillus subtilis		SAMEA8103434	PRJEB43128	Complete Genome		98.62	1.32	4261356	4261356	2023-02-02	no	selected	species_quality_rank	4
+GCF_047120225.1	Bacillus subtilis	NCIB_3610	SAMN36496546	PRJNA991986	Complete Genome		98.62	1.32	4215634	4215634	2025-01-24	no	selected	species_quality_rank	5
+GCF_000789275.1	Bacillus subtilis	168	SAMN03222589	PRJNA268543	Complete Genome		98.62	1.32	4215619	4215619	2014-12-04	no	selected	species_quality_rank	6
+GCF_013388335.1	Bacillus subtilis	SP1	SAMN15352467	PRJNA641411	Complete Genome		98.62	1.32	4215613	4215613	2020-07-04	no	selected	species_quality_rank	7
+GCF_000344745.1	Bacillus subtilis	6051-HGW	SAMN02603273	PRJNA82795	Complete Genome		98.62	1.32	4215610	4215610	2013-03-06	no	selected	species_quality_rank	8
+GCF_000009045.1	Bacillus subtilis	168	SAMEA3138188	PRJNA76	Complete Genome	reference genome	98.62	1.32	4215606	4215606	2009-03-17	no	selected	species_quality_rank	9
+GCF_964017255.1	Bacillus subtilis	168	SAMEA3138188	PRJNA76	Complete Genome		98.62	1.32	4215606	4215606	2024-03-22	no	selected	species_quality_rank	10
+GCF_001697265.1	Bacillus subtilis	KCTC 3135	SAMN04281244	PRJNA302835	Complete Genome		98.62	1.32	4211343	4211343	2016-08-02	no	selected	species_quality_rank	11
+GCF_905315035.2	Bacillus subtilis		SAMEA8103436	PRJEB43128	Complete Genome		98.62	1.32	4123859	4123859	2023-02-02	no	selected	species_quality_rank	12
+GCF_905319565.2	Bacillus subtilis		SAMEA8103454	PRJEB43128	Complete Genome		98.62	1.32	4169161	4105025	2023-02-02	no	selected	species_quality_rank	13
+GCF_982518465.1	Bacillus subtilis		SAMEA122042263	PRJEB110789	Complete Genome		98.62	1.32	4054885	4054885	2026-04-17	no	selected	species_quality_rank	14
+GCF_905315395.2	Bacillus subtilis		SAMEA8103441	PRJEB43128	Complete Genome		98.62	1.39	4250240	4158963	2023-02-02	no	selected	species_quality_rank	15
+GCF_905315705.2	Bacillus subtilis		SAMEA8103446	PRJEB43128	Complete Genome		98.62	1.43	4215744	4215744	2023-02-02	no	selected	species_quality_rank	16
+GCF_905311405.2	Bacillus subtilis		SAMEA8103429	PRJEB43128	Complete Genome		98.62	1.44	4166364	4101676	2023-02-02	no	selected	species_quality_rank	17
+GCF_905311385.2	Bacillus subtilis		SAMEA8103433	PRJEB43128	Complete Genome		98.62	1.51	4371489	4307899	2023-02-02	no	selected	species_quality_rank	18
+GCF_000952895.1	Bacillus subtilis	BS34A	SAMEA2247639	PRJEB7328	Complete Genome		98.6	1.32	4233615	4233615	2014-11-20	no	selected	species_quality_rank	19
+GCF_039917025.1	Bacillus subtilis	missing	SAMN41494447	PRJNA607328	Complete Genome		98.6	1.32	4224675	4224675	2024-05-29	no	selected	species_quality_rank	20
+GCF_036216845.1	Bacillus swezeyi	B-41298	SAMN32974835	PRJNA802201	Scaffold		99.41	0.59	4816348	426546	2024-01-26	no	selected	species_quality_rank	1
+GCF_036216905.1	Bacillus swezeyi	B-41293	SAMN32974833	PRJNA802201	Scaffold		98.63	0.24	4524322	553009	2024-01-26	no	selected	species_quality_rank	2
+GCF_062042241.1	Bacillus swezeyi		SAMN63291311	PRJNA1532915	Contig		97.06	0.15	4332025	205024	2026-10-14	no	selected	species_quality_rank	3
+GCF_003318295.1	Bacillus taeanensis	BH030017	SAMN09625553	PRJNA480061	Contig	reference genome	98.07	2.89	4611265	150320	2018-07-14	no	selected	species_quality_rank	1
+GCF_031317525.1	Bacillus tequilensis	ATCC BAA-819	SAMN12342269	PRJNA553198	Scaffold		98.82	0.15	4009429	323052	2023-09-08	no	selected	species_quality_rank	1
+GCF_001243895.1	Bacillus testis	SIT10	SAMEA3393061	PRJEB9400	Scaffold	reference genome	96.99	1.69	3987368	358054	2015-07-21	no	selected	species_quality_rank	1
+GCF_902375515.2	Bacillus testis		SAMEA5851001	PRJEB33885	Scaffold		96.99	1.69	3987368	358054	2026-03-20	no	selected	species_quality_rank	2
+GCF_000818665.2	Bacillus thermotolerans	MTCC 10057	SAMN03253085	PRJNA268897	Contig		99.11	2.34	3716532	44081	2015-04-07	no	selected	species_quality_rank	1
+GCF_000818695.2	Bacillus thermotolerans	MTCC 8252	SAMN03253084	PRJNA268896	Contig		99.11	2.41	3967261	76527	2015-04-07	no	selected	species_quality_rank	2
+GCF_000812025.2	Bacillus thermotolerans	SGZ-8	SAMN03258395	PRJNA268898	Contig	reference genome	99.05	1.21	3805822	65489	2015-04-07	no	selected	species_quality_rank	3
+GCF_000341665.1	Bacillus thuringiensis	IS5056	SAMN02604143	PRJNA187142	Complete Genome		99.58	0.32	6771593	5491935	2013-02-22	no	selected	species_quality_rank	1
+GCF_049262535.1	Bacillus thuringiensis	SA41	SAMN47557197	PRJNA1241469	Complete Genome		99.58	0.6	5870594	5389023	2025-04-03	no	selected	species_quality_rank	2
+GCF_013267815.1	Bacillus thuringiensis	FDAARGOS_792	SAMN11056507	PRJNA231221	Complete Genome		99.44	0.32	5328788	5251676	2020-06-04	no	selected	species_quality_rank	3
+GCF_000833085.1	Bacillus thuringiensis	97-27	SAMN03223175	PRJNA238236	Complete Genome		99.38	0.32	5312686	5235838	2015-02-05	no	selected	species_quality_rank	4
+GCF_040712275.1	Bacillus thuringiensis	JJ1216	SAMN40001718	PRJNA1078443	Complete Genome		99.37	1.3	5725314	5363548	2024-07-15	no	selected	species_quality_rank	5
+GCF_000292705.1	Bacillus thuringiensis	HD-789	SAMN02603564	PRJNA171844	Complete Genome		99.3	0.32	6334630	5495278	2012-08-22	no	selected	species_quality_rank	6
+GCF_002119445.1	Bacillus thuringiensis	ATCC 10792	SAMN06844127	PRJNA383629	Complete Genome		99.3	0.32	6316280	5427594	2017-05-09	no	selected	species_quality_rank	7
+GCF_005155285.1	Bacillus thuringiensis	BT-59	SAMN11479299	PRJNA534189	Complete Genome		99.3	0.74	6681027	5500615	2019-05-06	no	selected	species_quality_rank	8
+GCF_009025915.1	Bacillus thuringiensis	JW-1	SAMN12860338	PRJNA574201	Complete Genome		99.3	0.74	6599272	5500376	2019-10-14	no	selected	species_quality_rank	9
+GCF_003445395.2	Bacillus thuringiensis	AM65-52	SAMN04288432	PRJNA303961	Complete Genome		99.3	0.74	6700047	5499731	2016-11-29	no	selected	species_quality_rank	10
+GCF_000835025.1	Bacillus thuringiensis	HD1002	SAMN03010437	PRJNA236049	Complete Genome		99.3	0.74	6572702	5491311	2015-02-10	no	selected	species_quality_rank	11
+GCF_059698045.1	Bacillus thuringiensis	KMD142M90	SAMD01919841	PRJDB42318	Complete Genome		99.3	0.84	6277859	5523131	2026-06-27	no	selected	species_quality_rank	12
+GCF_059698055.1	Bacillus thuringiensis	KMD142	SAMD01919840	PRJDB42318	Complete Genome		99.3	0.84	6277859	5523131	2026-06-27	no	selected	species_quality_rank	13
+GCF_000015065.1	Bacillus thuringiensis	Al Hakam	SAMN02598406	PRJNA18255	Complete Genome		99.27	0.35	5313030	5257091	2006-11-27	no	selected	species_quality_rank	14
+GCF_013267335.1	Bacillus thuringiensis	FDAARGOS_793	SAMN11056508	PRJNA231221	Complete Genome		99.27	0.35	5313827	5256259	2020-06-04	no	selected	species_quality_rank	15
+GCF_000832825.1	Bacillus thuringiensis	HD571	SAMN03085882	PRJNA238070	Complete Genome		99.27	0.35	5312179	5256240	2015-02-05	no	selected	species_quality_rank	16
+GCF_013343075.1	Bacillus thuringiensis	FDAARGOS_791	SAMN11056506	PRJNA231221	Complete Genome		99.27	0.63	5337780	5281841	2020-06-15	no	selected	species_quality_rank	17
+GCF_031171585.1	Bacillus thuringiensis	ten BI 256-82/CM3	SAMN37105267	PRJNA886432	Complete Genome		99.2	0.32	6215719	5619078	2023-09-03	no	selected	species_quality_rank	18
+GCF_031169915.1	Bacillus thuringiensis	BI 256-82	SAMN37105265	PRJNA886432	Complete Genome		99.2	0.32	6247839	5607377	2023-09-03	no	selected	species_quality_rank	19
+GCF_047049285.1	Bacillus thuringiensis	4AP1	SAMN15523171	PRJNA646032	Complete Genome		99.19	0.94	6302151	5450935	2025-01-23	no	selected	species_quality_rank	20
+GCF_000285535.1	Bacillus timonensis	MM10403188	SAMEA2272358	PRJEA70827	Scaffold	reference genome	95.88	3.62	4657724	93483	2012-07-19	no	selected	species_quality_rank	1
+GCF_902374785.2	Bacillus timonensis		SAMEA5850908	PRJEB33885	Scaffold		95.88	3.62	4657724	93483	2026-03-20	no	selected	species_quality_rank	2
+GCF_004799755.1	Bacillus timonensis	AF060A6	SAMN11029899	PRJNA524667	Contig		98.18	1.78	4885097	74991	2019-04-18	no	selected	species_quality_rank	3
+GCF_040813755.2	Bacillus toyonensis	Bto_UNVM-42	SAMN39003094	PRJNA1055426	Complete Genome		99.41	0.1	6339159	5434080	2026-03-18	no	selected	species_quality_rank	1
+GCF_059941625.1	Bacillus toyonensis	WHQ17	SAMN61769080	PRJNA1497063	Complete Genome		99.41	0.1	6173746	5333284	2026-08-08	no	selected	species_quality_rank	2
+GCF_030167035.1	Bacillus toyonensis	Monterrey_S3	SAMN34374892	PRJNA960711	Complete Genome		99.41	0.1	5678058	5309620	2023-06-05	no	selected	species_quality_rank	3
+GCF_018741545.1	Bacillus toyonensis	JAS22/1	SAMN10879078	PRJNA521676	Complete Genome		99.41	0.1	5977271	5307379	2021-06-07	no	selected	species_quality_rank	4
+GCF_022170805.1	Bacillus toyonensis	UTDF19-29B	SAMN20890002	PRJNA756567	Complete Genome		99.41	0.1	5872224	5240743	2022-02-10	no	selected	species_quality_rank	5
+GCF_018779945.3	Bacillus toyonensis	HA0190	SAMN15012570	PRJNA634913	Complete Genome		99.41	0.1	5798677	5235892	2021-11-22	no	selected	species_quality_rank	6
+GCF_018739605.1	Bacillus toyonensis	BPN45/4	SAMN10879057	PRJNA521676	Complete Genome		99.41	0.2	5702814	5446351	2021-06-07	no	selected	species_quality_rank	7
+GCF_024919115.1	Bacillus toyonensis	DC11	SAMN30473217	PRJNA872910	Complete Genome		99.41	0.29	6247065	5390317	2022-09-04	no	selected	species_quality_rank	8
+GCF_018741125.1	Bacillus toyonensis	JAS03/3	SAMN10879088	PRJNA521676	Complete Genome		98.82	0.1	5986099	5281277	2021-06-07	no	selected	species_quality_rank	9
+GCF_030166995.1	Bacillus toyonensis	Cuernavaca_S4	SAMN34374859	PRJNA960711	Complete Genome		98.82	0.1	5730405	5270039	2023-06-05	no	selected	species_quality_rank	10
+GCF_016605985.1	Bacillus toyonensis	P18	SAMN16812771	PRJNA678769	Complete Genome	reference genome	98.24	0.1	5787787	5250895	2021-01-11	no	selected	species_quality_rank	11
+GCF_000161155.1	Bacillus toyonensis	Rock1-3	SAMN00727650	PRJNA29673	Chromosome		99.05	0.1	5859854	85223	2009-05-29	no	selected	species_quality_rank	12
+GCF_053712175.1	Bacillus toyonensis	RDA_24Y_66	SAMN52845029	PRJNA1346871	Scaffold		99.41	0.01	5782473	579402	2025-11-25	no	selected	species_quality_rank	13
+GCF_053713015.1	Bacillus toyonensis	RDA_24Y_19	SAMN52845009	PRJNA1346871	Scaffold		99.41	0.01	5803927	259112	2025-11-25	no	selected	species_quality_rank	14
+GCF_053712295.1	Bacillus toyonensis	RDA_24Y_54	SAMN52845027	PRJNA1346871	Scaffold		99.41	0.01	5858952	231466	2025-11-25	no	selected	species_quality_rank	15
+GCF_002581325.1	Bacillus toyonensis	AFS049861	SAMN07598054	PRJNA400804	Scaffold		99.41	0.01	6141510	200931	2017-10-18	no	selected	species_quality_rank	16
+GCF_060051045.1	Bacillus toyonensis	WXXT103	SAMN50431452	PRJNA1298570	Scaffold		99.41	0.03	6353187	136883	2026-08-12	no	selected	species_quality_rank	17
+GCF_060058185.1	Bacillus toyonensis	CSFT007	SAMN50431358	PRJNA1298570	Scaffold		99.41	0.08	6103105	307751	2026-08-12	no	selected	species_quality_rank	18
+GCF_060058325.1	Bacillus toyonensis	RSPT026	SAMN50431356	PRJNA1298570	Scaffold		99.41	0.08	6035167	263139	2026-08-12	no	selected	species_quality_rank	19
+GCF_035814455.1	Bacillus toyonensis	HD-1012	SAMN33940962	PRJNA802201	Scaffold		99.41	0.08	5704305	50125	2024-01-18	no	selected	species_quality_rank	20
+GCF_023159405.1	Bacillus tropicus	EMB20	SAMN19981404	PRJNA742863	Complete Genome		99.41	0.03	5820904	5142357	2022-04-08	no	selected	species_quality_rank	1
+GCF_056530435.1	Bacillus tropicus	NB379	SAMN36900113	PRJNA868532	Complete Genome		99.41	1.18	5419436	5340192	2026-04-02	no	selected	species_quality_rank	2
+GCF_016026855.1	Bacillus tropicus	FDAARGOS_920	SAMN13450450	PRJNA231221	Complete Genome		98.82	0.03	5701560	5298747	2020-12-14	no	selected	species_quality_rank	3
+GCF_031357045.1	Bacillus tropicus	T36S-23	SAMN33748034	PRJNA944409	Complete Genome	reference genome	98.82	0.62	5319187	5262398	2023-09-12	no	selected	species_quality_rank	4
+GCF_002117465.1	Bacillus tropicus	BC3	SAMN06448760	PRJNA376851	Chromosome		99.38	0.89	5786333	5231612	2017-05-02	no	selected	species_quality_rank	5
+GCF_025516705.1	Bacillus tropicus	BC495A	SAMN27545772	PRJNA826696	Scaffold		99.41	0.03	5580468	254533	2022-10-02	no	selected	species_quality_rank	6
+GCF_025517935.1	Bacillus tropicus	BC140A	SAMN27545720	PRJNA826696	Scaffold		99.41	0.12	5793926	176887	2022-10-02	no	selected	species_quality_rank	7
+GCF_035816175.1	Bacillus tropicus	HD-851	SAMN33940863	PRJNA802201	Scaffold		99.41	0.49	5657953	306038	2024-01-18	no	selected	species_quality_rank	8
+GCF_035988925.1	Bacillus tropicus	HD-856	SAMN33940866	PRJNA802201	Scaffold		99.41	0.49	5498488	258788	2024-01-18	no	selected	species_quality_rank	9
+GCF_035816895.1	Bacillus tropicus	HD-788	SAMN33940824	PRJNA802201	Scaffold		99.41	0.49	5494082	255293	2024-01-18	no	selected	species_quality_rank	10
+GCF_035816865.1	Bacillus tropicus	HD-790	SAMN33940826	PRJNA802201	Scaffold		99.41	0.49	5495951	253682	2024-01-18	no	selected	species_quality_rank	11
+GCF_036213005.1	Bacillus tropicus	NRS-1350	SAMN32975035	PRJNA802201	Scaffold		99.41	0.49	5432205	253528	2024-01-26	no	selected	species_quality_rank	12
+GCF_035816435.1	Bacillus tropicus	HD-828	SAMN33940848	PRJNA802201	Scaffold		99.41	0.49	5499347	215256	2024-01-18	no	selected	species_quality_rank	13
+GCF_061237355.1	Bacillus tropicus	TSL12-1	SAMD01909742	PRJDB42103	Scaffold		99.41	0.62	5514942	639808	2026-09-04	no	selected	species_quality_rank	14
+GCF_035816795.1	Bacillus tropicus	HD-794	SAMN33940828	PRJNA802201	Scaffold		99.41	1.32	5873459	306159	2024-01-18	no	selected	species_quality_rank	15
+GCF_035816555.1	Bacillus tropicus	HD-819	SAMN33940842	PRJNA802201	Scaffold		99.41	1.32	5845355	287319	2024-01-18	no	selected	species_quality_rank	16
+GCF_031316955.1	Bacillus tropicus	ATCC 4342	SAMN12236504	PRJNA553198	Scaffold		99.41	1.42	5428749	222197	2023-09-08	no	selected	species_quality_rank	17
+GCF_035816515.1	Bacillus tropicus	HD-829	SAMN33940849	PRJNA802201	Scaffold		99.41	2.64	5796271	148229	2024-01-18	no	selected	species_quality_rank	18
+GCF_035816275.1	Bacillus tropicus	HD-846	SAMN33940860	PRJNA802201	Scaffold		99.39	4.65	6132165	137010	2024-01-18	no	selected	species_quality_rank	19
+GCF_050457925.1	Bacillus tropicus	BD-464	SAMN41009379	PRJNA802201	Scaffold		99.18	0.03	5768130	195495	2025-05-19	no	selected	species_quality_rank	20
+GCF_900104575.1	Bacillus tuaregi	Marseille-P2489T	SAMEA4518411	PRJEB16343	Scaffold	reference genome	98.67	2.16	4863531	4019871	2016-10-27	no	selected	species_quality_rank	1
+GCF_902386805.1	Bacillus tuaregi		SAMEA5851912	PRJEB33885	Scaffold		98.67	2.16	4863531	4019871	2019-08-16	no	selected	species_quality_rank	2
+GCF_023920485.1	Bacillus vallismortis	BL01	SAMN26182612	PRJNA809498	Chromosome		98.76	0.59	4115091	1067738	2022-06-27	no	selected	species_quality_rank	1
+GCF_026790945.1	Bacillus vallismortis	98-1	SAMN25999817	PRJNA806940	Scaffold		98.81	0.29	4033662	65239	2022-12-09	no	selected	species_quality_rank	2
+GCF_026792345.1	Bacillus vallismortis	N11b2	SAMN25999748	PRJNA806940	Scaffold		98.31	0.32	3811986	37881	2022-12-09	no	selected	species_quality_rank	3
+GCF_026792035.1	Bacillus vallismortis	N6b2	SAMN25999763	PRJNA806940	Scaffold		98.29	0.59	4022242	43759	2022-12-09	no	selected	species_quality_rank	4
+GCF_029542425.1	Bacillus velezensis	12Y	SAMN33591006	PRJNA941142	Complete Genome		99.41	0.01	4371985	4371985	2023-04-03	no	selected	species_quality_rank	1
+GCF_055640595.1	Bacillus velezensis	HNI10	SAMN55903773	PRJNA1427114	Complete Genome		99.41	0.01	4371976	4371976	2026-03-03	no	selected	species_quality_rank	2
+GCF_029025045.1	Bacillus velezensis	XRD006	SAMN33421462	PRJNA937909	Complete Genome		99.41	0.01	4371975	4371975	2023-03-08	no	selected	species_quality_rank	3
+GCF_040712045.1	Bacillus velezensis	JM236	SAMN40001992	PRJNA1078443	Complete Genome		99.41	0.01	4240609	4240609	2024-07-15	no	selected	species_quality_rank	4
+GCF_040712145.1	Bacillus velezensis	AP52	SAMN40001985	PRJNA1078443	Complete Genome		99.41	0.01	4197319	4197319	2024-07-15	no	selected	species_quality_rank	5
+GCF_003860445.1	Bacillus velezensis	MH25	SAMN09475269	PRJNA477593	Complete Genome		99.41	0.01	4118468	4118468	2018-12-04	no	selected	species_quality_rank	6
+GCF_002688525.1	Bacillus velezensis	L-1	SAMN07768195	PRJNA413734	Complete Genome		99.41	0.01	4090582	4090582	2017-10-24	no	selected	species_quality_rank	7
+GCF_045925855.1	Bacillus velezensis	JD-3	SAMN44832050	PRJNA1188334	Complete Genome		99.41	0.01	4124354	4088654	2024-12-10	no	selected	species_quality_rank	8
+GCF_049810385.1	Bacillus velezensis	XZ3-6	SAMN47925986	PRJNA1249966	Complete Genome		99.41	0.01	4068475	4068475	2025-04-20	no	selected	species_quality_rank	9
+GCF_006489255.1	Bacillus velezensis	UCMB5007	SAMN12015780	PRJNA176687	Complete Genome		99.41	0.01	3983323	3983323	2019-06-26	no	selected	species_quality_rank	10
+GCF_006489235.1	Bacillus velezensis	UCMB5044	SAMN12015793	PRJNA548267	Complete Genome		99.41	0.01	3983303	3983303	2019-06-26	no	selected	species_quality_rank	11
+GCF_052850055.1	Bacillus velezensis	UCMB-5139	SAMN51307240	PRJNA176688	Complete Genome		99.41	0.01	3979019	3979019	2025-09-25	no	selected	species_quality_rank	12
+GCF_058167685.1	Bacillus velezensis	Bv_HAINU-1	SAMN28592283	PRJNA841407	Complete Genome		99.41	0.05	4138524	4138524	2026-06-12	no	selected	species_quality_rank	13
+GCF_047121265.1	Bacillus velezensis	0039	SAMN37691131	PRJNA863392	Complete Genome		99.41	0.07	4137489	4073512	2025-01-24	no	selected	species_quality_rank	14
+GCF_060145825.1	Bacillus velezensis	Taikang	SAMN46066435	PRJNA1205906	Complete Genome		99.41	0.07	4069580	4069580	2025-12-24	no	selected	species_quality_rank	15
+GCF_000973585.1	Bacillus velezensis	NJN-6	SAMN03492032	PRJNA236411	Complete Genome		99.41	0.07	4052546	4052546	2015-04-20	no	selected	species_quality_rank	16
+GCF_025857215.1	Bacillus velezensis	ML61	SAMN30498090	PRJNA873517	Complete Genome		99.41	0.07	4035016	4035016	2022-10-26	no	selected	species_quality_rank	17
+GCF_013122275.1	Bacillus velezensis	EN01	SAMN14897144	PRJNA631949	Complete Genome		99.41	0.07	4029600	4029600	2020-05-19	no	selected	species_quality_rank	18
+GCF_047659985.1	Bacillus velezensis	Tcba05	SAMN45085276	PRJNA1191524	Complete Genome		99.41	0.07	4027462	4027462	2025-02-11	no	selected	species_quality_rank	19
+GCF_036320795.1	Bacillus velezensis	JBCS608	SAMN39450124	PRJNA1065082	Complete Genome		99.41	0.07	4027436	4027436	2024-01-31	no	selected	species_quality_rank	20
+GCF_018741405.1	Bacillus wiedmannii	JAS08/1	SAMN10879069	PRJNA521676	Complete Genome		99.41	0.1	5513922	5513922	2021-06-07	no	selected	species_quality_rank	1
+GCF_022810705.1	Bacillus wiedmannii	Bt18679	SAMN04513597	PRJNA227490	Complete Genome		99.41	0.29	6000397	5475878	2022-04-04	no	selected	species_quality_rank	2
+GCF_008807735.1	Bacillus wiedmannii	SR52	SAMN10058771	PRJNA490767	Complete Genome		99.41	0.39	5585953	5448361	2019-10-03	no	selected	species_quality_rank	3
+GCF_018741285.1	Bacillus wiedmannii	JAS07/5	SAMN10879065	PRJNA521676	Complete Genome		99.41	1.76	5855289	5239489	2021-06-07	no	selected	species_quality_rank	4
+GCF_018741585.1	Bacillus wiedmannii	JAS28/2	SAMN10879072	PRJNA521676	Complete Genome		98.82	0.03	5534165	5534165	2021-06-07	no	selected	species_quality_rank	5
+GCF_030123185.1	Bacillus wiedmannii	LN15	SAMN34375016	PRJNA960711	Complete Genome		98.82	0.1	5391143	5391143	2023-05-27	no	selected	species_quality_rank	6
+GCF_045278805.1	Bacillus wiedmannii	EPS29	SAMN37179813	PRJNA1010135	Complete Genome		98.82	0.25	6211130	5376035	2023-09-06	no	selected	species_quality_rank	7
+GCF_000160955.1	Bacillus wiedmannii	MM3	SAMN00727654	PRJNA29653	Chromosome		99.41	0.2	5547057	76810	2009-05-29	no	selected	species_quality_rank	8
+GCF_002555665.1	Bacillus wiedmannii	AFS009197	SAMN07597357	PRJNA400804	Scaffold		99.41	0.03	5309062	163746	2017-10-16	no	selected	species_quality_rank	9
+GCF_002583915.1	Bacillus wiedmannii	AFS036521	SAMN07597882	PRJNA400804	Scaffold		99.41	0.07	5413519	308367	2017-10-18	no	selected	species_quality_rank	10
+GCF_005217695.1	Bacillus wiedmannii	I130	SAMN11292309	PRJNA540103	Scaffold		99.41	0.07	5447514	17015	2019-05-06	no	selected	species_quality_rank	11
+GCF_002998955.1	Bacillus wiedmannii	GBSC45	SAMN08639724	PRJNA436554	Scaffold		99.41	0.1	5578264	889143	2018-03-14	no	selected	species_quality_rank	12
+GCF_001044575.1	Bacillus wiedmannii	14294-3 (M6)	SAMN03325928	PRJNA274235	Scaffold		99.41	0.1	5523305	583411	2015-07-01	no	selected	species_quality_rank	13
+GCF_053711515.1	Bacillus wiedmannii	RDA_C_58	SAMN52845049	PRJNA1346871	Scaffold		99.41	0.1	5275989	538289	2025-11-25	no	selected	species_quality_rank	14
+GCF_044764165.1	Bacillus wiedmannii	NPDC094178	SAMN43997978	PRJNA1106891	Scaffold		99.41	0.1	5313483	476386	2024-11-10	no	selected	species_quality_rank	15
+GCF_036214245.1	Bacillus wiedmannii	HD-493	SAMN32974969	PRJNA802201	Scaffold		99.41	0.1	5218720	396029	2024-01-26	no	selected	species_quality_rank	16
+GCF_001044745.1	Bacillus wiedmannii	RIMV BC 126	SAMN03325943	PRJNA274235	Scaffold		99.41	0.1	5414722	340103	2015-07-01	no	selected	species_quality_rank	17
+GCF_902386225.1	Bacillus wiedmannii		SAMEA5851860	PRJEB33885	Scaffold		99.41	0.1	5414722	340103	2019-08-16	no	selected	species_quality_rank	18
+GCF_042723635.1	Bacillus wiedmannii	NPDC058353	SAMN43797121	PRJNA1106891	Scaffold		99.41	0.1	5412479	319264	2024-10-08	no	selected	species_quality_rank	19
+GCF_025518925.1	Bacillus wiedmannii	BC36A	SAMN27545633	PRJNA826696	Scaffold		99.41	0.1	6109249	281686	2022-10-02	no	selected	species_quality_rank	20
+GCF_015845675.1	Bacillus xiamenensis	G25-119	SAMN03654337	PRJNA283738	Scaffold		99.12	0.15	3586955	140516	2020-12-08	no	selected	species_quality_rank	1
+GCF_026794275.1	Bacillus xiamenensis	CBP-1093	SAMN27675068	PRJNA805124	Scaffold		99.12	0.15	3511614	109105	2022-12-09	no	selected	species_quality_rank	2
+GCF_002797355.1	Bacillus xiapuensis	FJAT-46582	SAMN07249153	PRJNA390710	Scaffold	reference genome	98.73	0.7	3264462	1655688	2017-11-28	no	selected	species_quality_rank	1
+GCF_003966255.1	Bacillus yapensis	XXST-01	SAMN10599892	PRJNA510205	Contig	reference genome	98.75	0.98	4608128	194358	2018-12-23	no	selected	species_quality_rank	1
+GCF_005280205.1	Bacillus yapensis	XXST-01	SAMN11464894	PRJNA533716	Contig		98.75	0.98	4608128	194358	2019-05-10	no	selected	species_quality_rank	2
+GCF_037104695.1	Bacillus yunxiaonensis	FJAT-53711	SAMN39644996	PRJNA1070399	Contig	reference genome	99.41	4.31	5032438	531550	2024-03-11	no	selected	species_quality_rank	1
+GCF_977971945.1	Bacillus zhangzhouensis		SAMEA120839868	PRJEB105563	Complete Genome	reference genome	99.12	0.29	3707368	3707368	2025-12-22	no	selected	species_quality_rank	1
+GCF_031195075.1	Bacillus zhangzhouensis	SC123	SAMN37195272	PRJNA862062	Scaffold		99.12	0.29	3657353	339228	2023-09-06	no	selected	species_quality_rank	2
+GCF_036212665.1	Bacillus zhangzhouensis	NRS-1549	SAMN32975052	PRJNA802201	Scaffold		99.12	0.29	3603288	147187	2024-01-26	no	selected	species_quality_rank	3
+GCF_023507735.1	Bacillus zhangzhouensis	BB33-1	SAMN15002421	PRJNA634614	Contig		99.12	0.29	3596323	130275	2022-05-19	no	selected	species_quality_rank	4

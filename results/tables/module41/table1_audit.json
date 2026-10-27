@@ -1,0 +1,63 @@
+{
+  "cohort_genomes": 638,
+  "species": 123,
+  "assembly_level_counts": {
+    "Scaffold": 250,
+    "Complete Genome": 239,
+    "Contig": 139,
+    "Chromosome": 10
+  },
+  "completeness": {
+    "count": 638.0,
+    "mean": 98.85728840125391,
+    "std": 0.8082007158317225,
+    "min": 95.05,
+    "25%": 98.78,
+    "50%": 99.12,
+    "75%": 99.41,
+    "max": 100.0
+  },
+  "contamination": {
+    "count": 638.0,
+    "mean": 0.610219435736677,
+    "std": 0.8046791820317495,
+    "min": 0.01,
+    "25%": 0.12,
+    "50%": 0.29,
+    "75%": 0.69,
+    "max": 4.65
+  },
+  "genomes_per_species": {
+    "count": 123.0,
+    "mean": 5.186991869918699,
+    "std": 5.986801868668065,
+    "min": 1.0,
+    "25%": 1.0,
+    "50%": 2.0,
+    "75%": 9.0,
+    "max": 19.0
+  },
+  "functional_summary": {
+    "status": "PASS",
+    "genomes": 638,
+    "reference_sequences": 99,
+    "annotated_accessions": 99,
+    "gene_group_labels": 53,
+    "raw_annotated_hits": 338063,
+    "filtered_annotated_hits": 269658,
+    "genomes_with_filtered_hits": 638,
+    "filter": {
+      "max_evalue": 1e-05,
+      "min_query_coverage": 0.7,
+      "min_percent_identity": 0.0
+    },
+    "interpretation": "sequence homology candidates; target counts are not validated gene copy counts",
+    "files": {
+      "group_presence.tsv": "c817be500b3c19f5ddfc2253dfaa9ca6d97f30ef1003510af02f66e29288cade",
+      "all_hits.tsv": "c1276de8f957c70e21468791fd035c9c43e4a806d033a0165b05fb515d23c649",
+      "gene_presence.tsv": "8445b605afc0ef95ff266d961c1dceac040f0c73b86ffc0bf6600c6c1d498787",
+      "filtered_hits.tsv": "d98afcc4604a5b71dfe3c3073e08679b8b82a066ff89c01beb2d936aa888a4e9",
+      "gene_target_counts.tsv": "2a8389f95fb9111bfb27efc938f277ad63d7f18e91df97d3384ef42f0baea2ad"
+    }
+  }
+}

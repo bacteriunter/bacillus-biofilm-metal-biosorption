@@ -1,0 +1,3 @@
+component	version	environment
+Python	3.10.22	bmetal_workflow
+Snakemake	7.32.4	bmetal_workflow

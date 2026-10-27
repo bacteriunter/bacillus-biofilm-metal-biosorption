@@ -1,0 +1,6 @@
+Characteristic	Value
+Marker pairs evaluated	420
+Pairs with available global adjusted p-values	189
+Globally significant associations (Fisher test, BH q < 0.05)	87
+Pairs with evaluable species-conditioned tests	78
+Significant species-conditioned associations (BH q < 0.05)	0

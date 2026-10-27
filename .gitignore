@@ -1,0 +1,83 @@
+# ============================================================
+# Bacterial biofilms and metal biosorption in Bacillus
+# GitHub publication exclusions
+# ============================================================
+
+# Raw data: genomes, downloaded literature, original records
+/data/raw/
+
+# Intermediate data and execution logs
+/data/interim/
+/logs/
+/benchmarks/
+
+# Processed data: selected reproducibility inputs
+/data/processed/*
+!/data/processed/functional_cohort_638.tsv
+!/data/processed/genome_cohort_selected.tsv
+
+# Reference datasets: retain the existing reference panel
+# Review third-party redistribution rights before publishing
+
+# Results: exclude contents by default
+/results/*
+
+# Preserve directory traversal for selected outputs
+!/results/figures/
+!/results/tables/
+!/results/functional/
+!/results/statistics/
+
+/results/functional/*
+!/results/functional/module28/
+!/results/functional/module29/
+!/results/functional/module32/
+
+/results/functional/module28/*
+!/results/functional/module28/gene_presence.tsv
+!/results/functional/module28/group_presence.tsv
+
+/results/functional/module29/*
+!/results/functional/module29/species_summary.tsv
+!/results/functional/module29/species_gene_prevalence.tsv
+!/results/functional/module29/species_group_prevalence.tsv
+
+/results/functional/module32/*
+!/results/functional/module32/gene_variance_partition.tsv
+
+/results/statistics/*
+!/results/statistics/module36/
+/results/statistics/module36/*
+!/results/statistics/module36/marker_associations.tsv
+
+# Temporary files and environments
+.conda/
+.venv/
+__pycache__/
+*.pyc
+.Rhistory
+.RData
+.ipynb_checkpoints/
+.snakemake/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Processed inputs required for manuscript tables
+!/results/functional/module28/summary.json
+!/results/functional/external_phenotypes/
+/results/functional/external_phenotypes/*
+!/results/functional/external_phenotypes/module28/
+/results/functional/external_phenotypes/module28/*
+!/results/functional/external_phenotypes/module28/gene_presence.tsv
+
+# Local backups and source-material archives
+/.gitignore.pre_publication
+/Snakefile.initial.bak
+/phenotype_primary_sources.zip
+/software_versions.txt
+
+# Windows metadata and local script backups
+*:Zone.Identifier
+*.py.bak

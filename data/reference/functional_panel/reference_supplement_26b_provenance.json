@@ -1,0 +1,101 @@
+{
+  "queries": [
+    {
+      "gene": "epsA",
+      "query": "gene_exact:epsA AND organism_id:224308",
+      "returned": 0,
+      "accepted": 0
+    },
+    {
+      "gene": "epsA",
+      "query": "gene_exact:epsA AND taxonomy_id:1386 AND reviewed:true",
+      "returned": 0,
+      "accepted": 0
+    },
+    {
+      "gene": "epsB",
+      "query": "gene_exact:epsB AND organism_id:224308",
+      "returned": 0,
+      "accepted": 0
+    },
+    {
+      "gene": "epsB",
+      "query": "gene_exact:epsB AND taxonomy_id:1386 AND reviewed:true",
+      "returned": 0,
+      "accepted": 0
+    },
+    {
+      "gene": "pgsB",
+      "query": "gene_exact:pgsB AND organism_id:224308",
+      "returned": 1,
+      "accepted": 1
+    },
+    {
+      "gene": "pgsB",
+      "query": "gene_exact:pgsB AND taxonomy_id:1386 AND reviewed:true",
+      "returned": 1,
+      "accepted": 0
+    },
+    {
+      "gene": "pgsC",
+      "query": "gene_exact:pgsC AND organism_id:224308",
+      "returned": 1,
+      "accepted": 1
+    },
+    {
+      "gene": "pgsC",
+      "query": "gene_exact:pgsC AND taxonomy_id:1386 AND reviewed:true",
+      "returned": 1,
+      "accepted": 0
+    },
+    {
+      "gene": "pgsE",
+      "query": "gene_exact:pgsE AND organism_id:224308",
+      "returned": 0,
+      "accepted": 0
+    },
+    {
+      "gene": "pgsE",
+      "query": "gene_exact:pgsE AND taxonomy_id:1386 AND reviewed:true",
+      "returned": 0,
+      "accepted": 0
+    },
+    {
+      "gene": "capE",
+      "query": "gene_exact:capE AND organism_id:224308",
+      "returned": 0,
+      "accepted": 0
+    },
+    {
+      "gene": "capE",
+      "query": "gene_exact:capE AND taxonomy_id:1386 AND reviewed:true",
+      "returned": 0,
+      "accepted": 0
+    },
+    {
+      "gene": "zntA",
+      "query": "gene_exact:zntA AND organism_id:224308",
+      "returned": 0,
+      "accepted": 0
+    },
+    {
+      "gene": "zntA",
+      "query": "gene_exact:zntA AND taxonomy_id:1386 AND reviewed:true",
+      "returned": 0,
+      "accepted": 0
+    },
+    {
+      "gene": "zitB",
+      "query": "gene_exact:zitB AND organism_id:224308",
+      "returned": 0,
+      "accepted": 0
+    },
+    {
+      "gene": "zitB",
+      "query": "gene_exact:zitB AND taxonomy_id:1386 AND reviewed:true",
+      "returned": 0,
+      "accepted": 0
+    }
+  ],
+  "note": "Gene symbol match is not orthology or experimentally proven function; existing panel untouched"
+}

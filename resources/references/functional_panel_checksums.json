@@ -1,0 +1,12 @@
+[
+  {
+    "file": "data/reference/functional_panel/functional_reference_panel_merged.faa",
+    "sha256": "c4997c2f1505969d5b7c4c512bfb766fe99c7fb1542e6f8680f0ac9ae852cfef",
+    "bytes": 30731
+  },
+  {
+    "file": "data/reference/functional_panel/functional_reference_panel_merged.tsv",
+    "sha256": "605c7e42f41d03622c5c7a22011091c806879b33ec4c645a6677f2eacc0a31e6",
+    "bytes": 17023
+  }
+]

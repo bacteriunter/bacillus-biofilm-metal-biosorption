@@ -1,0 +1,639 @@
+assembly_accession	species	fasta_path	phenotype_candidate_protected	assembly_level	completeness	contamination	module24_representative
+GCF_000008425.1	Bacillus licheniformis	data/raw/genomes/cohort21/GCF_000008425.1.fna	no	Complete Genome	98.53	0.83	GCF_000008425.1
+GCF_000015065.1	Bacillus thuringiensis	data/raw/genomes/cohort21/GCF_000015065.1.fna	no	Complete Genome	99.27	0.35	GCF_000015065.1
+GCF_000017885.4	Bacillus pumilus	data/raw/genomes/cohort21/GCF_000017885.4.fna	no	Complete Genome	98.16	0.19	GCF_000017885.4
+GCF_000160955.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_000160955.1.fna	no	Chromosome	99.41	0.2	GCF_000160955.1
+GCF_000161155.1	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_000161155.1.fna	no	Chromosome	99.05	0.1	GCF_000161155.1
+GCF_000161435.1	Bacillus pseudomycoides	data/raw/genomes/cohort21/GCF_000161435.1.fna	no	Chromosome	98.82	0.12	GCF_000161435.1
+GCF_000161455.1	Bacillus pseudomycoides	data/raw/genomes/cohort21/GCF_000161455.1.fna	no	Chromosome	98.82	0.31	GCF_000161455.1
+GCF_000165925.1	Bacillus atrophaeus	data/raw/genomes/cohort21/GCF_000165925.1.fna	no	Complete Genome	99.12	0.01	GCF_000165925.1
+GCF_000227465.1	Bacillus spizizenii	data/raw/genomes/cohort21/GCF_000227465.1.fna	no	Complete Genome	98.29	0.29	GCF_000227465.1
+GCF_000238675.1	Bacillus smithii	data/raw/genomes/cohort21/GCF_000238675.1.fna	no	Scaffold	97.56	0.36	GCF_000238675.1
+GCF_000262755.1	Bacillus methanolicus	data/raw/genomes/cohort21/GCF_000262755.1.fna	no	Contig	96.31	1.67	GCF_000262755.1
+GCF_000285535.1	Bacillus timonensis	data/raw/genomes/cohort21/GCF_000285535.1.fna	no	Scaffold	95.88	3.62	GCF_000285535.1
+GCF_000292705.1	Bacillus thuringiensis	data/raw/genomes/cohort21/GCF_000292705.1.fna	no	Complete Genome	99.3	0.32	GCF_000292705.1
+GCF_000299035.1	Bacillus bingmayongensis	data/raw/genomes/cohort21/GCF_000299035.1.fna	no	Scaffold	99.02	0.59	GCF_000299035.1
+GCF_000341665.1	Bacillus thuringiensis	data/raw/genomes/cohort21/GCF_000341665.1.fna	no	Complete Genome	99.58	0.32	GCF_000341665.1
+GCF_000380245.2	Bacillus massiliigorillae	data/raw/genomes/cohort21/GCF_000380245.2.fna	no	Scaffold	98.76	2.06	GCF_000380245.2
+GCF_000385965.2	Bacillus atrophaeus	data/raw/genomes/cohort21/GCF_000385965.2.fna	no	Chromosome	96.76	0.59	GCF_000385965.2
+GCF_000408885.1	Bacillus paralicheniformis	data/raw/genomes/cohort21/GCF_000408885.1.fna	no	Complete Genome	98.78	0.05	GCF_000408885.1
+GCF_000473245.1	Bacillus infantis	data/raw/genomes/cohort21/GCF_000473245.1.fna	no	Complete Genome	97.06	0.13	GCF_000473245.1
+GCF_000504145.1	Bacillus cihuensis	data/raw/genomes/cohort21/GCF_000504145.1.fna	no	Scaffold	98.92	2.43	GCF_000504145.1
+GCF_000612805.1	Bacillus ndiopicus	data/raw/genomes/cohort21/GCF_000612805.1.fna	no	Scaffold	95.53	2.11	GCF_000612805.1
+GCF_000724485.1	Bacillus methanolicus	data/raw/genomes/cohort21/GCF_000724485.1.fna	no	Complete Genome	97.88	2.66	GCF_000724485.1
+GCF_000775975.1	Bacillus mycoides	data/raw/genomes/cohort21/GCF_000775975.1.fna	no	Complete Genome	99.41	0.97	GCF_000775975.1
+GCF_000812025.2	Bacillus thermotolerans	data/raw/genomes/cohort21/GCF_000812025.2.fna	no	Contig	99.05	1.21	GCF_000812025.2
+GCF_000818665.2	Bacillus thermotolerans	data/raw/genomes/cohort21/GCF_000818665.2.fna	no	Contig	99.11	2.34	GCF_000818665.2
+GCF_000818695.2	Bacillus thermotolerans	data/raw/genomes/cohort21/GCF_000818695.2.fna	no	Contig	99.11	2.41	GCF_000818695.2
+GCF_000831065.1	Bacillus bombysepticus	data/raw/genomes/cohort21/GCF_000831065.1.fna	no	Complete Genome	99.41	0.07	GCF_000831065.1
+GCF_000832425.1	Bacillus anthracis	data/raw/genomes/cohort21/GCF_000832425.1.fna	no	Complete Genome	98.76	0.4	GCF_000832425.1
+GCF_000832885.1	Bacillus pseudomycoides	data/raw/genomes/cohort21/GCF_000832885.1.fna	no	Complete Genome	98.82	0.13	GCF_000832885.1
+GCF_000876525.1	Bacillus paralicheniformis	data/raw/genomes/cohort21/GCF_000876525.1.fna	no	Complete Genome	98.78	0.05	GCF_000876525.1
+GCF_000973585.1	Bacillus velezensis	data/raw/genomes/cohort21/GCF_000973585.1.fna	no	Complete Genome	99.41	0.07	GCF_000973585.1
+GCF_001042475.2	Bacillus glycinifermentans	data/raw/genomes/cohort21/GCF_001042475.2.fna	no	Scaffold	98.78	1.18	GCF_001042475.2
+GCF_001044575.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_001044575.1.fna	no	Scaffold	99.41	0.1	GCF_001044575.1
+GCF_001044745.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_001044745.1.fna	no	Scaffold	99.41	0.1	GCF_001044745.1
+GCF_001050115.1	Bacillus smithii	data/raw/genomes/cohort21/GCF_001050115.1.fna	no	Complete Genome	98.67	0.29	GCF_001050115.1
+GCF_001243895.1	Bacillus testis	data/raw/genomes/cohort21/GCF_001243895.1.fna	no	Scaffold	96.99	1.69	GCF_001243895.1
+GCF_001244735.1	Bacillus andreraoultii	data/raw/genomes/cohort21/GCF_001244735.1.fna	no	Scaffold	97.01	1.85	GCF_001244735.1
+GCF_001277915.1	Bacillus cereus	data/raw/genomes/cohort21/GCF_001277915.1.fna	no	Complete Genome	99.22	0.06	GCF_001277915.1
+GCF_001278705.1	Bacillus gobiensis	data/raw/genomes/cohort21/GCF_001278705.1.fna	no	Chromosome	98.77	1.69	GCF_001278705.1
+GCF_001307105.1	Bacillus australimaris	data/raw/genomes/cohort21/GCF_001307105.1.fna	no	Contig	98.92	0.29	GCF_001307105.1
+GCF_001431145.1	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_001431145.1.fna	no	Complete Genome	99.12	0.29	GCF_001431145.1
+GCF_001578205.1	Bacillus pumilus	data/raw/genomes/cohort21/GCF_001578205.1.fna	no	Complete Genome	95.47	2.64	GCF_001578205.1
+GCF_001590835.1	Bacillus gaemokensis	data/raw/genomes/cohort21/GCF_001590835.1.fna	no	Scaffold	98.82	0.29	GCF_001590835.1
+GCF_001644195.2	Bacillus marinisedimentorum	data/raw/genomes/cohort21/GCF_001644195.2.fna	no	Contig	96.74	0.37	GCF_001644195.2
+GCF_001742425.1	Bacillus solimangrovi	data/raw/genomes/cohort21/GCF_001742425.1.fna	no	Scaffold	97.35	1.06	GCF_001742425.1
+GCF_001874385.1	Bacillus amyloliquefaciens	data/raw/genomes/cohort21/GCF_001874385.1.fna	no	Complete Genome	98.23	0.88	GCF_001874385.1
+GCF_001884065.1	Bacillus proteolyticus	data/raw/genomes/cohort21/GCF_001884065.1.fna	no	Contig	99.41	0.44	GCF_001884065.1
+GCF_002068155.1	Bacillus paralicheniformis	data/raw/genomes/cohort21/GCF_002068155.1.fna	no	Complete Genome	98.78	0.05	GCF_002068155.1
+GCF_002074075.1	Bacillus licheniformis	data/raw/genomes/cohort21/GCF_002074075.1.fna	no	Complete Genome	98.33	1.24	GCF_002074075.1
+GCF_002117465.1	Bacillus tropicus	data/raw/genomes/cohort21/GCF_002117465.1.fna	no	Chromosome	99.38	0.89	GCF_002117465.1
+GCF_002155045.1	Bacillus spizizenii	data/raw/genomes/cohort21/GCF_002155045.1.fna	no	Scaffold	98.82	0.29	GCF_002155045.1
+GCF_002173495.1	Bacillus atrophaeus	data/raw/genomes/cohort21/GCF_002173495.1.fna	no	Complete Genome	99.12	0.59	GCF_002173495.1
+GCF_002202015.1	Bacillus sonorensis	data/raw/genomes/cohort21/GCF_002202015.1.fna	no	Complete Genome	97.72	0.21	GCF_002202015.1
+GCF_002211235.1	Bacillus spizizenii	data/raw/genomes/cohort21/GCF_002211235.1.fna	no	Scaffold	98.82	0.29	GCF_002211235.1
+GCF_002243495.1	Bacillus atrophaeus	data/raw/genomes/cohort21/GCF_002243495.1.fna	no	Complete Genome	98.92	0.6	GCF_002243495.1
+GCF_002504325.1	Bacillus licheniformis	data/raw/genomes/cohort21/GCF_002504325.1.fna	no	Complete Genome	98.85	2.34	GCF_002504325.1
+GCF_002555005.1	Bacillus pseudomycoides	data/raw/genomes/cohort21/GCF_002555005.1.fna	no	Scaffold	99.31	0.12	GCF_002555005.1
+GCF_002555665.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_002555665.1.fna	no	Scaffold	99.41	0.03	GCF_002555665.1
+GCF_002555995.1	Bacillus pseudomycoides	data/raw/genomes/cohort21/GCF_002555995.1.fna	no	Scaffold	99.41	0.17	GCF_002555995.1
+GCF_002569985.1	Bacillus pseudomycoides	data/raw/genomes/cohort21/GCF_002569985.1.fna	no	Scaffold	99.41	0.12	GCF_002569985.1
+GCF_002572065.1	Bacillus pseudomycoides	data/raw/genomes/cohort21/GCF_002572065.1.fna	no	Scaffold	99.41	0.12	GCF_002572065.1
+GCF_002576515.1	Bacillus pseudomycoides	data/raw/genomes/cohort21/GCF_002576515.1.fna	no	Scaffold	99.41	0.12	GCF_002576515.1
+GCF_002579975.1	Bacillus pseudomycoides	data/raw/genomes/cohort21/GCF_002579975.1.fna	no	Scaffold	99.41	0.41	GCF_002579975.1
+GCF_002580745.1	Bacillus pseudomycoides	data/raw/genomes/cohort21/GCF_002580745.1.fna	no	Scaffold	99.41	0.12	GCF_002580745.1
+GCF_002581325.1	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_002581325.1.fna	no	Scaffold	99.41	0.01	GCF_002581325.1
+GCF_002583915.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_002583915.1.fna	no	Scaffold	99.41	0.07	GCF_002583915.1
+GCF_002688525.1	Bacillus velezensis	data/raw/genomes/cohort21/GCF_002688525.1.fna	no	Complete Genome	99.41	0.01	GCF_002688525.1
+GCF_002797355.1	Bacillus xiapuensis	data/raw/genomes/cohort21/GCF_002797355.1.fna	no	Scaffold	98.73	0.7	GCF_002797355.1
+GCF_002797395.1	Bacillus solitudinis	data/raw/genomes/cohort21/GCF_002797395.1.fna	no	Scaffold	98.24	2.42	GCF_002797395.1
+GCF_002797415.1	Bacillus alkalisoli	data/raw/genomes/cohort21/GCF_002797415.1.fna	no	Scaffold	96.57	0.81	GCF_002797415.1
+GCF_002860125.1	Bacillus canaveralius	data/raw/genomes/cohort21/GCF_002860125.1.fna	no	Contig	99.12	0.62	GCF_002860125.1
+GCF_002998955.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_002998955.1.fna	no	Scaffold	99.41	0.1	GCF_002998955.1
+GCF_003003625.1	Bacillus atrophaeus	data/raw/genomes/cohort21/GCF_003003625.1.fna	no	Scaffold	99.12	0.01	GCF_003003625.1
+GCF_003003645.1	Bacillus atrophaeus	data/raw/genomes/cohort21/GCF_003003645.1.fna	no	Scaffold	99.41	0.59	GCF_003003645.1
+GCF_003013315.1	Bacillus cereus	data/raw/genomes/cohort21/GCF_003013315.1.fna	no	Complete Genome	99.22	0.12	GCF_003013315.1
+GCF_003318295.1	Bacillus taeanensis	data/raw/genomes/cohort21/GCF_003318295.1.fna	no	Contig	98.07	2.89	GCF_003318295.1
+GCF_003428195.2	Bacillus clarus	data/raw/genomes/cohort21/GCF_003428195.2.fna	no	Contig	98.82	0.74	GCF_003428195.2
+GCF_003581585.1	Bacillus salacetis	data/raw/genomes/cohort21/GCF_003581585.1.fna	no	Contig	97.65	0.93	GCF_003581585.1
+GCF_003595625.1	Bacillus licheniformis	data/raw/genomes/cohort21/GCF_003595625.1.fna	no	Complete Genome	98.36	1.41	GCF_003595625.1
+GCF_003860445.1	Bacillus velezensis	data/raw/genomes/cohort21/GCF_003860445.1.fna	no	Complete Genome	99.41	0.01	GCF_003860445.1
+GCF_003944805.1	Bacillus canaveralius	data/raw/genomes/cohort21/GCF_003944805.1.fna	no	Contig	98.89	0.68	GCF_003944805.1
+GCF_003944835.1	Bacillus salinus	data/raw/genomes/cohort21/GCF_003944835.1.fna	no	Contig	97.35	1.48	GCF_003944835.1
+GCF_003966255.1	Bacillus yapensis	data/raw/genomes/cohort21/GCF_003966255.1.fna	no	Contig	98.75	0.98	GCF_003966255.1
+GCF_004006435.1	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_004006435.1.fna	no	Complete Genome	98.82	0.59	GCF_004006435.1
+GCF_004358205.1	Bacillus salipaludis	data/raw/genomes/cohort21/GCF_004358205.1.fna	no	Contig	98.24	4.03	GCF_004358205.1
+GCF_004563755.2	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_004563755.2.fna	no	Complete Genome	99.12	0.29	GCF_004563755.2
+GCF_004799755.1	Bacillus timonensis	data/raw/genomes/cohort21/GCF_004799755.1.fna	no	Contig	98.18	1.78	GCF_004799755.1
+GCF_005217695.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_005217695.1.fna	no	Scaffold	99.41	0.07	GCF_005217695.1
+GCF_006349735.2	Bacillus cereus	data/raw/genomes/cohort21/GCF_006349735.2.fna	no	Complete Genome	99.22	0.06	GCF_006349735.2
+GCF_006489235.1	Bacillus velezensis	data/raw/genomes/cohort21/GCF_006489235.1.fna	no	Complete Genome	99.41	0.01	GCF_006489235.1
+GCF_007676595.1	Bacillus nitratireducens	data/raw/genomes/cohort21/GCF_007676595.1.fna	no	Scaffold	99.41	0.3	GCF_007676595.1
+GCF_007681065.1	Bacillus nitratireducens	data/raw/genomes/cohort21/GCF_007681065.1.fna	no	Scaffold	99.41	0.34	GCF_007681065.1
+GCF_007681195.1	Bacillus mobilis	data/raw/genomes/cohort21/GCF_007681195.1.fna	no	Scaffold	100	0.78	GCF_007681195.1
+GCF_007681365.1	Bacillus nitratireducens	data/raw/genomes/cohort21/GCF_007681365.1.fna	no	Scaffold	98.82	0.1	GCF_007681365.1
+GCF_007681785.1	Bacillus pseudomycoides	data/raw/genomes/cohort21/GCF_007681785.1.fna	no	Scaffold	99.41	0.12	GCF_007681785.1
+GCF_007682005.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_007682005.1.fna	no	Scaffold	99.41	0.23	GCF_007682005.1
+GCF_008180445.1	Bacillus infantis	data/raw/genomes/cohort21/GCF_008180445.1.fna	no	Contig	99.41	0.07	GCF_008180445.1
+GCF_008180695.1	Bacillus infantis	data/raw/genomes/cohort21/GCF_008180695.1.fna	no	Scaffold	98.82	0.28	GCF_008180695.1
+GCF_008244765.1	Bacillus safensis	data/raw/genomes/cohort21/GCF_008244765.1.fna	no	Complete Genome	99.12	0.29	GCF_008244765.1
+GCF_008274925.1	Bacillus mycoides	data/raw/genomes/cohort21/GCF_008274925.1.fna	no	Complete Genome	99.35	2.06	GCF_008274925.1
+GCF_008365255.1	Bacillus paralicheniformis	data/raw/genomes/cohort21/GCF_008365255.1.fna	no	Complete Genome	98.78	0.05	GCF_008365255.1
+GCF_008807735.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_008807735.1.fna	no	Complete Genome	99.41	0.39	GCF_008807735.1
+GCF_008923265.1	Bacillus mesophilum	data/raw/genomes/cohort21/GCF_008923265.1.fna	no	Contig	99.34	0.7	GCF_008923265.1
+GCF_008923665.1	Bacillus luti	data/raw/genomes/cohort21/GCF_008923665.1.fna	no	Scaffold	99.41	0.29	GCF_008923665.1
+GCF_009183655.1	Bacillus aerolatus	data/raw/genomes/cohort21/GCF_009183655.1.fna	no	Contig	99.24	1.18	GCF_009183655.1
+GCF_009648955.1	Bacillus paranthracis	data/raw/genomes/cohort21/GCF_009648955.1.fna	no	Complete Genome	99.41	0.29	GCF_009648955.1
+GCF_009739945.1	Bacillus luti	data/raw/genomes/cohort21/GCF_009739945.1.fna	no	Complete Genome	98.09	0.1	GCF_009739945.1
+GCF_009935585.1	Bacillus infantis	data/raw/genomes/cohort21/GCF_009935585.1.fna	no	Scaffold	99.41	0.67	GCF_009935585.1
+GCF_010628775.1	Bacillus pacificus	data/raw/genomes/cohort21/GCF_010628775.1.fna	no	Scaffold	98.82	0.01	GCF_010628775.1
+GCF_010669045.1	Bacillus paranthracis	data/raw/genomes/cohort21/GCF_010669045.1.fna	no	Complete Genome	99.41	0.29	GCF_010669045.1
+GCF_011008845.1	Bacillus mesophilus	data/raw/genomes/cohort21/GCF_011008845.1.fna	no	Contig	97.58	1.37	GCF_011008845.1
+GCF_011745685.2	Bacillus rugosus	data/raw/genomes/cohort21/GCF_011745685.2.fna	no	Contig	98.82	0.59	GCF_011745685.2
+GCF_011751575.1	Bacillus albus	data/raw/genomes/cohort21/GCF_011751575.1.fna	no	Scaffold	99.33	0.1	GCF_011751575.1
+GCF_011751595.1	Bacillus albus	data/raw/genomes/cohort21/GCF_011751595.1.fna	no	Scaffold	99.41	0.1	GCF_011751595.1
+GCF_012648005.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_012648005.1.fna	no	Complete Genome	98.82	0.88	GCF_012648005.1
+GCF_012955605.1	Bacillus fonticola	data/raw/genomes/cohort21/GCF_012955605.1.fna	no	Complete Genome	96.98	0.29	GCF_012955605.1
+GCF_013122255.1	Bacillus amyloliquefaciens	data/raw/genomes/cohort21/GCF_013122255.1.fna	no	Complete Genome	98.46	1.02	GCF_013122255.1
+GCF_013122275.1	Bacillus velezensis	data/raw/genomes/cohort21/GCF_013122275.1.fna	no	Complete Genome	99.41	0.07	GCF_013122275.1
+GCF_013267815.1	Bacillus thuringiensis	data/raw/genomes/cohort21/GCF_013267815.1.fna	no	Complete Genome	99.44	0.32	GCF_013267815.1
+GCF_013284455.2	Bacillus cereus	data/raw/genomes/cohort21/GCF_013284455.2.fna	no	Complete Genome	99.22	0.14	GCF_013284455.2
+GCF_013349925.1	Bacillus glycinifermentans	data/raw/genomes/cohort21/GCF_013349925.1.fna	no	Scaffold	98.19	0.59	GCF_013349925.1
+GCF_013867695.1	Bacillus aquiflavi	data/raw/genomes/cohort21/GCF_013867695.1.fna	no	Scaffold	97.5	0.94	GCF_013867695.1
+GCF_014499005.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_014499005.1.fna	no	Scaffold	98.82	0.59	GCF_014499005.1
+GCF_014621755.1	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_014621755.1.fna	no	Complete Genome	98.48	0.59	GCF_014621755.1
+GCF_014764715.1	Bacillus crepusculi	data/raw/genomes/cohort21/GCF_014764715.1.fna	no	Contig	99.12	0.29	GCF_014764715.1
+GCF_014836955.1	Bacillus norwichensis	data/raw/genomes/cohort21/GCF_014836955.1.fna	no	Scaffold	96.96	1.51	GCF_014836955.1
+GCF_014926245.2	Bacillus albus	data/raw/genomes/cohort21/GCF_014926245.2.fna	no	Scaffold	98.82	0.15	GCF_014926245.2
+GCF_015160895.1	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_015160895.1.fna	no	Complete Genome	99.12	0.29	GCF_015160895.1
+GCF_015845675.1	Bacillus xiamenensis	data/raw/genomes/cohort21/GCF_015845675.1.fna	no	Scaffold	99.12	0.15	GCF_015845675.1
+GCF_015999565.1	Bacillus amyloliquefaciens	data/raw/genomes/cohort21/GCF_015999565.1.fna	no	Complete Genome	98.1	0.44	GCF_015999565.1
+GCF_016026855.1	Bacillus tropicus	data/raw/genomes/cohort21/GCF_016026855.1.fna	no	Complete Genome	98.82	0.03	GCF_016026855.1
+GCF_016605985.1	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_016605985.1.fna	no	Complete Genome	98.24	0.1	GCF_016605985.1
+GCF_016890225.1	Bacillus suaedaesalsae	data/raw/genomes/cohort21/GCF_016890225.1.fna	no	Contig	96.18	0.87	GCF_016890225.1
+GCF_016908875.1	Bacillus ectoiniformans	data/raw/genomes/cohort21/GCF_016908875.1.fna	no	Contig	98.82	0.74	GCF_016908875.1
+GCF_016917795.1	Bacillus cereus	data/raw/genomes/cohort21/GCF_016917795.1.fna	no	Complete Genome	99.22	0.29	GCF_016917795.1
+GCF_017948365.1	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_017948365.1.fna	no	Complete Genome	99.12	0.29	GCF_017948365.1
+GCF_018140555.1	Bacillus atrophaeus	data/raw/genomes/cohort21/GCF_018140555.1.fna	no	Complete Genome	99.12	0.59	GCF_018140555.1
+GCF_018141025.1	Bacillus nitratireducens	data/raw/genomes/cohort21/GCF_018141025.1.fna	no	Complete Genome	99.41	0.1	GCF_018141025.1
+GCF_018332475.1	Bacillus sanguinis	data/raw/genomes/cohort21/GCF_018332475.1.fna	no	Contig	99.41	0.3	GCF_018332475.1
+GCF_018332515.1	Bacillus hominis	data/raw/genomes/cohort21/GCF_018332515.1.fna	no	Contig	99.31	0.42	GCF_018332515.1
+GCF_018390475.2	Bacillus cabrialesii	data/raw/genomes/cohort21/GCF_018390475.2.fna	no	Contig	98.82	0.29	GCF_018390475.2
+GCF_018736705.1	Bacillus mycoides	data/raw/genomes/cohort21/GCF_018736705.1.fna	no	Complete Genome	99.41	0.29	GCF_018736705.1
+GCF_018736725.1	Bacillus mycoides	data/raw/genomes/cohort21/GCF_018736725.1.fna	no	Complete Genome	99.41	0.31	GCF_018736725.1
+GCF_018736745.1	Bacillus mycoides	data/raw/genomes/cohort21/GCF_018736745.1.fna	no	Complete Genome	99.41	0.2	GCF_018736745.1
+GCF_018739305.1	Bacillus mycoides	data/raw/genomes/cohort21/GCF_018739305.1.fna	no	Complete Genome	99.41	2.06	GCF_018739305.1
+GCF_018739365.1	Bacillus mycoides	data/raw/genomes/cohort21/GCF_018739365.1.fna	no	Complete Genome	99.41	2.06	GCF_018739365.1
+GCF_018739485.1	Bacillus mycoides	data/raw/genomes/cohort21/GCF_018739485.1.fna	no	Complete Genome	99.41	2.21	GCF_018739485.1
+GCF_018739545.1	Bacillus mycoides	data/raw/genomes/cohort21/GCF_018739545.1.fna	no	Complete Genome	99.41	1.29	GCF_018739545.1
+GCF_018739605.1	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_018739605.1.fna	no	Complete Genome	99.41	0.2	GCF_018739605.1
+GCF_018739625.1	Bacillus mycoides	data/raw/genomes/cohort21/GCF_018739625.1.fna	no	Complete Genome	99.41	0.29	GCF_018739625.1
+GCF_018741125.1	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_018741125.1.fna	no	Complete Genome	98.82	0.1	GCF_018741125.1
+GCF_018741165.1	Bacillus mycoides	data/raw/genomes/cohort21/GCF_018741165.1.fna	no	Complete Genome	99.41	0.2	GCF_018741165.1
+GCF_018741285.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_018741285.1.fna	no	Complete Genome	99.41	1.76	GCF_018741285.1
+GCF_018741405.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_018741405.1.fna	no	Complete Genome	99.41	0.1	GCF_018741405.1
+GCF_018741465.1	Bacillus mycoides	data/raw/genomes/cohort21/GCF_018741465.1.fna	no	Complete Genome	99.41	0.29	GCF_018741465.1
+GCF_018741505.1	Bacillus mycoides	data/raw/genomes/cohort21/GCF_018741505.1.fna	no	Complete Genome	99.41	0.2	GCF_018741505.1
+GCF_018741545.1	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_018741545.1.fna	no	Complete Genome	99.41	0.1	GCF_018741545.1
+GCF_018741585.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_018741585.1.fna	no	Complete Genome	98.82	0.03	GCF_018741585.1
+GCF_018779945.3	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_018779945.3.fna	no	Complete Genome	99.41	0.1	GCF_018779945.3
+GCF_018829645.1	Bacillus cabrialesii	data/raw/genomes/cohort21/GCF_018829645.1.fna	no	Contig	98.82	0.59	GCF_018829645.1
+GCF_018916635.1	Bacillus albus	data/raw/genomes/cohort21/GCF_018916635.1.fna	no	Contig	99.41	0.1	GCF_018916635.1
+GCF_019656155.1	Bacillus paramobilis	data/raw/genomes/cohort21/GCF_019656155.1.fna	no	Contig	99.41	1.2	GCF_019656155.1
+GCF_019693775.1	Bacillus aerophilus	data/raw/genomes/cohort21/GCF_019693775.1.fna	no	Contig	98.33	0.2	GCF_019693775.1
+GCF_019704155.2	Bacillus cereus	data/raw/genomes/cohort21/GCF_019704155.2.fna	no	Complete Genome	99.22	0.15	GCF_019704155.2
+GCF_019753385.1	Bacillus bingmayongensis	data/raw/genomes/cohort21/GCF_019753385.1.fna	no	Scaffold	99.31	0.6	GCF_019753385.1
+GCF_020171425.1	Bacillus stratosphericus	data/raw/genomes/cohort21/GCF_020171425.1.fna	no	Contig	99.12	0.29	GCF_020171425.1
+GCF_020171945.1	Bacillus infantis	data/raw/genomes/cohort21/GCF_020171945.1.fna	no	Contig	99.41	0.36	GCF_020171945.1
+GCF_020172015.1	Bacillus stratosphericus	data/raw/genomes/cohort21/GCF_020172015.1.fna	no	Contig	99.12	0.29	GCF_020172015.1
+GCF_020172065.1	Bacillus infantis	data/raw/genomes/cohort21/GCF_020172065.1.fna	no	Contig	99.41	0.28	GCF_020172065.1
+GCF_020519665.1	Bacillus shivajii	data/raw/genomes/cohort21/GCF_020519665.1.fna	no	Complete Genome	97.16	1.21	GCF_020519665.1
+GCF_020524495.1	Bacillus stratosphericus	data/raw/genomes/cohort21/GCF_020524495.1.fna	no	Contig	98.33	0.2	GCF_020524495.1
+GCF_020686145.1	Bacillus pacificus	data/raw/genomes/cohort21/GCF_020686145.1.fna	no	Scaffold	98.82	0.59	GCF_020686145.1
+GCF_020686565.1	Bacillus pacificus	data/raw/genomes/cohort21/GCF_020686565.1.fna	no	Scaffold	99.41	0.1	GCF_020686565.1
+GCF_020686605.1	Bacillus pacificus	data/raw/genomes/cohort21/GCF_020686605.1.fna	no	Scaffold	99.41	0.1	GCF_020686605.1
+GCF_021233135.1	Bacillus amyloliquefaciens	data/raw/genomes/cohort21/GCF_021233135.1.fna	no	Complete Genome	98.26	0.94	GCF_021233135.1
+GCF_021398835.1	Bacillus safensis	data/raw/genomes/cohort21/GCF_021398835.1.fna	no	Complete Genome	99.12	0.29	GCF_021398835.1
+GCF_021560155.1	Bacillus aerophilus	data/raw/genomes/cohort21/GCF_021560155.1.fna	no	Complete Genome	98.82	0.59	GCF_021560155.1
+GCF_021654755.1	Bacillus paralicheniformis	data/raw/genomes/cohort21/GCF_021654755.1.fna	no	Complete Genome	98.78	0.05	GCF_021654755.1
+GCF_022170805.1	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_022170805.1.fna	no	Complete Genome	99.41	0.1	GCF_022170805.1
+GCF_022458745.1	Bacillus piscicola	data/raw/genomes/cohort21/GCF_022458745.1.fna	no	Contig	95.27	1.39	GCF_022458745.1
+GCF_022532085.1	Bacillus mycoides	data/raw/genomes/cohort21/GCF_022532085.1.fna	no	Complete Genome	99.34	1.98	GCF_022532085.1
+GCF_022700755.1	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_022700755.1.fna	no	Complete Genome	99.12	0.1	GCF_022700755.1
+GCF_022700915.1	Bacillus licheniformis	data/raw/genomes/cohort21/GCF_022700915.1.fna	no	Complete Genome	98.21	1.22	GCF_022700915.1
+GCF_022808645.1	Bacillus litorisediminis	data/raw/genomes/cohort21/GCF_022808645.1.fna	no	Scaffold	98.57	0.71	GCF_022808645.1
+GCF_022808785.1	Bacillus litorisediminis	data/raw/genomes/cohort21/GCF_022808785.1.fna	no	Scaffold	98.57	0.12	GCF_022808785.1
+GCF_022810705.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_022810705.1.fna	no	Complete Genome	99.41	0.29	GCF_022810705.1
+GCF_023022945.1	Bacillus glycinifermentans	data/raw/genomes/cohort21/GCF_023022945.1.fna	no	Complete Genome	98.78	0.29	GCF_023022945.1
+GCF_023036475.1	Bacillus pinisoli	data/raw/genomes/cohort21/GCF_023036475.1.fna	no	Contig	97.65	0.07	GCF_023036475.1
+GCF_023148655.1	Bacillus infantis	data/raw/genomes/cohort21/GCF_023148655.1.fna	no	Scaffold	99.41	0.87	GCF_023148655.1
+GCF_023159405.1	Bacillus tropicus	data/raw/genomes/cohort21/GCF_023159405.1.fna	no	Complete Genome	99.41	0.03	GCF_023159405.1
+GCF_023238285.1	Bacillus amyloliquefaciens	data/raw/genomes/cohort21/GCF_023238285.1.fna	no	Complete Genome	98.02	0.75	GCF_023238285.1
+GCF_023507735.1	Bacillus zhangzhouensis	data/raw/genomes/cohort21/GCF_023507735.1.fna	no	Contig	99.12	0.29	GCF_023507735.1
+GCF_023703335.1	Bacillus stercoris	data/raw/genomes/cohort21/GCF_023703335.1.fna	no	Contig	95.98	0.12	GCF_023703335.1
+GCF_023824075.1	Bacillus bombysepticus	data/raw/genomes/cohort21/GCF_023824075.1.fna	no	Complete Genome	99.12	0.05	GCF_023824075.1
+GCF_023824115.1	Bacillus paranthracis	data/raw/genomes/cohort21/GCF_023824115.1.fna	no	Complete Genome	99.41	0.29	GCF_023824115.1
+GCF_023920485.1	Bacillus vallismortis	data/raw/genomes/cohort21/GCF_023920485.1.fna	no	Chromosome	98.76	0.59	GCF_023920485.1
+GCF_024205365.1	Bacillus paranthracis	data/raw/genomes/cohort21/GCF_024205365.1.fna	no	Complete Genome	99.41	0.29	GCF_024205365.1
+GCF_024266645.1	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_024266645.1.fna	no	Complete Genome	98.82	0.59	GCF_024266645.1
+GCF_024510645.1	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_024510645.1.fna	no	Complete Genome	98.82	0.29	GCF_024510645.1
+GCF_024706405.2	Bacillus infantis	data/raw/genomes/cohort21/GCF_024706405.2.fna	no	Contig	99.41	0.21	GCF_024706405.2
+GCF_024919115.1	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_024919115.1.fna	no	Complete Genome	99.41	0.29	GCF_024919115.1
+GCF_025309755.1	Bacillus safensis	data/raw/genomes/cohort21/GCF_025309755.1.fna	no	Complete Genome	99.12	0.29	GCF_025309755.1
+GCF_025516705.1	Bacillus tropicus	data/raw/genomes/cohort21/GCF_025516705.1.fna	no	Scaffold	99.41	0.03	GCF_025516705.1
+GCF_025517935.1	Bacillus tropicus	data/raw/genomes/cohort21/GCF_025517935.1.fna	no	Scaffold	99.41	0.12	GCF_025517935.1
+GCF_025518305.1	Bacillus mobilis	data/raw/genomes/cohort21/GCF_025518305.1.fna	no	Scaffold	99.41	0.11	GCF_025518305.1
+GCF_025518925.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_025518925.1.fna	no	Scaffold	99.41	0.1	GCF_025518925.1
+GCF_025519065.1	Bacillus mobilis	data/raw/genomes/cohort21/GCF_025519065.1.fna	no	Scaffold	99.41	0.29	GCF_025519065.1
+GCF_025519075.1	Bacillus pacificus	data/raw/genomes/cohort21/GCF_025519075.1.fna	no	Scaffold	99.41	0.29	GCF_025519075.1
+GCF_025519105.1	Bacillus pacificus	data/raw/genomes/cohort21/GCF_025519105.1.fna	no	Scaffold	99.41	0.11	GCF_025519105.1
+GCF_025809355.1	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_025809355.1.fna	no	Complete Genome	98.82	0.38	GCF_025809355.1
+GCF_025857215.1	Bacillus velezensis	data/raw/genomes/cohort21/GCF_025857215.1.fna	no	Complete Genome	99.41	0.07	GCF_025857215.1
+GCF_025916425.1	Bacillus pretiosus	data/raw/genomes/cohort21/GCF_025916425.1.fna	no	Contig	98.82	0.1	GCF_025916425.1
+GCF_026013885.1	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_026013885.1.fna	no	Complete Genome	98.82	0.29	GCF_026013885.1
+GCF_026221135.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_026221135.1.fna	no	Scaffold	99.41	0.52	GCF_026221135.1
+GCF_026788285.1	Bacillus inaquosorum	data/raw/genomes/cohort21/GCF_026788285.1.fna	no	Scaffold	98.7	0.01	GCF_026788285.1
+GCF_026788305.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_026788305.1.fna	no	Scaffold	98.78	0.59	GCF_026788305.1
+GCF_026788725.1	Bacillus sonorensis	data/raw/genomes/cohort21/GCF_026788725.1.fna	no	Scaffold	99.41	1.37	GCF_026788725.1
+GCF_026789145.1	Bacillus inaquosorum	data/raw/genomes/cohort21/GCF_026789145.1.fna	no	Scaffold	98.82	0.1	GCF_026789145.1
+GCF_026789545.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_026789545.1.fna	no	Scaffold	98.78	0.07	GCF_026789545.1
+GCF_026789585.1	Bacillus sonorensis	data/raw/genomes/cohort21/GCF_026789585.1.fna	no	Scaffold	99.35	1.37	GCF_026789585.1
+GCF_026789745.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_026789745.1.fna	no	Scaffold	98.19	0.59	GCF_026789745.1
+GCF_026789965.1	Bacillus inaquosorum	data/raw/genomes/cohort21/GCF_026789965.1.fna	no	Scaffold	98.82	0.59	GCF_026789965.1
+GCF_026790005.1	Bacillus inaquosorum	data/raw/genomes/cohort21/GCF_026790005.1.fna	no	Scaffold	98.5	0.03	GCF_026790005.1
+GCF_026790175.1	Bacillus inaquosorum	data/raw/genomes/cohort21/GCF_026790175.1.fna	no	Scaffold	98.77	0.88	GCF_026790175.1
+GCF_026790305.1	Bacillus inaquosorum	data/raw/genomes/cohort21/GCF_026790305.1.fna	no	Scaffold	98.19	1.23	GCF_026790305.1
+GCF_026790635.1	Bacillus inaquosorum	data/raw/genomes/cohort21/GCF_026790635.1.fna	no	Scaffold	98.4	0.2	GCF_026790635.1
+GCF_026790945.1	Bacillus vallismortis	data/raw/genomes/cohort21/GCF_026790945.1.fna	no	Scaffold	98.81	0.29	GCF_026790945.1
+GCF_026791075.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_026791075.1.fna	no	Scaffold	98.78	0.01	GCF_026791075.1
+GCF_026791255.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_026791255.1.fna	no	Scaffold	98.78	0.59	GCF_026791255.1
+GCF_026791285.1	Bacillus inaquosorum	data/raw/genomes/cohort21/GCF_026791285.1.fna	no	Scaffold	98.77	0.01	GCF_026791285.1
+GCF_026792035.1	Bacillus vallismortis	data/raw/genomes/cohort21/GCF_026792035.1.fna	no	Scaffold	98.29	0.59	GCF_026792035.1
+GCF_026792075.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_026792075.1.fna	no	Scaffold	98.48	0.69	GCF_026792075.1
+GCF_026792135.1	Bacillus sonorensis	data/raw/genomes/cohort21/GCF_026792135.1.fna	no	Scaffold	99.4	0.78	GCF_026792135.1
+GCF_026792205.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_026792205.1.fna	no	Scaffold	98.78	0.15	GCF_026792205.1
+GCF_026792345.1	Bacillus vallismortis	data/raw/genomes/cohort21/GCF_026792345.1.fna	no	Scaffold	98.31	0.32	GCF_026792345.1
+GCF_026792395.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_026792395.1.fna	no	Scaffold	98.78	0.07	GCF_026792395.1
+GCF_026792595.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_026792595.1.fna	no	Scaffold	99.07	0.06	GCF_026792595.1
+GCF_026792635.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_026792635.1.fna	no	Scaffold	98.78	0.59	GCF_026792635.1
+GCF_026792735.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_026792735.1.fna	no	Scaffold	98.78	0.01	GCF_026792735.1
+GCF_026793285.1	Bacillus inaquosorum	data/raw/genomes/cohort21/GCF_026793285.1.fna	no	Scaffold	98.36	0.01	GCF_026793285.1
+GCF_026793595.1	Bacillus inaquosorum	data/raw/genomes/cohort21/GCF_026793595.1.fna	no	Scaffold	98.18	0.39	GCF_026793595.1
+GCF_026794575.1	Bacillus atrophaeus	data/raw/genomes/cohort21/GCF_026794575.1.fna	no	Scaffold	99.12	0.29	GCF_026794575.1
+GCF_026794685.1	Bacillus inaquosorum	data/raw/genomes/cohort21/GCF_026794685.1.fna	no	Scaffold	98.76	0.01	GCF_026794685.1
+GCF_026794895.1	Bacillus inaquosorum	data/raw/genomes/cohort21/GCF_026794895.1.fna	no	Scaffold	98.69	0.03	GCF_026794895.1
+GCF_026795055.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_026795055.1.fna	no	Scaffold	98.82	0.01	GCF_026795055.1
+GCF_026795615.1	Bacillus atrophaeus	data/raw/genomes/cohort21/GCF_026795615.1.fna	no	Scaffold	99.12	0.29	GCF_026795615.1
+GCF_026795775.1	Bacillus inaquosorum	data/raw/genomes/cohort21/GCF_026795775.1.fna	no	Scaffold	98.82	0.89	GCF_026795775.1
+GCF_026796415.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_026796415.1.fna	no	Scaffold	98.78	0.01	GCF_026796415.1
+GCF_026796785.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_026796785.1.fna	no	Scaffold	98.78	0.36	GCF_026796785.1
+GCF_026967595.1	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_026967595.1.fna	no	Complete Genome	98.82	0.29	GCF_026967595.1
+GCF_027594445.1	Bacillus safensis	data/raw/genomes/cohort21/GCF_027594445.1.fna	no	Complete Genome	99.12	0.29	GCF_027594445.1
+GCF_027660765.1	Bacillus mobilis	data/raw/genomes/cohort21/GCF_027660765.1.fna	no	Scaffold	99.41	0.15	GCF_027660765.1
+GCF_027661285.1	Bacillus mobilis	data/raw/genomes/cohort21/GCF_027661285.1.fna	no	Scaffold	99.41	0.16	GCF_027661285.1
+GCF_027687995.1	Bacillus glycinifermentans	data/raw/genomes/cohort21/GCF_027687995.1.fna	no	Scaffold	98.19	0.59	GCF_027687995.1
+GCF_027692035.1	Bacillus smithii	data/raw/genomes/cohort21/GCF_027692035.1.fna	no	Scaffold	98.67	0.59	GCF_027692035.1
+GCF_027695295.1	Bacillus mobilis	data/raw/genomes/cohort21/GCF_027695295.1.fna	no	Scaffold	99.41	0.01	GCF_027695295.1
+GCF_027706145.1	Bacillus changyiensis	data/raw/genomes/cohort21/GCF_027706145.1.fna	no	Scaffold	98.95	0.59	GCF_027706145.1
+GCF_027945115.1	Bacillus paranthracis	data/raw/genomes/cohort21/GCF_027945115.1.fna	no	Complete Genome	99.41	0.97	GCF_027945115.1
+GCF_028462265.1	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_028462265.1.fna	yes	Contig	99.12	0.59	GCF_028462265.1
+GCF_029000405.1	Bacillus paralicheniformis	data/raw/genomes/cohort21/GCF_029000405.1.fna	no	Complete Genome	98.78	0.05	GCF_029000405.1
+GCF_029025045.1	Bacillus velezensis	data/raw/genomes/cohort21/GCF_029025045.1.fna	no	Complete Genome	99.41	0.01	GCF_029025045.1
+GCF_029282725.1	Bacillus paranthracis	data/raw/genomes/cohort21/GCF_029282725.1.fna	no	Complete Genome	99.41	0.59	GCF_029282725.1
+GCF_029536915.2	Bacillus safensis	data/raw/genomes/cohort21/GCF_029536915.2.fna	no	Complete Genome	99.11	0.29	GCF_029536915.2
+GCF_029581095.1	Bacillus atrophaeus	data/raw/genomes/cohort21/GCF_029581095.1.fna	no	Complete Genome	97.85	0.59	GCF_029581095.1
+GCF_029634685.1	Bacillus pumilus	data/raw/genomes/cohort21/GCF_029634685.1.fna	no	Complete Genome	95.5	2.6	GCF_029634685.1
+GCF_029772985.1	Bacillus stercoris	data/raw/genomes/cohort21/GCF_029772985.1.fna	no	Complete Genome	99.2	0.51	GCF_029772985.1
+GCF_029850315.1	Bacillus cytotoxicus	data/raw/genomes/cohort21/GCF_029850315.1.fna	no	Contig	98.82	0.1	GCF_029850315.1
+GCF_029857515.2	Bacillus pumilus	data/raw/genomes/cohort21/GCF_029857515.2.fna	no	Complete Genome	95.31	2.17	GCF_029857515.2
+GCF_029894105.1	Bacillus aerius	data/raw/genomes/cohort21/GCF_029894105.1.fna	no	Contig	98.48	0.29	GCF_029894105.1
+GCF_030011555.1	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_030011555.1.fna	no	Complete Genome	99.12	0.29	GCF_030011555.1
+GCF_030062185.1	Bacillus bombysepticus	data/raw/genomes/cohort21/GCF_030062185.1.fna	no	Scaffold	99.41	3.17	GCF_030062185.1
+GCF_030122825.1	Bacillus pumilus	data/raw/genomes/cohort21/GCF_030122825.1.fna	no	Complete Genome	96.54	3.54	GCF_030122825.1
+GCF_030122965.1	Bacillus safensis	data/raw/genomes/cohort21/GCF_030122965.1.fna	no	Complete Genome	99.12	0.29	GCF_030122965.1
+GCF_030123125.1	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_030123125.1.fna	no	Complete Genome	99.12	0.29	GCF_030123125.1
+GCF_030123185.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_030123185.1.fna	no	Complete Genome	98.82	0.1	GCF_030123185.1
+GCF_030166595.1	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_030166595.1.fna	no	Complete Genome	99.12	0.29	GCF_030166595.1
+GCF_030166995.1	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_030166995.1.fna	no	Complete Genome	98.82	0.1	GCF_030166995.1
+GCF_030167035.1	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_030167035.1.fna	no	Complete Genome	99.41	0.1	GCF_030167035.1
+GCF_030272035.1	Bacillus bombysepticus	data/raw/genomes/cohort21/GCF_030272035.1.fna	no	Complete Genome	99.33	0.1	GCF_030272035.1
+GCF_030291295.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_030291295.1.fna	no	Complete Genome	98.82	0.29	GCF_030291295.1
+GCF_030292035.1	Bacillus safensis	data/raw/genomes/cohort21/GCF_030292035.1.fna	no	Complete Genome	99.12	0.29	GCF_030292035.1
+GCF_030292135.1	Bacillus albus	data/raw/genomes/cohort21/GCF_030292135.1.fna	no	Complete Genome	98.82	0.1	GCF_030292135.1
+GCF_030348325.1	Bacillus hominis	data/raw/genomes/cohort21/GCF_030348325.1.fna	no	Contig	99.31	0.15	GCF_030348325.1
+GCF_030348535.1	Bacillus hominis	data/raw/genomes/cohort21/GCF_030348535.1.fna	no	Contig	99.31	0.44	GCF_030348535.1
+GCF_030348585.1	Bacillus hominis	data/raw/genomes/cohort21/GCF_030348585.1.fna	no	Contig	99.31	0.15	GCF_030348585.1
+GCF_030348965.1	Bacillus bombysepticus	data/raw/genomes/cohort21/GCF_030348965.1.fna	no	Contig	99.41	1.57	GCF_030348965.1
+GCF_030385675.1	Bacillus aerophilus	data/raw/genomes/cohort21/GCF_030385675.1.fna	no	Contig	99.12	0.29	GCF_030385675.1
+GCF_030520185.1	Bacillus licheniformis	data/raw/genomes/cohort21/GCF_030520185.1.fna	no	Complete Genome	98.15	2.21	GCF_030520185.1
+GCF_030704245.1	Bacillus mycoides	data/raw/genomes/cohort21/GCF_030704245.1.fna	no	Complete Genome	99.41	0.29	GCF_030704245.1
+GCF_030717805.1	Bacillus pumilus	data/raw/genomes/cohort21/GCF_030717805.1.fna	no	Complete Genome	95.64	3.76	GCF_030717805.1
+GCF_030756675.1	Bacillus multifaciens	data/raw/genomes/cohort21/GCF_030756675.1.fna	no	Contig	98.82	0.76	GCF_030756675.1
+GCF_030845295.1	Bacillus safensis	data/raw/genomes/cohort21/GCF_030845295.1.fna	no	Complete Genome	99.12	0.29	GCF_030845295.1
+GCF_030938565.1	Bacillus salipaludis	data/raw/genomes/cohort21/GCF_030938565.1.fna	no	Contig	97.96	4.63	GCF_030938565.1
+GCF_031169915.1	Bacillus thuringiensis	data/raw/genomes/cohort21/GCF_031169915.1.fna	no	Complete Genome	99.2	0.32	GCF_031169915.1
+GCF_031195075.1	Bacillus zhangzhouensis	data/raw/genomes/cohort21/GCF_031195075.1.fna	no	Scaffold	99.12	0.29	GCF_031195075.1
+GCF_031316595.1	Bacillus pseudomycoides	data/raw/genomes/cohort21/GCF_031316595.1.fna	no	Scaffold	99.41	2.35	GCF_031316595.1
+GCF_031316625.1	Bacillus nitratireducens	data/raw/genomes/cohort21/GCF_031316625.1.fna	no	Scaffold	99.41	1.19	GCF_031316625.1
+GCF_031316815.1	Bacillus pacificus	data/raw/genomes/cohort21/GCF_031316815.1.fna	no	Scaffold	98.82	0.93	GCF_031316815.1
+GCF_031316955.1	Bacillus tropicus	data/raw/genomes/cohort21/GCF_031316955.1.fna	no	Scaffold	99.41	1.42	GCF_031316955.1
+GCF_031317525.1	Bacillus tequilensis	data/raw/genomes/cohort21/GCF_031317525.1.fna	no	Scaffold	98.82	0.15	GCF_031317525.1
+GCF_031357045.1	Bacillus tropicus	data/raw/genomes/cohort21/GCF_031357045.1.fna	no	Complete Genome	98.82	0.62	GCF_031357045.1
+GCF_032008825.1	Bacillus luti	data/raw/genomes/cohort21/GCF_032008825.1.fna	no	Scaffold	97.11	1.45	GCF_032008825.1
+GCF_032461835.1	Bacillus cabrialesii	data/raw/genomes/cohort21/GCF_032461835.1.fna	no	Contig	98.82	0.59	GCF_032461835.1
+GCF_032681085.1	Bacillus mycoides	data/raw/genomes/cohort21/GCF_032681085.1.fna	no	Complete Genome	99.41	0.29	GCF_032681085.1
+GCF_033342835.1	Bacillus infantis	data/raw/genomes/cohort21/GCF_033342835.1.fna	no	Scaffold	99.41	0.28	GCF_033342835.1
+GCF_033568485.1	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_033568485.1.fna	no	Complete Genome	98.82	0.59	GCF_033568485.1
+GCF_033841795.2	Bacillus cereus	data/raw/genomes/cohort21/GCF_033841795.2.fna	no	Complete Genome	99.41	0.11	GCF_033841795.2
+GCF_034055115.1	Bacillus sonorensis	data/raw/genomes/cohort21/GCF_034055115.1.fna	no	Complete Genome	99.41	0.79	GCF_034055115.1
+GCF_034427855.1	Bacillus bingmayongensis	data/raw/genomes/cohort21/GCF_034427855.1.fna	no	Contig	99.31	0.59	GCF_034427855.1
+GCF_035580465.1	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_035580465.1.fna	no	Complete Genome	99.12	0.29	GCF_035580465.1
+GCF_035805255.1	Bacillus glycinifermentans	data/raw/genomes/cohort21/GCF_035805255.1.fna	no	Scaffold	98.78	1.18	GCF_035805255.1
+GCF_035808975.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_035808975.1.fna	no	Scaffold	98.82	0.88	GCF_035808975.1
+GCF_035809855.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_035809855.1.fna	no	Scaffold	98.78	0.59	GCF_035809855.1
+GCF_035809915.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_035809915.1.fna	no	Scaffold	98.78	0.59	GCF_035809915.1
+GCF_035810015.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_035810015.1.fna	no	Scaffold	98.78	0.59	GCF_035810015.1
+GCF_035810035.1	Bacillus sonorensis	data/raw/genomes/cohort21/GCF_035810035.1.fna	no	Scaffold	99.41	0.78	GCF_035810035.1
+GCF_035810055.1	Bacillus sonorensis	data/raw/genomes/cohort21/GCF_035810055.1.fna	no	Scaffold	99.41	0.78	GCF_035810055.1
+GCF_035810075.1	Bacillus sonorensis	data/raw/genomes/cohort21/GCF_035810075.1.fna	no	Scaffold	99.41	1.37	GCF_035810075.1
+GCF_035810135.1	Bacillus sonorensis	data/raw/genomes/cohort21/GCF_035810135.1.fna	no	Scaffold	99.41	1.37	GCF_035810135.1
+GCF_035810295.1	Bacillus spizizenii	data/raw/genomes/cohort21/GCF_035810295.1.fna	no	Scaffold	98.82	0.29	GCF_035810295.1
+GCF_035810315.1	Bacillus spizizenii	data/raw/genomes/cohort21/GCF_035810315.1.fna	no	Scaffold	98.82	0.59	GCF_035810315.1
+GCF_035810335.1	Bacillus spizizenii	data/raw/genomes/cohort21/GCF_035810335.1.fna	no	Scaffold	98.82	0.3	GCF_035810335.1
+GCF_035810555.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_035810555.1.fna	no	Scaffold	98.78	0.15	GCF_035810555.1
+GCF_035810735.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_035810735.1.fna	no	Scaffold	98.82	0.29	GCF_035810735.1
+GCF_035810775.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_035810775.1.fna	no	Scaffold	98.82	0.3	GCF_035810775.1
+GCF_035810795.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_035810795.1.fna	no	Scaffold	98.82	0.29	GCF_035810795.1
+GCF_035810825.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_035810825.1.fna	no	Scaffold	98.82	0.29	GCF_035810825.1
+GCF_035810895.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_035810895.1.fna	no	Scaffold	99.41	0.59	GCF_035810895.1
+GCF_035810915.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_035810915.1.fna	no	Scaffold	99.41	0.96	GCF_035810915.1
+GCF_035810935.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_035810935.1.fna	no	Scaffold	98.82	0.29	GCF_035810935.1
+GCF_035810995.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_035810995.1.fna	no	Scaffold	98.82	0.59	GCF_035810995.1
+GCF_035811035.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_035811035.1.fna	no	Scaffold	99.41	1.18	GCF_035811035.1
+GCF_035811075.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_035811075.1.fna	no	Scaffold	98.82	0.88	GCF_035811075.1
+GCF_035813395.1	Bacillus spizizenii	data/raw/genomes/cohort21/GCF_035813395.1.fna	no	Scaffold	98.82	0.3	GCF_035813395.1
+GCF_035813405.1	Bacillus spizizenii	data/raw/genomes/cohort21/GCF_035813405.1.fna	no	Scaffold	98.63	0.2	GCF_035813405.1
+GCF_035814455.1	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_035814455.1.fna	no	Scaffold	99.41	0.08	GCF_035814455.1
+GCF_035816175.1	Bacillus tropicus	data/raw/genomes/cohort21/GCF_035816175.1.fna	no	Scaffold	99.41	0.49	GCF_035816175.1
+GCF_035816275.1	Bacillus tropicus	data/raw/genomes/cohort21/GCF_035816275.1.fna	no	Scaffold	99.39	4.65	GCF_035816275.1
+GCF_035822975.1	Bacillus spizizenii	data/raw/genomes/cohort21/GCF_035822975.1.fna	no	Scaffold	98.82	0.59	GCF_035822975.1
+GCF_036208205.1	Bacillus smithii	data/raw/genomes/cohort21/GCF_036208205.1.fna	no	Scaffold	98.67	0.29	GCF_036208205.1
+GCF_036209045.1	Bacillus spizizenii	data/raw/genomes/cohort21/GCF_036209045.1.fna	no	Scaffold	98.82	0.29	GCF_036209045.1
+GCF_036209155.1	Bacillus pacificus	data/raw/genomes/cohort21/GCF_036209155.1.fna	no	Scaffold	99.35	0.07	GCF_036209155.1
+GCF_036209245.1	Bacillus inaquosorum	data/raw/genomes/cohort21/GCF_036209245.1.fna	no	Scaffold	98.82	0.1	GCF_036209245.1
+GCF_036209345.1	Bacillus mobilis	data/raw/genomes/cohort21/GCF_036209345.1.fna	no	Scaffold	99.41	0.39	GCF_036209345.1
+GCF_036209425.1	Bacillus mobilis	data/raw/genomes/cohort21/GCF_036209425.1.fna	no	Scaffold	99.41	0.39	GCF_036209425.1
+GCF_036209465.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_036209465.1.fna	no	Scaffold	99.41	0.51	GCF_036209465.1
+GCF_036209515.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_036209515.1.fna	no	Scaffold	99.41	0.29	GCF_036209515.1
+GCF_036209565.1	Bacillus mobilis	data/raw/genomes/cohort21/GCF_036209565.1.fna	no	Scaffold	99.41	0.54	GCF_036209565.1
+GCF_036209585.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_036209585.1.fna	no	Scaffold	99.41	0.51	GCF_036209585.1
+GCF_036209665.1	Bacillus nitratireducens	data/raw/genomes/cohort21/GCF_036209665.1.fna	no	Scaffold	98.82	0.69	GCF_036209665.1
+GCF_036209835.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_036209835.1.fna	no	Scaffold	99.41	0.39	GCF_036209835.1
+GCF_036209885.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_036209885.1.fna	no	Scaffold	99.31	0.39	GCF_036209885.1
+GCF_036209905.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_036209905.1.fna	no	Scaffold	99.41	0.51	GCF_036209905.1
+GCF_036209965.1	Bacillus capparidis	data/raw/genomes/cohort21/GCF_036209965.1.fna	no	Scaffold	98.48	2.28	GCF_036209965.1
+GCF_036211605.1	Bacillus pacificus	data/raw/genomes/cohort21/GCF_036211605.1.fna	no	Scaffold	99.41	0.1	GCF_036211605.1
+GCF_036211625.1	Bacillus smithii	data/raw/genomes/cohort21/GCF_036211625.1.fna	no	Scaffold	98.67	1.18	GCF_036211625.1
+GCF_036211645.1	Bacillus smithii	data/raw/genomes/cohort21/GCF_036211645.1.fna	no	Scaffold	98.67	0.29	GCF_036211645.1
+GCF_036211705.1	Bacillus salipaludis	data/raw/genomes/cohort21/GCF_036211705.1.fna	no	Scaffold	98.82	4.4	GCF_036211705.1
+GCF_036211985.1	Bacillus proteolyticus	data/raw/genomes/cohort21/GCF_036211985.1.fna	no	Scaffold	99.41	0.29	GCF_036211985.1
+GCF_036212065.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_036212065.1.fna	no	Scaffold	99.41	0.69	GCF_036212065.1
+GCF_036212125.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_036212125.1.fna	no	Scaffold	99.35	0.59	GCF_036212125.1
+GCF_036212185.1	Bacillus pacificus	data/raw/genomes/cohort21/GCF_036212185.1.fna	no	Scaffold	99.22	0.88	GCF_036212185.1
+GCF_036212665.1	Bacillus zhangzhouensis	data/raw/genomes/cohort21/GCF_036212665.1.fna	no	Scaffold	99.12	0.29	GCF_036212665.1
+GCF_036214245.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_036214245.1.fna	no	Scaffold	99.41	0.1	GCF_036214245.1
+GCF_036216845.1	Bacillus swezeyi	data/raw/genomes/cohort21/GCF_036216845.1.fna	no	Scaffold	99.41	0.59	GCF_036216845.1
+GCF_036216905.1	Bacillus swezeyi	data/raw/genomes/cohort21/GCF_036216905.1.fna	no	Scaffold	98.63	0.24	GCF_036216905.1
+GCF_036221205.1	Bacillus mobilis	data/raw/genomes/cohort21/GCF_036221205.1.fna	no	Scaffold	99.41	0.11	GCF_036221205.1
+GCF_036222085.1	Bacillus atrophaeus	data/raw/genomes/cohort21/GCF_036222085.1.fna	no	Scaffold	99.12	0.15	GCF_036222085.1
+GCF_036225025.1	Bacillus atrophaeus	data/raw/genomes/cohort21/GCF_036225025.1.fna	no	Scaffold	99.12	0.01	GCF_036225025.1
+GCF_036225085.1	Bacillus atrophaeus	data/raw/genomes/cohort21/GCF_036225085.1.fna	no	Scaffold	99.12	0.01	GCF_036225085.1
+GCF_036225765.1	Bacillus smithii	data/raw/genomes/cohort21/GCF_036225765.1.fna	no	Scaffold	98.67	0.59	GCF_036225765.1
+GCF_036226085.1	Bacillus siamensis	data/raw/genomes/cohort21/GCF_036226085.1.fna	no	Scaffold	99.8	0.13	GCF_036226085.1
+GCF_036287315.1	Bacillus albus	data/raw/genomes/cohort21/GCF_036287315.1.fna	no	Complete Genome	98.82	0.1	GCF_036287315.1
+GCF_036347615.1	Bacillus amyloliquefaciens	data/raw/genomes/cohort21/GCF_036347615.1.fna	no	Complete Genome	98.11	0.97	GCF_036347615.1
+GCF_036620775.1	Bacillus infantis	data/raw/genomes/cohort21/GCF_036620775.1.fna	no	Contig	99.41	0.28	GCF_036620775.1
+GCF_036700035.1	Bacillus licheniformis	data/raw/genomes/cohort21/GCF_036700035.1.fna	no	Complete Genome	98.23	2.43	GCF_036700035.1
+GCF_036785745.1	Bacillus spizizenii	data/raw/genomes/cohort21/GCF_036785745.1.fna	no	Complete Genome	99.41	0.29	GCF_036785745.1
+GCF_037024155.1	Bacillus spongicola	data/raw/genomes/cohort21/GCF_037024155.1.fna	no	Scaffold	96.86	0.2	GCF_037024155.1
+GCF_037027085.1	Bacillus paramobilis	data/raw/genomes/cohort21/GCF_037027085.1.fna	no	Contig	98.82	0.1	GCF_037027085.1
+GCF_037094765.1	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_037094765.1.fna	no	Complete Genome	99.12	0.29	GCF_037094765.1
+GCF_037094775.1	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_037094775.1.fna	no	Complete Genome	99.12	0.29	GCF_037094775.1
+GCF_037094785.1	Bacillus safensis	data/raw/genomes/cohort21/GCF_037094785.1.fna	no	Complete Genome	99.12	0.3	GCF_037094785.1
+GCF_037104695.1	Bacillus yunxiaonensis	data/raw/genomes/cohort21/GCF_037104695.1.fna	no	Contig	99.41	4.31	GCF_037104695.1
+GCF_037104725.1	Bacillus bruguierae	data/raw/genomes/cohort21/GCF_037104725.1.fna	no	Scaffold	98.82	0.1	GCF_037104725.1
+GCF_037120725.1	Bacillus spongiae	data/raw/genomes/cohort21/GCF_037120725.1.fna	no	Scaffold	97.06	1.59	GCF_037120725.1
+GCF_037120745.1	Bacillus albus	data/raw/genomes/cohort21/GCF_037120745.1.fna	no	Contig	99.41	0.1	GCF_037120745.1
+GCF_037120905.1	Bacillus luti	data/raw/genomes/cohort21/GCF_037120905.1.fna	no	Contig	99.41	0.11	GCF_037120905.1
+GCF_037144555.1	Bacillus bombysepticus	data/raw/genomes/cohort21/GCF_037144555.1.fna	no	Contig	98.82	3.58	GCF_037144555.1
+GCF_037152575.1	Bacillus infantis	data/raw/genomes/cohort21/GCF_037152575.1.fna	no	Contig	99.41	0.28	GCF_037152575.1
+GCF_037201805.1	Bacillus kandeliae	data/raw/genomes/cohort21/GCF_037201805.1.fna	no	Chromosome	99.2	0.74	GCF_037201805.1
+GCF_037907185.1	Bacillus smithii	data/raw/genomes/cohort21/GCF_037907185.1.fna	no	Scaffold	98.67	0.36	GCF_037907185.1
+GCF_037907225.1	Bacillus smithii	data/raw/genomes/cohort21/GCF_037907225.1.fna	no	Scaffold	98.67	0.29	GCF_037907225.1
+GCF_037907705.1	Bacillus paramobilis	data/raw/genomes/cohort21/GCF_037907705.1.fna	no	Contig	99.41	0.1	GCF_037907705.1
+GCF_037937215.1	Bacillus proteolyticus	data/raw/genomes/cohort21/GCF_037937215.1.fna	no	Contig	98.82	0.29	GCF_037937215.1
+GCF_038096195.1	Bacillus paramobilis	data/raw/genomes/cohort21/GCF_038096195.1.fna	no	Complete Genome	99.41	0.1	GCF_038096195.1
+GCF_039519175.1	Bacillus atrophaeus	data/raw/genomes/cohort21/GCF_039519175.1.fna	no	Complete Genome	99.12	1.18	GCF_039519175.1
+GCF_039522365.1	Bacillus carboniphilus	data/raw/genomes/cohort21/GCF_039522365.1.fna	no	Contig	98.11	0.79	GCF_039522365.1
+GCF_039581685.1	Bacillus aerius	data/raw/genomes/cohort21/GCF_039581685.1.fna	no	Contig	99.12	0.29	GCF_039581685.1
+GCF_039619455.1	Bacillus licheniformis	data/raw/genomes/cohort21/GCF_039619455.1.fna	no	Complete Genome	98.52	1.56	GCF_039619455.1
+GCF_039619585.1	Bacillus safensis	data/raw/genomes/cohort21/GCF_039619585.1.fna	no	Complete Genome	99.06	0.29	GCF_039619585.1
+GCF_039619595.1	Bacillus safensis	data/raw/genomes/cohort21/GCF_039619595.1.fna	no	Complete Genome	99.12	0.29	GCF_039619595.1
+GCF_039698855.1	Bacillus paramobilis	data/raw/genomes/cohort21/GCF_039698855.1.fna	no	Complete Genome	98.82	0.69	GCF_039698855.1
+GCF_040250345.1	Bacillus pumilus	data/raw/genomes/cohort21/GCF_040250345.1.fna	no	Complete Genome	95.63	3.6	GCF_040250345.1
+GCF_040448665.1	Bacillus cereus	data/raw/genomes/cohort21/GCF_040448665.1.fna	no	Complete Genome	99.41	0.1	GCF_040448665.1
+GCF_040459755.1	Bacillus fungorum	data/raw/genomes/cohort21/GCF_040459755.1.fna	no	Contig	99.41	0.71	GCF_040459755.1
+GCF_040492435.1	Bacillus nitratireducens	data/raw/genomes/cohort21/GCF_040492435.1.fna	no	Contig	99.41	0.59	GCF_040492435.1
+GCF_040500475.1	Bacillus maqinnsis	data/raw/genomes/cohort21/GCF_040500475.1.fna	no	Complete Genome	98.92	0.29	GCF_040500475.1
+GCF_040703065.1	Bacillus infantis	data/raw/genomes/cohort21/GCF_040703065.1.fna	no	Chromosome	99.41	0.28	GCF_040703065.1
+GCF_040712045.1	Bacillus velezensis	data/raw/genomes/cohort21/GCF_040712045.1.fna	no	Complete Genome	99.41	0.01	GCF_040712045.1
+GCF_040712145.1	Bacillus velezensis	data/raw/genomes/cohort21/GCF_040712145.1.fna	no	Complete Genome	99.41	0.01	GCF_040712145.1
+GCF_040712265.1	Bacillus pumilus	data/raw/genomes/cohort21/GCF_040712265.1.fna	no	Complete Genome	95.05	1.41	GCF_040712265.1
+GCF_040712275.1	Bacillus thuringiensis	data/raw/genomes/cohort21/GCF_040712275.1.fna	no	Complete Genome	99.37	1.3	GCF_040712275.1
+GCF_040784975.1	Bacillus inaquosorum	data/raw/genomes/cohort21/GCF_040784975.1.fna	no	Scaffold	98.82	0.08	GCF_040784975.1
+GCF_040813755.2	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_040813755.2.fna	no	Complete Genome	99.41	0.1	GCF_040813755.2
+GCF_040815695.1	Bacillus nitratireducens	data/raw/genomes/cohort21/GCF_040815695.1.fna	no	Scaffold	99.41	1.37	GCF_040815695.1
+GCF_040829845.1	Bacillus pseudomycoides	data/raw/genomes/cohort21/GCF_040829845.1.fna	no	Scaffold	99.41	0.12	GCF_040829845.1
+GCF_040893075.1	Bacillus pumilus	data/raw/genomes/cohort21/GCF_040893075.1.fna	no	Complete Genome	95.22	1.53	GCF_040893075.1
+GCF_041222785.1	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_041222785.1.fna	no	Complete Genome	98.82	0.29	GCF_041222785.1
+GCF_041501465.1	Bacillus spizizenii	data/raw/genomes/cohort21/GCF_041501465.1.fna	no	Complete Genome	98.82	0.29	GCF_041501465.1
+GCF_042137715.1	Bacillus cytotoxicus	data/raw/genomes/cohort21/GCF_042137715.1.fna	no	Contig	98.24	0.1	GCF_042137715.1
+GCF_042137835.1	Bacillus albus	data/raw/genomes/cohort21/GCF_042137835.1.fna	no	Contig	99.41	0.1	GCF_042137835.1
+GCF_042262445.1	Bacillus haynesii	data/raw/genomes/cohort21/GCF_042262445.1.fna	no	Scaffold	98.78	0.98	GCF_042262445.1
+GCF_042649685.1	Bacillus songklensis	data/raw/genomes/cohort21/GCF_042649685.1.fna	no	Scaffold	99.41	1.74	GCF_042649685.1
+GCF_042651685.1	Bacillus chungangensis	data/raw/genomes/cohort21/GCF_042651685.1.fna	no	Scaffold	96.76	0.5	GCF_042651685.1
+GCF_042680805.1	Bacillus salitolerans	data/raw/genomes/cohort21/GCF_042680805.1.fna	no	Scaffold	97.65	2.1	GCF_042680805.1
+GCF_042684945.1	Bacillus seohaeanensis	data/raw/genomes/cohort21/GCF_042684945.1.fna	no	Scaffold	99.41	0.39	GCF_042684945.1
+GCF_042723635.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_042723635.1.fna	no	Scaffold	99.41	0.1	GCF_042723635.1
+GCF_044197055.1	Bacillus luti	data/raw/genomes/cohort21/GCF_044197055.1.fna	no	Scaffold	99.41	0.11	GCF_044197055.1
+GCF_044764055.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_044764055.1.fna	no	Scaffold	99.41	0.22	GCF_044764055.1
+GCF_044764165.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_044764165.1.fna	no	Scaffold	99.41	0.1	GCF_044764165.1
+GCF_044891285.1	Bacillus lumedeiriae	data/raw/genomes/cohort21/GCF_044891285.1.fna	no	Contig	97.84	0.47	GCF_044891285.1
+GCF_045257875.1	Bacillus salipaludis	data/raw/genomes/cohort21/GCF_045257875.1.fna	no	Contig	98.82	2.86	GCF_045257875.1
+GCF_045278805.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_045278805.1.fna	no	Complete Genome	98.82	0.25	GCF_045278805.1
+GCF_045348155.1	Bacillus pacificus	data/raw/genomes/cohort21/GCF_045348155.1.fna	no	Complete Genome	99.41	0.1	GCF_045348155.1
+GCF_045370175.1	Bacillus bombysepticus	data/raw/genomes/cohort21/GCF_045370175.1.fna	no	Scaffold	99.38	1.76	GCF_045370175.1
+GCF_045371125.1	Bacillus nitratireducens	data/raw/genomes/cohort21/GCF_045371125.1.fna	no	Scaffold	99.41	0.2	GCF_045371125.1
+GCF_045819965.1	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_045819965.1.fna	no	Complete Genome	99.12	0.01	GCF_045819965.1
+GCF_046245155.1	Bacillus safensis	data/raw/genomes/cohort21/GCF_046245155.1.fna	no	Complete Genome	99.12	0.29	GCF_046245155.1
+GCF_046267865.1	Bacillus amyloliquefaciens	data/raw/genomes/cohort21/GCF_046267865.1.fna	no	Complete Genome	98.34	0.77	GCF_046267865.1
+GCF_046267945.1	Bacillus safensis	data/raw/genomes/cohort21/GCF_046267945.1.fna	no	Complete Genome	99.12	0.29	GCF_046267945.1
+GCF_046267965.1	Bacillus spizizenii	data/raw/genomes/cohort21/GCF_046267965.1.fna	no	Complete Genome	98.82	0.29	GCF_046267965.1
+GCF_046592475.1	Bacillus infantis	data/raw/genomes/cohort21/GCF_046592475.1.fna	no	Contig	99.41	0.28	GCF_046592475.1
+GCF_047049285.1	Bacillus thuringiensis	data/raw/genomes/cohort21/GCF_047049285.1.fna	no	Complete Genome	99.19	0.94	GCF_047049285.1
+GCF_047238185.1	Bacillus kalamii	data/raw/genomes/cohort21/GCF_047238185.1.fna	no	Scaffold	97.87	2.65	GCF_047238185.1
+GCF_047238305.1	Bacillus jepli	data/raw/genomes/cohort21/GCF_047238305.1.fna	no	Contig	97.01	4.56	GCF_047238305.1
+GCF_047301015.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_047301015.1.fna	no	Complete Genome	98.82	1.18	GCF_047301015.1
+GCF_047314925.1	Bacillus australimaris	data/raw/genomes/cohort21/GCF_047314925.1.fna	no	Contig	98.92	0.29	GCF_047314925.1
+GCF_048270625.1	Bacillus haimaensis	data/raw/genomes/cohort21/GCF_048270625.1.fna	no	Complete Genome	95.05	0.2	GCF_048270625.1
+GCF_048537405.1	Bacillus subtilis	data/raw/genomes/cohort21/GCF_048537405.1.fna	no	Complete Genome	98.62	0.91	GCF_048537405.1
+GCF_048551435.1	Bacillus spizizenii	data/raw/genomes/cohort21/GCF_048551435.1.fna	no	Scaffold	98.82	0.29	GCF_048551435.1
+GCF_049177075.1	Bacillus salacetis	data/raw/genomes/cohort21/GCF_049177075.1.fna	no	Complete Genome	97.45	1.78	GCF_049177075.1
+GCF_049262535.1	Bacillus thuringiensis	data/raw/genomes/cohort21/GCF_049262535.1.fna	no	Complete Genome	99.58	0.6	GCF_049262535.1
+GCF_049534995.1	Bacillus bombysepticus	data/raw/genomes/cohort21/GCF_049534995.1.fna	no	Scaffold	99.41	0.07	GCF_049534995.1
+GCF_049543315.1	Bacillus bombysepticus	data/raw/genomes/cohort21/GCF_049543315.1.fna	no	Scaffold	99.24	0.59	GCF_049543315.1
+GCF_049543415.1	Bacillus bombysepticus	data/raw/genomes/cohort21/GCF_049543415.1.fna	no	Scaffold	99.41	0.2	GCF_049543415.1
+GCF_049543515.1	Bacillus bombysepticus	data/raw/genomes/cohort21/GCF_049543515.1.fna	no	Scaffold	98.82	0.12	GCF_049543515.1
+GCF_050017575.1	Bacillus stercoris	data/raw/genomes/cohort21/GCF_050017575.1.fna	no	Contig	99.41	0.59	GCF_050017575.1
+GCF_050107315.1	Bacillus infantis	data/raw/genomes/cohort21/GCF_050107315.1.fna	no	Contig	99.41	0.36	GCF_050107315.1
+GCF_050107335.1	Bacillus infantis	data/raw/genomes/cohort21/GCF_050107335.1.fna	no	Contig	99.41	0.07	GCF_050107335.1
+GCF_050107475.1	Bacillus infantis	data/raw/genomes/cohort21/GCF_050107475.1.fna	no	Contig	99.41	0.07	GCF_050107475.1
+GCF_050107595.1	Bacillus infantis	data/raw/genomes/cohort21/GCF_050107595.1.fna	no	Contig	99.41	0.22	GCF_050107595.1
+GCF_050210255.1	Bacillus pseudomycoides	data/raw/genomes/cohort21/GCF_050210255.1.fna	no	Complete Genome	99.3	0.12	GCF_050210255.1
+GCF_050210445.1	Bacillus mycoides	data/raw/genomes/cohort21/GCF_050210445.1.fna	no	Complete Genome	99.41	0.29	GCF_050210445.1
+GCF_050268685.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_050268685.1.fna	no	Scaffold	99.31	0.39	GCF_050268685.1
+GCF_050279165.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_050279165.1.fna	no	Scaffold	99.41	0.29	GCF_050279165.1
+GCF_050279905.1	Bacillus mobilis	data/raw/genomes/cohort21/GCF_050279905.1.fna	no	Scaffold	99.41	0.1	GCF_050279905.1
+GCF_050280005.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_050280005.1.fna	no	Scaffold	99.41	1.1	GCF_050280005.1
+GCF_050378775.1	Bacillus inaquosorum	data/raw/genomes/cohort21/GCF_050378775.1.fna	no	Scaffold	98.82	0.29	GCF_050378775.1
+GCF_050455705.1	Bacillus siamensis	data/raw/genomes/cohort21/GCF_050455705.1.fna	no	Contig	99.41	0.2	GCF_050455705.1
+GCF_050455945.1	Bacillus albus	data/raw/genomes/cohort21/GCF_050455945.1.fna	no	Contig	99.41	0.1	GCF_050455945.1
+GCF_050456465.1	Bacillus paramobilis	data/raw/genomes/cohort21/GCF_050456465.1.fna	no	Scaffold	99.41	0.69	GCF_050456465.1
+GCF_050456785.1	Bacillus rhizoplanae	data/raw/genomes/cohort21/GCF_050456785.1.fna	no	Scaffold	98.82	0.19	GCF_050456785.1
+GCF_050457825.1	Bacillus pacificus	data/raw/genomes/cohort21/GCF_050457825.1.fna	no	Scaffold	99.41	0.1	GCF_050457825.1
+GCF_050457925.1	Bacillus tropicus	data/raw/genomes/cohort21/GCF_050457925.1.fna	no	Scaffold	99.18	0.03	GCF_050457925.1
+GCF_050458565.1	Bacillus albus	data/raw/genomes/cohort21/GCF_050458565.1.fna	no	Scaffold	99.41	0.1	GCF_050458565.1
+GCF_050459945.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_050459945.1.fna	no	Scaffold	99.41	0.29	GCF_050459945.1
+GCF_050459985.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_050459985.1.fna	no	Scaffold	99.41	0.39	GCF_050459985.1
+GCF_050460645.1	Bacillus paramobilis	data/raw/genomes/cohort21/GCF_050460645.1.fna	no	Scaffold	99.41	0.69	GCF_050460645.1
+GCF_050464565.1	Bacillus sonorensis	data/raw/genomes/cohort21/GCF_050464565.1.fna	no	Scaffold	99.41	0.78	GCF_050464565.1
+GCF_050465705.1	Bacillus smithii	data/raw/genomes/cohort21/GCF_050465705.1.fna	no	Scaffold	98.08	0.29	GCF_050465705.1
+GCF_050466145.1	Bacillus salipaludis	data/raw/genomes/cohort21/GCF_050466145.1.fna	no	Scaffold	98.82	3.93	GCF_050466145.1
+GCF_050467385.1	Bacillus smithii	data/raw/genomes/cohort21/GCF_050467385.1.fna	no	Contig	98.67	0.29	GCF_050467385.1
+GCF_050474025.1	Bacillus bombysepticus	data/raw/genomes/cohort21/GCF_050474025.1.fna	no	Contig	98.82	0.44	GCF_050474025.1
+GCF_050478545.1	Bacillus gobiensis	data/raw/genomes/cohort21/GCF_050478545.1.fna	no	Contig	98.77	1.54	GCF_050478545.1
+GCF_050478565.1	Bacillus gobiensis	data/raw/genomes/cohort21/GCF_050478565.1.fna	no	Contig	98.77	1.54	GCF_050478565.1
+GCF_050478585.1	Bacillus gobiensis	data/raw/genomes/cohort21/GCF_050478585.1.fna	no	Contig	98.77	1.54	GCF_050478585.1
+GCF_050478605.1	Bacillus gobiensis	data/raw/genomes/cohort21/GCF_050478605.1.fna	no	Contig	98.77	1.84	GCF_050478605.1
+GCF_050481045.1	Bacillus smithii	data/raw/genomes/cohort21/GCF_050481045.1.fna	no	Contig	98.59	0.07	GCF_050481045.1
+GCF_050481085.1	Bacillus smithii	data/raw/genomes/cohort21/GCF_050481085.1.fna	no	Contig	98.67	0.65	GCF_050481085.1
+GCF_050481205.1	Bacillus smithii	data/raw/genomes/cohort21/GCF_050481205.1.fna	no	Contig	98.38	0.44	GCF_050481205.1
+GCF_050586445.1	Bacillus coreaensis	data/raw/genomes/cohort21/GCF_050586445.1.fna	no	Contig	95.88	1.26	GCF_050586445.1
+GCF_050627155.1	Bacillus luti	data/raw/genomes/cohort21/GCF_050627155.1.fna	no	Contig	99.41	0.01	GCF_050627155.1
+GCF_050627195.1	Bacillus pretiosus	data/raw/genomes/cohort21/GCF_050627195.1.fna	no	Contig	99.41	0.1	GCF_050627195.1
+GCF_050627545.1	Bacillus hominis	data/raw/genomes/cohort21/GCF_050627545.1.fna	no	Contig	98.73	0.12	GCF_050627545.1
+GCF_050627655.1	Bacillus cytotoxicus	data/raw/genomes/cohort21/GCF_050627655.1.fna	no	Contig	98.82	0.1	GCF_050627655.1
+GCF_050628075.1	Bacillus pretiosus	data/raw/genomes/cohort21/GCF_050628075.1.fna	no	Contig	99.41	0.1	GCF_050628075.1
+GCF_050628525.1	Bacillus pretiosus	data/raw/genomes/cohort21/GCF_050628525.1.fna	no	Contig	98.82	0.39	GCF_050628525.1
+GCF_050630285.1	Bacillus pretiosus	data/raw/genomes/cohort21/GCF_050630285.1.fna	no	Contig	99.41	0.42	GCF_050630285.1
+GCF_050768835.1	Bacillus pfraonensis	data/raw/genomes/cohort21/GCF_050768835.1.fna	no	Contig	99.12	0.05	GCF_050768835.1
+GCF_050871175.1	Bacillus cereus	data/raw/genomes/cohort21/GCF_050871175.1.fna	no	Complete Genome	99.22	0.06	GCF_050871175.1
+GCF_050876405.1	Bacillus cytotoxicus	data/raw/genomes/cohort21/GCF_050876405.1.fna	no	Contig	98.82	0.15	GCF_050876405.1
+GCF_050876425.1	Bacillus cytotoxicus	data/raw/genomes/cohort21/GCF_050876425.1.fna	no	Contig	98.82	0.52	GCF_050876425.1
+GCF_050876605.1	Bacillus cytotoxicus	data/raw/genomes/cohort21/GCF_050876605.1.fna	no	Contig	98.82	0.1	GCF_050876605.1
+GCF_050876625.1	Bacillus cytotoxicus	data/raw/genomes/cohort21/GCF_050876625.1.fna	no	Contig	98.82	0.69	GCF_050876625.1
+GCF_051166975.1	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_051166975.1.fna	no	Complete Genome	98.82	0.01	GCF_051166975.1
+GCF_051294775.1	Bacillus pretiosus	data/raw/genomes/cohort21/GCF_051294775.1.fna	no	Scaffold	99.41	1.69	GCF_051294775.1
+GCF_051413595.1	Bacillus fungorum	data/raw/genomes/cohort21/GCF_051413595.1.fna	no	Contig	99.41	0.05	GCF_051413595.1
+GCF_051788185.1	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_051788185.1.fna	no	Complete Genome	98.82	0.29	GCF_051788185.1
+GCF_051844135.1	Bacillus pacificus	data/raw/genomes/cohort21/GCF_051844135.1.fna	no	Scaffold	99.41	0.1	GCF_051844135.1
+GCF_051902015.1	Bacillus pseudomycoides	data/raw/genomes/cohort21/GCF_051902015.1.fna	no	Complete Genome	98.32	0.12	GCF_051902015.1
+GCF_051904025.1	Bacillus spizizenii	data/raw/genomes/cohort21/GCF_051904025.1.fna	no	Complete Genome	98.82	0.29	GCF_051904025.1
+GCF_051908535.1	Bacillus stercoris	data/raw/genomes/cohort21/GCF_051908535.1.fna	no	Contig	99.41	0.05	GCF_051908535.1
+GCF_051941075.1	Bacillus paralicheniformis	data/raw/genomes/cohort21/GCF_051941075.1.fna	no	Complete Genome	98.78	0.05	GCF_051941075.1
+GCF_052122615.1	Bacillus cereus	data/raw/genomes/cohort21/GCF_052122615.1.fna	no	Complete Genome	99.22	0.38	GCF_052122615.1
+GCF_052373815.1	Bacillus stercoris	data/raw/genomes/cohort21/GCF_052373815.1.fna	no	Scaffold	99.41	0.2	GCF_052373815.1
+GCF_052693275.1	Bacillus stercoris	data/raw/genomes/cohort21/GCF_052693275.1.fna	no	Contig	99.41	0.29	GCF_052693275.1
+GCF_052827745.1	Bacillus sonorensis	data/raw/genomes/cohort21/GCF_052827745.1.fna	no	Complete Genome	99.41	0.21	GCF_052827745.1
+GCF_052828465.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_052828465.1.fna	no	Scaffold	99.41	0.31	GCF_052828465.1
+GCF_052919925.2	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_052919925.2.fna	no	Complete Genome	98.82	0.88	GCF_052919925.2
+GCF_052947635.1	Bacillus pretiosus	data/raw/genomes/cohort21/GCF_052947635.1.fna	no	Complete Genome	98.68	0.67	GCF_052947635.1
+GCF_053456665.1	Bacillus pacificus	data/raw/genomes/cohort21/GCF_053456665.1.fna	no	Contig	99.41	0.07	GCF_053456665.1
+GCF_053551435.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_053551435.1.fna	no	Scaffold	98.82	0.88	GCF_053551435.1
+GCF_053592795.2	Bacillus safensis	data/raw/genomes/cohort21/GCF_053592795.2.fna	no	Complete Genome	99.12	0.29	GCF_053592795.2
+GCF_053669635.1	Bacillus mojavensis	data/raw/genomes/cohort21/GCF_053669635.1.fna	no	Complete Genome	98.82	0.59	GCF_053669635.1
+GCF_053711515.1	Bacillus wiedmannii	data/raw/genomes/cohort21/GCF_053711515.1.fna	no	Scaffold	99.41	0.1	GCF_053711515.1
+GCF_053712175.1	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_053712175.1.fna	no	Scaffold	99.41	0.01	GCF_053712175.1
+GCF_053712295.1	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_053712295.1.fna	no	Scaffold	99.41	0.01	GCF_053712295.1
+GCF_053713015.1	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_053713015.1.fna	no	Scaffold	99.41	0.01	GCF_053713015.1
+GCF_054055345.1	Bacillus paralicheniformis	data/raw/genomes/cohort21/GCF_054055345.1.fna	no	Complete Genome	98.78	0.05	GCF_054055345.1
+GCF_054055455.1	Bacillus pretiosus	data/raw/genomes/cohort21/GCF_054055455.1.fna	no	Complete Genome	98.73	0.1	GCF_054055455.1
+GCF_054112725.1	Bacillus spizizenii	data/raw/genomes/cohort21/GCF_054112725.1.fna	no	Complete Genome	98.79	0.29	GCF_054112725.1
+GCF_054353755.1	Bacillus pseudomycoides	data/raw/genomes/cohort21/GCF_054353755.1.fna	no	Scaffold	99.31	0.12	GCF_054353755.1
+GCF_054483695.1	Bacillus cabrialesii	data/raw/genomes/cohort21/GCF_054483695.1.fna	no	Contig	98.76	0.59	GCF_054483695.1
+GCF_054765815.1	Bacillus luti	data/raw/genomes/cohort21/GCF_054765815.1.fna	no	Contig	99.41	3.76	GCF_054765815.1
+GCF_054765935.1	Bacillus luti	data/raw/genomes/cohort21/GCF_054765935.1.fna	no	Contig	99.41	3.76	GCF_054765935.1
+GCF_054901695.1	Bacillus cereus	data/raw/genomes/cohort21/GCF_054901695.1.fna	no	Complete Genome	99.22	0.06	GCF_054901695.1
+GCF_055454075.1	Bacillus safensis	data/raw/genomes/cohort21/GCF_055454075.1.fna	no	Complete Genome	98.97	0.29	GCF_055454075.1
+GCF_055454115.1	Bacillus amyloliquefaciens	data/raw/genomes/cohort21/GCF_055454115.1.fna	no	Complete Genome	98.2	0.47	GCF_055454115.1
+GCF_055597785.1	Bacillus pumilus	data/raw/genomes/cohort21/GCF_055597785.1.fna	no	Complete Genome	95.25	3.27	GCF_055597785.1
+GCF_055597795.1	Bacillus pumilus	data/raw/genomes/cohort21/GCF_055597795.1.fna	no	Complete Genome	95.2	1.52	GCF_055597795.1
+GCF_055694105.1	Bacillus pumilus	data/raw/genomes/cohort21/GCF_055694105.1.fna	no	Complete Genome	95.88	1.21	GCF_055694105.1
+GCF_055694145.1	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_055694145.1.fna	no	Complete Genome	99.12	0.29	GCF_055694145.1
+GCF_055723885.1	Bacillus licheniformis	data/raw/genomes/cohort21/GCF_055723885.1.fna	no	Complete Genome	98.44	1.65	GCF_055723885.1
+GCF_056108305.1	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_056108305.1.fna	no	Complete Genome	98.82	0.59	GCF_056108305.1
+GCF_056110285.1	Bacillus albus	data/raw/genomes/cohort21/GCF_056110285.1.fna	no	Complete Genome	99.41	0.1	GCF_056110285.1
+GCF_056140555.1	Bacillus albus	data/raw/genomes/cohort21/GCF_056140555.1.fna	no	Complete Genome	99.41	0.1	GCF_056140555.1
+GCF_056159465.1	Bacillus coahuilensis	data/raw/genomes/cohort21/GCF_056159465.1.fna	no	Contig	97.56	0.3	GCF_056159465.1
+GCF_056237715.1	Bacillus pseudomycoides	data/raw/genomes/cohort21/GCF_056237715.1.fna	no	Complete Genome	99.02	0.12	GCF_056237715.1
+GCF_056269705.1	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_056269705.1.fna	no	Complete Genome	98.82	0.29	GCF_056269705.1
+GCF_056312675.1	Bacillus albus	data/raw/genomes/cohort21/GCF_056312675.1.fna	no	Complete Genome	98.82	0.1	GCF_056312675.1
+GCF_056493705.1	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_056493705.1.fna	no	Complete Genome	98.82	0.29	GCF_056493705.1
+GCF_056519215.1	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_056519215.1.fna	no	Complete Genome	98.82	0.29	GCF_056519215.1
+GCF_056530435.1	Bacillus tropicus	data/raw/genomes/cohort21/GCF_056530435.1.fna	no	Complete Genome	99.41	1.18	GCF_056530435.1
+GCF_056679755.1	Bacillus stratosphericus	data/raw/genomes/cohort21/GCF_056679755.1.fna	no	Contig	99.12	0.41	GCF_056679755.1
+GCF_056776625.1	Bacillus paranthracis	data/raw/genomes/cohort21/GCF_056776625.1.fna	no	Complete Genome	99.41	0.29	GCF_056776625.1
+GCF_056776665.1	Bacillus paranthracis	data/raw/genomes/cohort21/GCF_056776665.1.fna	no	Complete Genome	99.41	0.29	GCF_056776665.1
+GCF_056776715.1	Bacillus proteolyticus	data/raw/genomes/cohort21/GCF_056776715.1.fna	no	Complete Genome	99.41	0.66	GCF_056776715.1
+GCF_056777085.1	Bacillus stercoris	data/raw/genomes/cohort21/GCF_056777085.1.fna	no	Contig	99.41	0.6	GCF_056777085.1
+GCF_056856795.1	Bacillus basilensis	data/raw/genomes/cohort21/GCF_056856795.1.fna	no	Complete Genome	99.41	0.01	GCF_056856795.1
+GCF_056930235.1	Bacillus arachidis	data/raw/genomes/cohort21/GCF_056930235.1.fna	no	Contig	98.82	0.59	GCF_056930235.1
+GCF_057198205.1	Bacillus paranthracis	data/raw/genomes/cohort21/GCF_057198205.1.fna	no	Complete Genome	99.41	0.29	GCF_057198205.1
+GCF_057198215.1	Bacillus mobilis	data/raw/genomes/cohort21/GCF_057198215.1.fna	no	Complete Genome	99.41	0.11	GCF_057198215.1
+GCF_057418645.1	Bacillus albus	data/raw/genomes/cohort21/GCF_057418645.1.fna	no	Complete Genome	99.41	0.15	GCF_057418645.1
+GCF_057473945.1	Bacillus hominis	data/raw/genomes/cohort21/GCF_057473945.1.fna	no	Contig	99.31	0.41	GCF_057473945.1
+GCF_057473965.1	Bacillus hominis	data/raw/genomes/cohort21/GCF_057473965.1.fna	no	Contig	99.07	0.29	GCF_057473965.1
+GCF_057589135.1	Bacillus luti	data/raw/genomes/cohort21/GCF_057589135.1.fna	no	Contig	99.41	0.11	GCF_057589135.1
+GCF_057625015.1	Bacillus paralicheniformis	data/raw/genomes/cohort21/GCF_057625015.1.fna	no	Complete Genome	98.78	0.05	GCF_057625015.1
+GCF_057655295.1	Bacillus safensis	data/raw/genomes/cohort21/GCF_057655295.1.fna	no	Complete Genome	99.12	0.29	GCF_057655295.1
+GCF_057748915.1	Bacillus cereus	data/raw/genomes/cohort21/GCF_057748915.1.fna	no	Complete Genome	99.22	0.19	GCF_057748915.1
+GCF_057814095.1	Bacillus canaveralius	data/raw/genomes/cohort21/GCF_057814095.1.fna	no	Contig	99.22	0.78	GCF_057814095.1
+GCF_058167685.1	Bacillus velezensis	data/raw/genomes/cohort21/GCF_058167685.1.fna	no	Complete Genome	99.41	0.05	GCF_058167685.1
+GCF_058245305.1	Bacillus bombysepticus	data/raw/genomes/cohort21/GCF_058245305.1.fna	no	Contig	98.82	0.15	GCF_058245305.1
+GCF_058245515.1	Bacillus bombysepticus	data/raw/genomes/cohort21/GCF_058245515.1.fna	no	Contig	99.41	0.29	GCF_058245515.1
+GCF_058626435.1	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_058626435.1.fna	no	Complete Genome	99.12	0.29	GCF_058626435.1
+GCF_059267365.1	Bacillus basilensis	data/raw/genomes/cohort21/GCF_059267365.1.fna	no	Contig	98.24	0.15	GCF_059267365.1
+GCF_059267965.1	Bacillus cytotoxicus	data/raw/genomes/cohort21/GCF_059267965.1.fna	no	Contig	98.82	0.02	GCF_059267965.1
+GCF_059269765.1	Bacillus luti	data/raw/genomes/cohort21/GCF_059269765.1.fna	no	Contig	99.41	0.65	GCF_059269765.1
+GCF_059379545.1	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_059379545.1.fna	no	Complete Genome	99.12	0.29	GCF_059379545.1
+GCF_059579645.1	Bacillus paralicheniformis	data/raw/genomes/cohort21/GCF_059579645.1.fna	no	Complete Genome	98.78	0.05	GCF_059579645.1
+GCF_059620025.1	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_059620025.1.fna	no	Complete Genome	98.82	0.29	GCF_059620025.1
+GCF_059698045.1	Bacillus thuringiensis	data/raw/genomes/cohort21/GCF_059698045.1.fna	no	Complete Genome	99.3	0.84	GCF_059698045.1
+GCF_059740395.1	Bacillus cereus	data/raw/genomes/cohort21/GCF_059740395.1.fna	no	Complete Genome	99.22	0.06	GCF_059740395.1
+GCF_059818205.1	Bacillus stercoris	data/raw/genomes/cohort21/GCF_059818205.1.fna	no	Contig	99.41	0.01	GCF_059818205.1
+GCF_059941625.1	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_059941625.1.fna	no	Complete Genome	99.41	0.1	GCF_059941625.1
+GCF_059947405.1	Bacillus licheniformis	data/raw/genomes/cohort21/GCF_059947405.1.fna	no	Complete Genome	98.12	1.55	GCF_059947405.1
+GCF_060051045.1	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_060051045.1.fna	no	Scaffold	99.41	0.03	GCF_060051045.1
+GCF_060051385.1	Bacillus proteolyticus	data/raw/genomes/cohort21/GCF_060051385.1.fna	no	Scaffold	98.82	0.29	GCF_060051385.1
+GCF_060051555.1	Bacillus basilensis	data/raw/genomes/cohort21/GCF_060051555.1.fna	no	Scaffold	98.82	2.53	GCF_060051555.1
+GCF_060052265.1	Bacillus pretiosus	data/raw/genomes/cohort21/GCF_060052265.1.fna	no	Scaffold	98.82	0.39	GCF_060052265.1
+GCF_060052385.1	Bacillus basilensis	data/raw/genomes/cohort21/GCF_060052385.1.fna	no	Scaffold	99.41	0.34	GCF_060052385.1
+GCF_060052645.1	Bacillus albus	data/raw/genomes/cohort21/GCF_060052645.1.fna	no	Scaffold	99.41	0.29	GCF_060052645.1
+GCF_060058185.1	Bacillus toyonensis	data/raw/genomes/cohort21/GCF_060058185.1.fna	no	Scaffold	99.41	0.08	GCF_060058185.1
+GCF_060145825.1	Bacillus velezensis	data/raw/genomes/cohort21/GCF_060145825.1.fna	no	Complete Genome	99.41	0.07	GCF_060145825.1
+GCF_060512505.1	Bacillus bombysepticus	data/raw/genomes/cohort21/GCF_060512505.1.fna	no	Contig	99.12	0.1	GCF_060512505.1
+GCF_060595295.1	Bacillus stercoris	data/raw/genomes/cohort21/GCF_060595295.1.fna	no	Contig	98.76	0.97	GCF_060595295.1
+GCF_060810765.1	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_060810765.1.fna	no	Complete Genome	99.12	0.29	GCF_060810765.1
+GCF_061143105.1	Bacillus safensis	data/raw/genomes/cohort21/GCF_061143105.1.fna	no	Complete Genome	99.12	0.29	GCF_061143105.1
+GCF_061234905.1	Bacillus smithii	data/raw/genomes/cohort21/GCF_061234905.1.fna	no	Contig	98.67	0.29	GCF_061234905.1
+GCF_061237025.1	Bacillus paramycoides	data/raw/genomes/cohort21/GCF_061237025.1.fna	no	Scaffold	99.41	0.1	GCF_061237025.1
+GCF_061237355.1	Bacillus tropicus	data/raw/genomes/cohort21/GCF_061237355.1.fna	no	Scaffold	99.41	0.62	GCF_061237355.1
+GCF_061338755.1	Bacillus glycinifermentans	data/raw/genomes/cohort21/GCF_061338755.1.fna	no	Contig	98.78	0.59	GCF_061338755.1
+GCF_061339615.1	Bacillus cereus	data/raw/genomes/cohort21/GCF_061339615.1.fna	no	Complete Genome	99.22	0.06	GCF_061339615.1
+GCF_061531785.1	Bacillus hominis	data/raw/genomes/cohort21/GCF_061531785.1.fna	no	Contig	99.31	0.29	GCF_061531785.1
+GCF_061533385.1	Bacillus halotolerans	data/raw/genomes/cohort21/GCF_061533385.1.fna	no	Complete Genome	98.81	0.29	GCF_061533385.1
+GCF_062009787.1	Bacillus safensis	data/raw/genomes/cohort21/GCF_062009787.1.fna	no	Complete Genome	99.12	0.59	GCF_062009787.1
+GCF_062037584.1	Bacillus ayatagriensis	data/raw/genomes/cohort21/GCF_062037584.1.fna	no	Contig	98.56	0.01	GCF_062037584.1
+GCF_062039226.1	Bacillus ayatagriensis	data/raw/genomes/cohort21/GCF_062039226.1.fna	no	Contig	99.41	0.07	GCF_062039226.1
+GCF_062040830.1	Bacillus hominis	data/raw/genomes/cohort21/GCF_062040830.1.fna	no	Contig	98.82	0.29	GCF_062040830.1
+GCF_062041132.1	Bacillus hominis	data/raw/genomes/cohort21/GCF_062041132.1.fna	no	Contig	99.31	0.12	GCF_062041132.1
+GCF_062041180.1	Bacillus luti	data/raw/genomes/cohort21/GCF_062041180.1.fna	no	Contig	99.41	0.1	GCF_062041180.1
+GCF_062041181.1	Bacillus paramobilis	data/raw/genomes/cohort21/GCF_062041181.1.fna	no	Contig	99.41	0.1	GCF_062041181.1
+GCF_062041326.1	Bacillus hominis	data/raw/genomes/cohort21/GCF_062041326.1.fna	no	Contig	98.58	0.16	GCF_062041326.1
+GCF_062041327.1	Bacillus hominis	data/raw/genomes/cohort21/GCF_062041327.1.fna	no	Contig	98.73	0.78	GCF_062041327.1
+GCF_062042241.1	Bacillus swezeyi	data/raw/genomes/cohort21/GCF_062042241.1.fna	no	Contig	97.06	0.15	GCF_062042241.1
+GCF_900098925.1	Bacillus massiliglaciei	data/raw/genomes/cohort21/GCF_900098925.1.fna	no	Scaffold	98.63	0.07	GCF_900098925.1
+GCF_900104575.1	Bacillus tuaregi	data/raw/genomes/cohort21/GCF_900104575.1.fna	no	Scaffold	98.67	2.16	GCF_900104575.1
+GCF_900111815.1	Bacillus massilinigeriensis	data/raw/genomes/cohort21/GCF_900111815.1.fna	no	Scaffold	97.06	1.18	GCF_900111815.1
+GCF_900117315.1	Bacillus massilinigeriensis	data/raw/genomes/cohort21/GCF_900117315.1.fna	no	Scaffold	98.82	0.17	GCF_900117315.1
+GCF_900166645.1	Bacillus sonorensis	data/raw/genomes/cohort21/GCF_900166645.1.fna	no	Scaffold	99.37	0.2	GCF_900166645.1
+GCF_900176845.1	Bacillus mobilis	data/raw/genomes/cohort21/GCF_900176845.1.fna	no	Scaffold	99.41	0.1	GCF_900176845.1
+GCF_900207585.1	Bacillus oleivorans	data/raw/genomes/cohort21/GCF_900207585.1.fna	no	Scaffold	98.99	3.06	GCF_900207585.1
+GCF_902168435.1	Bacillus marasmi	data/raw/genomes/cohort21/GCF_902168435.1.fna	no	Scaffold	96.91	2.02	GCF_902168435.1
+GCF_917563915.1	Bacillus rhizoplanae	data/raw/genomes/cohort21/GCF_917563915.1.fna	no	Scaffold	99.35	0.07	GCF_917563915.1
+GCF_964021195.1	Bacillus nitroreducens	data/raw/genomes/cohort21/GCF_964021195.1.fna	no	Contig	97.25	2.84	GCF_964021195.1
+GCF_964063375.1	Bacillus pumilus	data/raw/genomes/cohort21/GCF_964063375.1.fna	no	Complete Genome	95.49	3.09	GCF_964063375.1
+GCF_965138955.1	Bacillus luti	data/raw/genomes/cohort21/GCF_965138955.1.fna	no	Scaffold	99.12	0.16	GCF_965138955.1
+GCF_965138965.1	Bacillus mobilis	data/raw/genomes/cohort21/GCF_965138965.1.fna	no	Scaffold	99.41	0.11	GCF_965138965.1
+GCF_965139005.1	Bacillus albus	data/raw/genomes/cohort21/GCF_965139005.1.fna	no	Scaffold	98.82	0.18	GCF_965139005.1
+GCF_965139495.1	Bacillus manliponensis	data/raw/genomes/cohort21/GCF_965139495.1.fna	no	Scaffold	98.86	2.75	GCF_965139495.1
+GCF_977007725.1	Bacillus pumilus	data/raw/genomes/cohort21/GCF_977007725.1.fna	no	Complete Genome	95.57	3.49	GCF_977007725.1
+GCF_977007745.1	Bacillus licheniformis	data/raw/genomes/cohort21/GCF_977007745.1.fna	no	Complete Genome	98.08	1.98	GCF_977007745.1
+GCF_977971945.1	Bacillus zhangzhouensis	data/raw/genomes/cohort21/GCF_977971945.1.fna	no	Complete Genome	99.12	0.29	GCF_977971945.1
+GCF_979912685.1	Bacillus infantis	data/raw/genomes/cohort21/GCF_979912685.1.fna	no	Complete Genome	99.41	0.21	GCF_979912685.1
+GCF_979925135.1	Bacillus altitudinis	data/raw/genomes/cohort21/GCF_979925135.1.fna	no	Complete Genome	99.12	0.29	GCF_979925135.1
+GCF_979925865.1	Bacillus haikouensis	data/raw/genomes/cohort21/GCF_979925865.1.fna	no	Complete Genome	99.41	1.65	GCF_979925865.1
+GCF_982518325.1	Bacillus safensis	data/raw/genomes/cohort21/GCF_982518325.1.fna	no	Complete Genome	99.12	0.29	GCF_982518325.1
+GCF_982525005.1	Bacillus subtilis	data/raw/genomes/cohort21/GCF_982525005.1.fna	no	Complete Genome	98.62	0.98	GCF_982525005.1
+GCF_988234995.1	Bacillus paranthracis	data/raw/genomes/cohort21/GCF_988234995.1.fna	no	Complete Genome	99.12	0.01	GCF_988234995.1

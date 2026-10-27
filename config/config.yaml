@@ -1,0 +1,36 @@
+# Bacillus biofilm and metal biosorption project
+# Parameters documented from the original analyses.
+# The current Snakefile uses explicit rule parameters;
+# this file is a reference until config integration is completed.
+
+project:
+  name: bmetal
+  genome_cohort_original: 877
+  genome_cohort_functional: 638
+
+ani:
+  min_ani: 99.9
+  min_af_both: 90.0
+  threads: 2
+  max_species: 0
+
+functional_homology:
+  threads: 2
+  sensitivity: 5.7
+  evalue: 1.0e-5
+
+functional_matrix:
+  max_evalue: 1.0e-5
+  min_qcov: 0.7
+  min_pident: 0
+
+marker_associations:
+  permutations: 9999
+  seed: 20261026
+
+paths:
+  selected_cohort: data/processed/genome_cohort_selected.tsv
+  functional_cohort: data/processed/functional_cohort_638.tsv
+  functional_fastas: data/processed/functional_cohort_638_fastas.txt
+  reference_fasta: data/reference/functional_panel/functional_reference_panel_merged.faa
+  reference_catalog: data/reference/functional_panel/functional_reference_panel_merged.tsv

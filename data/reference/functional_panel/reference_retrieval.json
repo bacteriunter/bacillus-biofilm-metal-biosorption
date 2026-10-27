@@ -1,0 +1,380 @@
+{
+  "source": "UniProtKB reviewed",
+  "taxon": "Bacillus taxon 1386",
+  "method": "gene_exact with primary-gene verification",
+  "searches": [
+    {
+      "group": "eps_matrix",
+      "gene": "epsA",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:epsA)",
+      "reviewed_records": 0
+    },
+    {
+      "group": "eps_matrix",
+      "gene": "epsB",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:epsB)",
+      "reviewed_records": 0
+    },
+    {
+      "group": "eps_matrix",
+      "gene": "epsC",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:epsC)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "eps_matrix",
+      "gene": "epsD",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:epsD)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "eps_matrix",
+      "gene": "epsE",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:epsE)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "eps_matrix",
+      "gene": "epsF",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:epsF)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "eps_matrix",
+      "gene": "epsG",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:epsG)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "eps_matrix",
+      "gene": "epsH",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:epsH)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "eps_matrix",
+      "gene": "epsI",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:epsI)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "eps_matrix",
+      "gene": "epsJ",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:epsJ)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "eps_matrix",
+      "gene": "epsK",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:epsK)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "eps_matrix",
+      "gene": "epsL",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:epsL)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "eps_matrix",
+      "gene": "epsM",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:epsM)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "eps_matrix",
+      "gene": "epsN",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:epsN)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "eps_matrix",
+      "gene": "epsO",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:epsO)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "protein_matrix",
+      "gene": "tapA",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:tapA)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "protein_matrix",
+      "gene": "sipW",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:sipW)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "protein_matrix",
+      "gene": "tasA",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:tasA)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "protein_matrix",
+      "gene": "bslA",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:bslA)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "biofilm_regulation",
+      "gene": "sinR",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:sinR)",
+      "reviewed_records": 2
+    },
+    {
+      "group": "biofilm_regulation",
+      "gene": "sinI",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:sinI)",
+      "reviewed_records": 2
+    },
+    {
+      "group": "biofilm_regulation",
+      "gene": "spo0A",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:spo0A)",
+      "reviewed_records": 6
+    },
+    {
+      "group": "biofilm_regulation",
+      "gene": "abrB",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:abrB)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "biofilm_regulation",
+      "gene": "degU",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:degU)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "biofilm_regulation",
+      "gene": "comA",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:comA)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "biofilm_regulation",
+      "gene": "slrR",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:slrR)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "biofilm_regulation",
+      "gene": "remA",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:remA)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "biofilm_regulation",
+      "gene": "remB",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:remB)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "poly_gamma_glutamate",
+      "gene": "pgsA",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:pgsA)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "poly_gamma_glutamate",
+      "gene": "pgsB",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:pgsB)",
+      "reviewed_records": 0
+    },
+    {
+      "group": "poly_gamma_glutamate",
+      "gene": "pgsC",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:pgsC)",
+      "reviewed_records": 0
+    },
+    {
+      "group": "poly_gamma_glutamate",
+      "gene": "pgsE",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:pgsE)",
+      "reviewed_records": 0
+    },
+    {
+      "group": "poly_gamma_glutamate",
+      "gene": "capA",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:capA)",
+      "reviewed_records": 2
+    },
+    {
+      "group": "poly_gamma_glutamate",
+      "gene": "capB",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:capB)",
+      "reviewed_records": 2
+    },
+    {
+      "group": "poly_gamma_glutamate",
+      "gene": "capC",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:capC)",
+      "reviewed_records": 2
+    },
+    {
+      "group": "poly_gamma_glutamate",
+      "gene": "capE",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:capE)",
+      "reviewed_records": 0
+    },
+    {
+      "group": "cell_wall_polymers",
+      "gene": "tagO",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:tagO)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "cell_wall_polymers",
+      "gene": "tagA",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:tagA)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "cell_wall_polymers",
+      "gene": "tagB",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:tagB)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "cell_wall_polymers",
+      "gene": "tagD",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:tagD)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "cell_wall_polymers",
+      "gene": "tagF",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:tagF)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "cell_wall_polymers",
+      "gene": "dltA",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:dltA)",
+      "reviewed_records": 19
+    },
+    {
+      "group": "cell_wall_polymers",
+      "gene": "dltB",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:dltB)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "cell_wall_polymers",
+      "gene": "dltC",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:dltC)",
+      "reviewed_records": 18
+    },
+    {
+      "group": "cell_wall_polymers",
+      "gene": "dltD",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:dltD)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "metal_homeostasis_not_biosorption",
+      "gene": "czcD",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:czcD)",
+      "reviewed_records": 2
+    },
+    {
+      "group": "metal_homeostasis_not_biosorption",
+      "gene": "cadA",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:cadA)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "metal_homeostasis_not_biosorption",
+      "gene": "copA",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:copA)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "metal_homeostasis_not_biosorption",
+      "gene": "copZ",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:copZ)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "metal_homeostasis_not_biosorption",
+      "gene": "csoR",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:csoR)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "metal_homeostasis_not_biosorption",
+      "gene": "arsB",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:arsB)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "metal_homeostasis_not_biosorption",
+      "gene": "arsC",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:arsC)",
+      "reviewed_records": 13
+    },
+    {
+      "group": "metal_homeostasis_not_biosorption",
+      "gene": "arsR",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:arsR)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "metal_homeostasis_not_biosorption",
+      "gene": "mntH",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:mntH)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "metal_homeostasis_not_biosorption",
+      "gene": "mntR",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:mntR)",
+      "reviewed_records": 19
+    },
+    {
+      "group": "metal_homeostasis_not_biosorption",
+      "gene": "zntA",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:zntA)",
+      "reviewed_records": 0
+    },
+    {
+      "group": "metal_homeostasis_not_biosorption",
+      "gene": "znuA",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:znuA)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "metal_homeostasis_not_biosorption",
+      "gene": "znuB",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:znuB)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "metal_homeostasis_not_biosorption",
+      "gene": "znuC",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:znuC)",
+      "reviewed_records": 1
+    },
+    {
+      "group": "metal_homeostasis_not_biosorption",
+      "gene": "zitB",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:zitB)",
+      "reviewed_records": 0
+    },
+    {
+      "group": "metal_homeostasis_not_biosorption",
+      "gene": "fur",
+      "query": "(taxonomy_id:1386) AND (reviewed:true) AND (gene_exact:fur)",
+      "reviewed_records": 1
+    }
+  ],
+  "records": 129,
+  "limitations": [
+    "Reviewed-only coverage is incomplete for many Bacillus lineages",
+    "Gene name matching is not functional verification or orthology",
+    "Metal homeostasis proteins are not biosorption markers",
+    "This is a traceable seed reference library, not a biologically complete curated panel"
+  ]
+}

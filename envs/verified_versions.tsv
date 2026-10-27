@@ -1,0 +1,14 @@
+component	version	source
+Python	3.10.18	active_conda_environment
+numpy	2.2.6	active_conda_environment
+pandas	2.3.2	active_conda_environment
+scipy	1.15.2	active_conda_environment
+matplotlib	3.10.6	active_conda_environment
+statsmodels	0.14.5	active_conda_environment
+openpyxl	3.1.5	active_conda_environment
+snakemake	not_installed	active_conda_environment
+MMseqs2	15-6f452+ds-2	current_PATH
+skani	skani 0.4.0	current_PATH
+SeqKit	seqkit v2.3.0	current_PATH
+NCBI Datasets	datasets version: 18.36.0	current_PATH
+BLAST+	blastp: 2.12.0+	current_PATH

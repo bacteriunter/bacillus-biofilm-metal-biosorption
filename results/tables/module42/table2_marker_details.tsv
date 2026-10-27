@@ -1,0 +1,54 @@
+group	gene	label	genomes	genomes_with_hit	prevalence	total_binary_variance	between_fraction_of_total	within_fraction_of_total
+biofilm_regulation	abrB	biofilm_regulation::abrB	638	638	1.0	0.0		
+biofilm_regulation	comA	biofilm_regulation::comA	638	620	0.97178683	0.0274171834	0.57480031	0.42519969
+biofilm_regulation	degU	biofilm_regulation::degU	638	637	0.9984326	0.0015649414	0.06520147	0.93479853
+biofilm_regulation	remA	biofilm_regulation::remA	638	636	0.9968652	0.0031249693	1.0	0.0
+biofilm_regulation	remB	biofilm_regulation::remB	638	344	0.53918495	0.2484645395	0.98391374	0.01608626
+biofilm_regulation	sinI	biofilm_regulation::sinI	638	188	0.29467085	0.2078399387	1.0	0.0
+biofilm_regulation	sinR	biofilm_regulation::sinR	638	608	0.95297806	0.0448108804	0.9510307	0.0489693
+biofilm_regulation	slrR	biofilm_regulation::slrR	638	268	0.4200627	0.2436100274	0.99678298	0.00321702
+biofilm_regulation	spo0A	biofilm_regulation::spo0A	638	638	1.0	0.0		
+cell_wall_polymers	dltA	cell_wall_polymers::dltA	638	638	1.0	0.0		
+cell_wall_polymers	dltB	cell_wall_polymers::dltB	638	552	0.86520376	0.1166262124	0.97834747	0.02165253
+cell_wall_polymers	dltC	cell_wall_polymers::dltC	638	541	0.84796238	0.1289221804	0.98851772	0.01148228
+cell_wall_polymers	dltD	cell_wall_polymers::dltD	638	540	0.84639498	0.1300105148	0.97756257	0.02243743
+cell_wall_polymers	tagA	cell_wall_polymers::tagA	638	617	0.96708464	0.0318319395	0.87690052	0.12309948
+cell_wall_polymers	tagB	cell_wall_polymers::tagB	638	356	0.55799373	0.2466367272	0.8133304	0.1866696
+cell_wall_polymers	tagD	cell_wall_polymers::tagD	638	355	0.55642633	0.246816069	0.80488406	0.19511594
+cell_wall_polymers	tagF	cell_wall_polymers::tagF	638	188	0.29467085	0.2078399387	0.77733842	0.22266158
+cell_wall_polymers	tagO	cell_wall_polymers::tagO	638	638	1.0	0.0		
+eps_matrix	epsC	eps_matrix::epsC	638	492	0.77115987	0.1764723224	0.67794134	0.32205866
+eps_matrix	epsD	eps_matrix::epsD	638	508	0.79623824	0.1622429025	0.73574865	0.26425135
+eps_matrix	epsE	eps_matrix::epsE	638	491	0.76959248	0.1773198966	0.69965171	0.30034829
+eps_matrix	epsF	eps_matrix::epsF	638	491	0.76959248	0.1773198966	0.7249588	0.2750412
+eps_matrix	epsG	eps_matrix::epsG	638	409	0.64106583	0.2301004314	0.84431251	0.15568749
+eps_matrix	epsH	eps_matrix::epsH	638	425	0.6661442	0.2223961046	0.72703406	0.27296594
+eps_matrix	epsI	eps_matrix::epsI	638	262	0.41065831	0.2420180619	1.0	0.0
+eps_matrix	epsJ	eps_matrix::epsJ	638	340	0.53291536	0.248916579	0.82149642	0.17850358
+eps_matrix	epsK	eps_matrix::epsK	638	258	0.40438871	0.2408584821	0.98455749	0.01544251
+eps_matrix	epsL	eps_matrix::epsL	638	610	0.95611285	0.0419610656	0.59266015	0.40733985
+eps_matrix	epsM	eps_matrix::epsM	638	407	0.63793103	0.2309750297	0.70151483	0.29848517
+eps_matrix	epsN	eps_matrix::epsN	638	531	0.8322884	0.1395844184	0.59476826	0.40523174
+eps_matrix	epsO	eps_matrix::epsO	638	257	0.40282132	0.2405563035	0.99391866	0.00608134
+metal_homeostasis_not_biosorption	arsB	metal_homeostasis_not_biosorption::arsB	638	311	0.48746082	0.2498427688	0.91226067	0.08773933
+metal_homeostasis_not_biosorption	arsC	metal_homeostasis_not_biosorption::arsC	638	636	0.9968652	0.0031249693	1.0	0.0
+metal_homeostasis_not_biosorption	arsR	metal_homeostasis_not_biosorption::arsR	638	448	0.70219436	0.2091174418	0.73446204	0.26553796
+metal_homeostasis_not_biosorption	cadA	metal_homeostasis_not_biosorption::cadA	638	638	1.0	0.0		
+metal_homeostasis_not_biosorption	copA	metal_homeostasis_not_biosorption::copA	638	638	1.0	0.0		
+metal_homeostasis_not_biosorption	copZ	metal_homeostasis_not_biosorption::copZ	638	638	1.0	0.0		
+metal_homeostasis_not_biosorption	csoR	metal_homeostasis_not_biosorption::csoR	638	638	1.0	0.0		
+metal_homeostasis_not_biosorption	czcD	metal_homeostasis_not_biosorption::czcD	638	573	0.89811912	0.0915011645	0.91006847	0.08993153
+metal_homeostasis_not_biosorption	fur	metal_homeostasis_not_biosorption::fur	638	638	1.0	0.0		
+metal_homeostasis_not_biosorption	mntH	metal_homeostasis_not_biosorption::mntH	638	577	0.90438871	0.0864697674	0.95367661	0.04632339
+metal_homeostasis_not_biosorption	mntR	metal_homeostasis_not_biosorption::mntR	638	636	0.9968652	0.0031249693	0.05815863	0.94184137
+metal_homeostasis_not_biosorption	znuA	metal_homeostasis_not_biosorption::znuA	638	638	1.0	0.0		
+metal_homeostasis_not_biosorption	znuB	metal_homeostasis_not_biosorption::znuB	638	637	0.9984326	0.0015649414	0.05407291	0.94592709
+metal_homeostasis_not_biosorption	znuC	metal_homeostasis_not_biosorption::znuC	638	638	1.0	0.0		
+poly_gamma_glutamate	capA	poly_gamma_glutamate::capA	638	510	0.79937304	0.1603757825	0.90149047	0.09850953
+poly_gamma_glutamate	capB	poly_gamma_glutamate::capB	638	259	0.40595611	0.2411557473	0.98181035	0.01818965
+poly_gamma_glutamate	capC	poly_gamma_glutamate::capC	638	260	0.40752351	0.241448099	0.98791831	0.01208169
+poly_gamma_glutamate	pgsA	poly_gamma_glutamate::pgsA	638	638	1.0	0.0		
+protein_matrix	bslA	protein_matrix::bslA	638	254	0.39811912	0.2396202868	0.99509412	0.00490588
+protein_matrix	sipW	protein_matrix::sipW	638	570	0.89341693	0.0952231208	0.87897937	0.12102063
+protein_matrix	tapA	protein_matrix::tapA	638	186	0.29153605	0.2065427816	0.99288556	0.00711444
+protein_matrix	tasA	protein_matrix::tasA	638	553	0.86677116	0.1154789163	0.90163129	0.09836871

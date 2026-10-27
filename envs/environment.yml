@@ -1,0 +1,20 @@
+# Proposed environment specification.
+# Not yet validated by a clean installation.
+name: bmetal_workflow
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python
+  - snakemake
+  - numpy
+  - pandas
+  - scipy
+  - matplotlib
+  - statsmodels
+  - openpyxl
+  - mmseqs2
+  - skani
+  - seqkit
+  - ncbi-datasets-cli
+  - blast
